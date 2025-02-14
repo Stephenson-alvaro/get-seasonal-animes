@@ -1,27 +1,45 @@
-name: Exécuter le script Python
+name: Mise à jour du fichier anime_seasons.json
 
 on:
-  workflow_dispatch:  # Permet de déclencher manuellement le workflow
   schedule:
-    - cron: '0 0 * * *'  # Planifie l'exécution quotidienne à minuit UTC
+    - cron: '0 0 * * *'  # Exécuter tous les jours à minuit UTC
+  workflow_dispatch:  # Permet un déclenchement manuel
 
 jobs:
-  build:
+  update-anime-json:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout du dépôt
+      - name: 📥 Cloner le dépôt
         uses: actions/checkout@v4
+        with:
+          persist-credentials: false  # Désactive les credentials pour push sécurisé
 
-      - name: Configuration de Python
+      - name: 🐍 Installer Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.9'  # Spécifiez la version de Python requise
+          python-version: '3.9'  # Remplace par la version de ton choix
 
-      - name: Installation des dépendances
+      - name: 📦 Installer les dépendances
         run: |
           python -m pip install --upgrade pip
-          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+          pip install -r requirements.txt
 
-      - name: Exécution du script
+      - name: 🚀 Exécuter le script
         run: python main.py
+
+      - name: 💾 Enregistrer le fichier JSON comme artefact
+        uses: actions/upload-artifact@v4
+        with:
+          name: anime_seasons
+          path: anime_seasons.json
+
+      - name: 🔄 Commit et push du fichier JSON
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add anime_seasons.json
+          git commit -m "Mise à jour du fichier JSON avec les derniers animés"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
