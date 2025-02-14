@@ -1,0 +1,27 @@
+name: Exécuter le script Python
+
+on:
+  workflow_dispatch:  # Permet de déclencher manuellement le workflow
+  schedule:
+    - cron: '0 0 * * *'  # Planifie l'exécution quotidienne à minuit UTC
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout du dépôt
+        uses: actions/checkout@v4
+
+      - name: Configuration de Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.9'  # Spécifiez la version de Python requise
+
+      - name: Installation des dépendances
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+      - name: Exécution du script
+        run: python main.py
