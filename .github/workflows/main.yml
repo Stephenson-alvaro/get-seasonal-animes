@@ -21,6 +21,12 @@ jobs:
       - name: Installer les dépendances
         run: pip install requests
 
+      - name: Supprimer l'ancien fichier JSON
+        run: |
+          if [ -f "seasonal_animes.json" ]; then
+            rm seasonal_animes.json
+          fi
+
       - name: Récupérer les données d'anime
         run: python fetch_anime.py
 
