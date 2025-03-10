@@ -1,1 +1,36 @@
+name: Fetch Anime Data
 
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Tous les jours à 00h00 UTC
+  workflow_dispatch:     # Permet de lancer l'action manuellement si nécessaire
+
+jobs:
+  fetch-anime:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout du dépôt
+        uses: actions/checkout@v4  # Permet de cloner ton repo
+
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'  # Utilise une version récente de Python
+
+      - name: Installer les dépendances
+        run: pip install requests
+
+      - name: Récupérer les données d'anime
+        run: python fetch_anime.py
+
+      - name: Configurer Git
+        run: |
+          git config --global user.name 'GitHub Actions'
+          git config --global user.email 'actions@github.com'
+
+      - name: Enregistrer les données dans le dépôt
+        run: |
+          git add seasonal_animes.json
+          git diff --quiet && git diff --staged --quiet || git commit -m "Mise à jour des données d'anime"
+          git push
