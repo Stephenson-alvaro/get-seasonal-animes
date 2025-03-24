@@ -19,7 +19,7 @@ jobs:
           python-version: '3.12'  # Utilise une version récente de Python
 
       - name: Installer les dépendances
-        run: pip install requests
+        run: pip install requests googletrans
 
       - name: Supprimer l'ancien fichier JSON
         run: |
