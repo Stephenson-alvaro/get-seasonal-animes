@@ -1,6 +1,7 @@
 import requests
 import time
 import json
+import asyncio
 from googletrans import Translator
 
 def fetch_season_anime(season_type):
@@ -27,15 +28,18 @@ def fetch_season_anime(season_type):
 
     return all_anime
 
-def translate_text(text, dest_lang="fr"):
+async def translate_text(text):
     """Traduit un texte donné en français."""
     translator = Translator()
     if text:
         try:
-            return translator.translate(text, dest=dest_lang).text
+            async with Translator() as translator:
+                result = await translator.translate(text, src='en', dest='fr')
+                return result.text
+
         except Exception as e:
-            print(f"Erreur de traduction : {e}")
-            return text  # Retourne le texte original en cas d'erreur
+            print("Erreur de connexion :", e)
+            return text
     return ""
 
 def extract_anime_info(anime):
