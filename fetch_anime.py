@@ -1,6 +1,7 @@
 import requests
 import time
 import json
+from googletrans import Translator
 
 def fetch_season_anime(season_type):
     """Récupère tous les animés d'une saison donnée (now/upcoming)"""
@@ -26,9 +27,22 @@ def fetch_season_anime(season_type):
 
     return all_anime
 
+def translate_text(text, dest_lang="fr"):
+    """Traduit un texte donné en français."""
+    translator = Translator()
+    if text:
+        try:
+            return translator.translate(text, dest=dest_lang).text
+        except Exception as e:
+            print(f"Erreur de traduction : {e}")
+            return text  # Retourne le texte original en cas d'erreur
+    return ""
+
 def extract_anime_info(anime):
     """Extrait uniquement les informations souhaitées pour un anime donné."""
-    aired = anime.get("aired", {})
+    synopsis = anime.get("synopsis", "")
+    translated_synopsis = translate_text(synopsis)  # Traduction du synopsis
+    
     return {
         "mal_id": anime.get("mal_id"),
         "title": anime.get("title"),
@@ -36,10 +50,8 @@ def extract_anime_info(anime):
         "anime_type": anime.get("type", "Unknown"),
         "episodes": anime.get("episodes", 0),
         "status": anime.get("status", "Unknown"),
-        "aired_from": aired.get("from"),
-        "aired_to": aired.get("to"),
         "score": anime.get("score", 0.0),
-        "synopsis": anime.get("synopsis"),
+        "synopsis": translated_synopsis,
         "studios": ", ".join(s["name"] for s in anime.get("studios", [])),
         "genres": ", ".join(g["name"] for g in anime.get("genres", [])),
         "themes": ", ".join(t["name"] for t in anime.get("themes", []))
@@ -63,5 +75,4 @@ anime_data = {
 with open('seasonal_animes.json', 'w', encoding='utf-8') as f:
     json.dump(anime_data, f, ensure_ascii=False, indent=4)
 
-print("Données sauvegardées dans anime_seseasonal_animesasons.json")
-  
+print("Données sauvegardées dans seasonal_animes.json")
