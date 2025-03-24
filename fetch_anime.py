@@ -45,7 +45,7 @@ async def translate_text(text):
 def extract_anime_info(anime):
     """Extrait uniquement les informations souhaitées pour un anime donné."""
     synopsis = anime.get("synopsis", "")
-    translated_synopsis = translate_text(synopsis)  # Traduction du synopsis
+    translated_synopsis = asyncio.run(translate_text(synopsis))  # Traduction du synopsis
     
     return {
         "mal_id": anime.get("mal_id"),
