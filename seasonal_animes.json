@@ -7,7 +7,7 @@
             "anime_type": "TV",
             "episodes": 12,
             "status": "Currently Airing",
-            "score": 8.05,
+            "score": 8.04,
             "synopsis": "Troisième saison d'Ennen no Shouboutai.",
             "studios": "David Production",
             "genres": "Action, Fantasy, Sci-Fi",
@@ -20,7 +20,7 @@
             "anime_type": "TV",
             "episodes": 13,
             "status": "Currently Airing",
-            "score": 7.58,
+            "score": 7.57,
             "synopsis": "L'année est de 2052 - une époque de paix et de prospérité sans précédent prévaut à travers le monde. La raison de ceci: l'humanité a été libérée de maladie et de douleur. Le neuroscientifique lauréat du prix Nobel, le Dr Skinner, a développé un médicament de remède miracle sans aucun inconvénient apparente appelé Hapuna. Hapuna devient bientôt omniprésente ... et essentiel. Cependant, peu de temps après que Hapuna soit officiellement présentée, le Dr Skinner disparaît.\n\nTrois ans plus tard, le monde a évolué. Mais le Dr Skinner est revenu - cette fois, en tant que signe avant-coureur de Doom. Skinner annonce que Hapuna a une courte demi-vie. Tous ceux qui l'ont pris mourront environ trois ans plus tard. La mort arrive pour ce monde pécheur et venu bientôt.\n\nEn réponse à cette menace, un groupe de travail spécial de cinq agents est rassemblé du monde entier pour sauver l'humanité du plan de Skinner. Ce groupe s'appelle «Lazarus». Peuvent-ils trouver Skinner et développer un vaccin avant que le temps ne s'épuise?\n\n(Source: Adult Swim, édité)",
             "studios": "MAPPA",
             "genres": "Sci-Fi",
@@ -46,7 +46,7 @@
             "anime_type": "TV",
             "episodes": null,
             "status": "Currently Airing",
-            "score": 5.43,
+            "score": 5.41,
             "synopsis": "L'histoire suit le roi le plus fort de l'histoire, Gray. Bien qu'il possède un pouvoir, une richesse et une renommée inégalés, il n'y a personne qui se tient à ses côtés… et il ne fait confiance à personne. Un jour, Gray rencontre soudainement sa mort et est réincarné comme un nourrisson impuissant nommé Arthur dans un monde de magie. Entouré d'une famille aimante et des compagnons, Arthur commence à ressentir des joies dans cette nouvelle vie qu'il n'a jamais connue dans son précédent. Cependant, pendant un voyage, sa famille est attaquée par des bandits ...\n\nAinsi commence sa deuxième vie, remplie d'amour et d'aventure!\n\n(Source: site officiel)",
             "studios": "Studio A-CAT",
             "genres": "Fantasy",
@@ -72,7 +72,7 @@
             "anime_type": "TV",
             "episodes": 26,
             "status": "Currently Airing",
-            "score": 7.56,
+            "score": 7.55,
             "synopsis": "Nico Wakatsuki a terminé ses six années de formation des sorcières et retourne en ville par elle-même. En tant que nouvelle sorcière, elle doit choisir une familière pour l'accompagner. Cependant, contrairement aux autres sorcières, elle souhaite choisir un familier non animal. Il n'y a pas de meilleur compagnon que Morihito \"Moi\" Otogi - son ami d'enfance qui se trouve être un ogre. Morihito est opposée avec véhémence à être son serviteur, mais il accepte à contrecœur son sort après avoir appris qu'une malédiction le reviendrait en un étrange hybride de vache-tigre où il pour désobéir à l'ordre d'une sorcière.\n\nEn raison du départ du père de Morihito pour un voyage d'affaires et la mère de Nico restant derrière dans la Terre Sainte des sorcières, les deux adolescents se retrouvent ensemble sous le même toit. Alors que Nico est ravi de vivre avec son béguin, Morihito constate que ses bouffonneries magiques et sa maladresse globale créent plus de problèmes que les solutions. Avec une catastrophe prophétisée pour arriver à Nico dans l'année, Morihito doit faire tout ce qu'il peut pour la protéger en tant que garde du corps tout en confirmant ses fonctions en tant que familière.\n\n[Écrit par MAL REWRITE]",
             "studios": "Bibury Animation Studios",
             "genres": "Comedy, Supernatural",
@@ -105,6 +105,19 @@
             "themes": "Adult Cast, Workplace"
         },
         {
+            "mal_id": 52709,
+            "title": "Danjo no Yuujou wa Seiritsu suru? (Iya, Shinai!!)",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1363/148601l.jpg",
+            "anime_type": "TV",
+            "episodes": null,
+            "status": "Currently Airing",
+            "score": 7.27,
+            "synopsis": "Un garçon et une fille s'engagent à une amitié à vie dans une petite ville de lycée. La relation entre les deux, destinée à partager un rêve commun, a passé deux ans sans développement particulier.\n\nHimari Inuzuka, une fille pétillante qui n'a pas encore trouvé son premier amour, et Yuu Natsume, un garçon qui aime les plantes qui aime les fleurs, passent toujours leurs journées paisiblement en tant que meilleurs amis du club de jardinage la deuxième année du lycée.\n\n\"Si Yuu ne peut pas me marier, je dois assumer la responsabilité.\"\n\"J'ai des problèmes maintenant parce qu'après que Himari a dit cela, votre frère a commencé à m'appeler\" mon beau-frère! \"\"\n\nCependant, lorsque Yuu retrouve son premier coup de cœur, les engrenages de leur relation sont soudainement synchronisés! Himari pourra-t-il échapper à son \"ami idéal\" maintenant qu'elle a trouvé l'amour?\n\n(Source: Mal News)",
+            "studios": "J.C.Staff",
+            "genres": "Comedy, Romance",
+            "themes": "School"
+        },
+        {
             "mal_id": 59457,
             "title": "Haite Kudasai, Takamine-san",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1521/148809l.jpg",
@@ -118,17 +131,17 @@
             "themes": "School"
         },
         {
-            "mal_id": 52709,
-            "title": "Danjo no Yuujou wa Seiritsu suru? (Iya, Shinai!!)",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1363/148601l.jpg",
-            "anime_type": "TV",
-            "episodes": null,
+            "mal_id": 53447,
+            "title": "Tu Bian Yingxiong X",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1232/148474l.jpg",
+            "anime_type": "ONA",
+            "episodes": 24,
             "status": "Currently Airing",
-            "score": 7.29,
-            "synopsis": "Un garçon et une fille s'engagent à une amitié à vie dans une petite ville de lycée. La relation entre les deux, destinée à partager un rêve commun, a passé deux ans sans développement particulier.\n\nHimari Inuzuka, une fille pétillante qui n'a pas encore trouvé son premier amour, et Yuu Natsume, un garçon qui aime les plantes qui aime les fleurs, passent toujours leurs journées paisiblement en tant que meilleurs amis du club de jardinage la deuxième année du lycée.\n\n\"Si Yuu ne peut pas me marier, je dois assumer la responsabilité.\"\n\"J'ai des problèmes maintenant parce qu'après que Himari a dit cela, votre frère a commencé à m'appeler\" mon beau-frère! \"\"\n\nCependant, lorsque Yuu retrouve son premier coup de cœur, les engrenages de leur relation sont soudainement synchronisés! Himari pourra-t-il échapper à son \"ami idéal\" maintenant qu'elle a trouvé l'amour?\n\n(Source: Mal News)",
-            "studios": "J.C.Staff",
-            "genres": "Comedy, Romance",
-            "themes": "School"
+            "score": 8.52,
+            "synopsis": "C'est un monde où les héros sont créés par la confiance des gens, et le héros qui a reçu le plus de confiance est connu sous le nom de \"X.\" Dans ce monde, la confiance des gens peut être calculée par les données, et ces valeurs se refléteront sur le poignet de chacun. Tant que suffisamment de points de confiance sont obtenus, les gens ordinaires peuvent également avoir des superpuissances et devenir des super-héros qui sauvent le monde. Cependant, la valeur de confiance en constante évolution rend le chemin du héros plein d'inconnues ...\n\n(Source: Bilibili, traduit)",
+            "studios": "Pb Animation Co. Ltd., LAN Studio, Paper Plane Animation Studio",
+            "genres": "Action",
+            "themes": "Super Power"
         },
         {
             "mal_id": 59452,
@@ -137,24 +150,11 @@
             "anime_type": "TV",
             "episodes": null,
             "status": "Currently Airing",
-            "score": 7.26,
+            "score": 7.24,
             "synopsis": "Beryl Gardinant, un «vieil homme humble» autoproclamé, est un instructeur d'épée à son dojo dans un village rural et de remous. Dans sa jeunesse, il rêvait de gloire en tant que maître épéiste, mais ces jours sont longs derrière lui. À l'improviste, il reçoit une visite d'un ancien élève célèbre qui lui apporte des nouvelles bouleversantes - il a été nommé instructeur spécial pour les Chevaliers de l'Ordre de Liberon! Avec sa vie désormais bouleversée, Beryl se rend dans la capitale et retrouve certains de ses anciens étudiants: Elite Knights, un assistant de l'as et même un aventurier qui a atteint le plus haut rang de guilde possible. Mais pourquoi veulent-ils tous sa tutelle ?! En ce qui est inquiet, ils n'ont clairement pas besoin de lui. Beryl peut-il être à la hauteur de son nouveau poste? Et obtiendra-t-il un moment de la paix de ses étudiants adorants ?!\n\n(Source: J-Novel Club)",
             "studios": "Passione, Hayabusa Film",
             "genres": "Action, Adventure, Fantasy",
             "themes": ""
-        },
-        {
-            "mal_id": 53447,
-            "title": "Tu Bian Yingxiong X",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1232/148474l.jpg",
-            "anime_type": "ONA",
-            "episodes": 24,
-            "status": "Currently Airing",
-            "score": 8.49,
-            "synopsis": "C'est un monde où les héros sont créés par la confiance des gens, et le héros qui a reçu le plus de confiance est connu sous le nom de \"X.\" Dans ce monde, la confiance des gens peut être calculée par les données, et ces valeurs seront reflétées sur le poignet de chacun. Tant que suffisamment de points de confiance sont obtenus, les gens ordinaires peuvent également avoir des superpuissances et devenir des super-héros qui sauvent le monde. Cependant, la valeur de confiance en constante évolution rend le chemin du héros plein d'inconnues ...\n\n(Source: Bilibili, traduit)",
-            "studios": "Pb Animation Co. Ltd., LAN Studio, Paper Plane Animation Studio",
-            "genres": "Action",
-            "themes": "Super Power"
         },
         {
             "mal_id": 49778,
@@ -163,7 +163,7 @@
             "anime_type": "TV",
             "episodes": null,
             "status": "Currently Airing",
-            "score": 7.59,
+            "score": 7.58,
             "synopsis": "Au cours de la période Edo, il y avait une jeune fille sanctuaire appelée \"Itsukihime\" dans le village de montagne de Kadono. Jinta, un jeune homme qui agit comme le gardien de la jeune fille du sanctuaire malgré son étranger, rencontre un mystérieux démon qui parle de l'avenir lointain dans la forêt où il est allé pour le vaincre. De Edo à l'ère Heisei, cette énorme série fantastique japonaise suit un homme démon qui voyage dans le temps tout en remettant en question continuellement le sens de brandir une épée. \n\n(Source: Crunchyroll, édité)",
             "studios": "Yokohama Animation Laboratory",
             "genres": "Action, Adventure, Fantasy",
@@ -241,7 +241,7 @@
             "anime_type": "OVA",
             "episodes": 2,
             "status": "Finished Airing",
-            "score": 8.19,
+            "score": 8.21,
             "synopsis": "Épisodes d'anime vidéo originaux de Kono Subarashii Sekai ni Shukufuku wo!.",
             "studios": "Drive",
             "genres": "Adventure, Comedy, Fantasy",
@@ -254,7 +254,7 @@
             "anime_type": "OVA",
             "episodes": 2,
             "status": "Finished Airing",
-            "score": 8.19,
+            "score": 8.21,
             "synopsis": "Épisodes d'anime vidéo originaux de Kono Subarashii Sekai ni Shukufuku wo!.",
             "studios": "Drive",
             "genres": "Adventure, Comedy, Fantasy",
@@ -293,7 +293,7 @@
             "anime_type": "TV",
             "episodes": 12,
             "status": "Currently Airing",
-            "score": 6.84,
+            "score": 6.83,
             "synopsis": "Un jour, Kurt, un garçon de bon cœur, est soudainement expulsé de la fête du héros pour être «inutile». Il constate que son aptitude aux armes, à la magie et à toutes les autres compétences liées au combat est le rang le plus bas, il prend donc des tâches étranges en train de réparer les murs du château et de creuser des minéraux, où ses capacités exceptionnelles sont immédiatement révélées. Il s'avère habile dans la cuisine, la construction, l'exploitation minière, l'élaboration d'outils magiques - en fait, son aptitude à chaque compétence sans rapport au combat avait un Ranking SSS! Kurt, cependant, semble complètement inconscient de son talent et finit par sauver les gens, la ville et même le pays à travers ses actions inconscients !?\n\n(Source: Alphapolis)",
             "studios": "EMT Squared",
             "genres": "Action, Adventure, Fantasy",
@@ -319,7 +319,7 @@
             "anime_type": "TV",
             "episodes": null,
             "status": "Currently Airing",
-            "score": 7.43,
+            "score": 7.42,
             "synopsis": "Summer Pockets se déroule sur une île isolée, rurale et paisible sur la mer intérieure appelée Torishirojima, qui compte environ 2 000 habitants. Le protagoniste, Hairi Takahara, a grandi en milieu urbain, mais après un incident désagréable, il utilise la mort récente de sa grand-mère comme excuse pour venir sur l'île pour prendre soin de sa vente de succession.\n\nUne fois là-bas, il apprend à connaître quatre filles, qui sont au centre de l'histoire: Shiroha Naruse, qui a oublié ses vacances d'été; Ao Sorakado, qui poursuit les légendes de l'île; Kamome Kushima, une fille de grande classe à la recherche d'un navire pirate; et Tsumugi Wenders, une jeune fille essayant de se retrouver. \n\n(Source: Wikipedia via VNDB, édité)",
             "studios": "feel.",
             "genres": "Slice of Life",
@@ -358,7 +358,7 @@
             "anime_type": "TV",
             "episodes": null,
             "status": "Currently Airing",
-            "score": 6.58,
+            "score": 6.6,
             "synopsis": "Dans sa dernière vie, Liam a vécu comme une personne morale et responsable ... mais est décédée profondément endettée et trahi par sa femme. Reborn dans la famille dirigeante d'un vaste empire interstellaire, Liam sait que la vie est divisée entre les opprimés et ceux qui font le piétinement, donc cette fois, il va prendre ce qu'il veut et vivre pour lui-même. Mais d'une manière ou d'une autre, les choses refusent de fonctionner de cette façon. Bien qu'il fasse de son mieux pour devenir un tyran, les décisions de Liam ne mènent que la paix et la prospérité pour l'empire sous son règne, et il devient de plus en plus populaire!\n\n(Source: Seven Seas Entertainment)",
             "studios": "Quad",
             "genres": "Action, Fantasy, Sci-Fi",
@@ -371,7 +371,7 @@
             "anime_type": "TV",
             "episodes": null,
             "status": "Currently Airing",
-            "score": 7.53,
+            "score": 7.54,
             "synopsis": "Dans une académie d'élite pour les filles où les jeunes femmes raffinées se rassemblent, Lilisa Suzunomiya, maintenant la fille d'un magnat de l'immobilier après sa mère, est obligée d'abandonner sa guitare et sa musique rock pour s'intègre. Ensemble, ils embrassent leurs rockstars intérieurs, affrontant et criant élégamment leur chemin à travers l'académie dans cette histoire captivante de grâce et de rébellion.\n\n(Source: Mal News)",
             "studios": "Bandai Namco Pictures",
             "genres": "Comedy",
@@ -436,7 +436,7 @@
             "anime_type": "TV",
             "episodes": null,
             "status": "Currently Airing",
-            "score": 6.12,
+            "score": 6.11,
             "synopsis": "Makina Agatsuma, l'idole de l'école, emménage dans la maison d'Eita Akutsu, un Otaku mécanique introverti. Eita, qui a secrètement nourri des sentiments pour elle, pense qu'il a frappé le jackpot! Mais il s'avère que c'est en fait un robot fait à des fins sexuelles. Pris au dépourvu par ses avancées physiques soudaines, la Vierge Eita est perdue. De plus, il se retrouve dans une frénésie essayant de l'aider à maintenir son identité secrète. Une comédie romantique avec une révélation mécanique légèrement risquée, où l'hilarité s'ensuit alors qu'ils essaient de garder le secret sous les wraps!\n\n(Source: Mal News)",
             "studios": "BloomZ",
             "genres": "Comedy, Romance, Sci-Fi, Ecchi",
@@ -488,7 +488,7 @@
             "anime_type": "TV",
             "episodes": null,
             "status": "Currently Airing",
-            "score": 7.65,
+            "score": 7.66,
             "synopsis": "Deuxième saison de la série Shoushimin.",
             "studios": "Lapin Track",
             "genres": "Mystery",
@@ -501,7 +501,7 @@
             "anime_type": "TV",
             "episodes": null,
             "status": "Currently Airing",
-            "score": 7.65,
+            "score": 7.66,
             "synopsis": "Deuxième saison de la série Shoushimin.",
             "studios": "Lapin Track",
             "genres": "Mystery",
@@ -514,8 +514,8 @@
             "anime_type": "TV",
             "episodes": 24,
             "status": "Currently Airing",
-            "score": 7.83,
-            "synopsis": "La vie n'est pas facile pour Anne Shirley, un orphelin de 11 ans avec une vaste imagination et un tempérament court. Dans une tournure du destin, elle est emmenée dans la maison de Cuthbert à Avonlea. Les occupants âgés Marilla et Matthew Cuthbert cherchaient un jeune garçon pour aider dans les champs, mais ils ont un choc quand ils réalisent qu'Anne est une fille.\n\nAdapté du classique acclamé par L. M. Montgomery, Akage No Anne dépeint l'éducation d'Anne de 11 à 17 ans et ses rencontres et séparations avec diverses personnes. Seul le temps dira quelle décision majeure Anne doit prendre qui changera sa vie pour toujours.\n\n[Écrit par MAL REWRITE]",
+            "score": 7.84,
+            "synopsis": "La vie n'est pas facile pour Anne Shirley, un orphelin de 11 ans avec une vaste imagination et un tempérament court. Dans une tournure du destin, elle est emmenée dans la maison Cuthbert à Avonlea. Les occupants âgés Marilla et Matthew Cuthbert cherchaient un jeune garçon pour aider dans les champs, mais ils ont un choc quand ils réalisent qu'Anne est une fille.\n\nAdapté du classique acclamé par L. M. Montgomery, Akage No Anne dépeint l'éducation d'Anne de 11 à 17 ans et ses rencontres et séparations avec diverses personnes. Seul le temps dira quelle décision majeure Anne doit prendre qui changera sa vie pour toujours.\n\n[Écrit par MAL REWRITE]",
             "studios": "The Answer Studio",
             "genres": "Drama",
             "themes": "Historical"
@@ -527,7 +527,7 @@
             "anime_type": "TV",
             "episodes": 12,
             "status": "Currently Airing",
-            "score": 6.85,
+            "score": 6.83,
             "synopsis": "Dans un monde où les individus reçoivent des bénédictions de divers dieux animaux à l'âge de seize ans, Sophia Leeler, la fille d'un comte timide, reçoit de façon inattendue la bénédiction du \"Dieu gorille\" - a été le plus fort au combat. Bien qu'elle aspire à une vie scolaire paisible, sa capacité rare et puissante attire l'attention des Royal Knights, qui la sbout en tant que chevalier apprenti. Malgré ses efforts pour cacher sa force écrasante, elle ne peut s'empêcher de se démarquer. Pendant ce temps, les jeunes chevaliers prometteurs autour d'elle veille sur elle avec gentillesse.\n\n(Source: Mal News)",
             "studios": "Kachigarasu",
             "genres": "Comedy, Fantasy, Romance",
@@ -540,7 +540,7 @@
             "anime_type": "TV",
             "episodes": 12,
             "status": "Currently Airing",
-            "score": 6.85,
+            "score": 6.83,
             "synopsis": "Dans un monde où les individus reçoivent des bénédictions de divers dieux animaux à l'âge de seize ans, Sophia Leeler, la fille d'un comte timide, reçoit de façon inattendue la bénédiction du \"Dieu gorille\" - a été le plus fort au combat. Bien qu'elle aspire à une vie scolaire paisible, sa capacité rare et puissante attire l'attention des Royal Knights, qui la sbout en tant que chevalier apprenti. Malgré ses efforts pour cacher sa force écrasante, elle ne peut s'empêcher de se démarquer. Pendant ce temps, les jeunes chevaliers prometteurs autour d'elle veille sur elle avec gentillesse.\n\n(Source: Mal News)",
             "studios": "Kachigarasu",
             "genres": "Comedy, Fantasy, Romance",
@@ -644,7 +644,7 @@
             "anime_type": "TV",
             "episodes": null,
             "status": "Currently Airing",
-            "score": 5.94,
+            "score": 5.93,
             "synopsis": "Hinata l'a fait. Il s'est réincarné dans un autre monde, a pris le manteau du héros et a tué le seigneur démon redouté aux côtés de son groupe de collègues aventuriers. En tant que récompense, il est retourné sur Terre pour reprendre une vie normale. Ou ce serait si ce n'était pas le fait que sa compagnon d'Elf Dark Mariabelle décida de voyager sur Terre pour venir vivre avec lui! Maintenant, elle utilise ses talents arcaniques pour éloigner tous les rivaux romantiques potentiels et capturer l'affection de Hinata.\n\n(Source: Seven Seas Entertainment)",
             "studios": "Elias",
             "genres": "Comedy, Fantasy, Erotica",
@@ -657,7 +657,7 @@
             "anime_type": "TV",
             "episodes": 12,
             "status": "Currently Airing",
-            "score": 7.63,
+            "score": 7.65,
             "synopsis": "Le club de photographie risque de fermer ?! Et le club de cinéma aussi ?! Ne vous inquiétez pas, car ils fusionnent et deviendront ... Cinephoto Club! Maintenant, les membres du club Satsuki, AN, et Sakurako sont invités à être les personnages principaux du dernier travail de l'artiste manga Haruno qui est centré sur des caméras d'action. Les filles se rendent pour capturer les beaux sites du Japon, expérimentant des gadgets au-delà de la photographie et de l'équipement cinématographique, et bien sûr, en réprimandant les spécialités locales en cours de route!\n\n(Source: Yen Press)",
             "studios": "Soigne",
             "genres": "Comedy",
@@ -683,7 +683,7 @@
             "anime_type": "TV",
             "episodes": 12,
             "status": "Currently Airing",
-            "score": 6.37,
+            "score": 6.35,
             "synopsis": "Situé à Kunitachi City, Tokyo. Reiko Houshou, détective recrue au département de police de Kunitachi, est également l'héritière du «groupe Houshou» de renommée mondiale. Elle aborde des cas contestants aux côtés de l'inspecteur Kazamatsuri, héritier de l'entreprise familiale \"Kazamatsuri Motors\", et Kageyama, son majordome et chauffeur vif.\n\nAvec des remarques mordantes comme: \"Vos yeux sont-ils simplement décoratifs, ma dame?\" Kageyama critique non seulement le manque de compétences de déduction de Reiko, mais résout aussi brillamment les mystères à portée de main. Un majordome à la main aiguisée rencontre la fiction détective classique dans cette série mystère unique.\n\n(Source: Mal News)",
             "studios": "Madhouse",
             "genres": "Comedy, Mystery",
@@ -716,6 +716,19 @@
             "themes": "Anthropomorphic, Racing"
         },
         {
+            "mal_id": 60658,
+            "title": "Hibi wa Sugiredo Meshi Umashi",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1221/148863l.jpg",
+            "anime_type": "TV",
+            "episodes": 12,
+            "status": "Currently Airing",
+            "score": 7.45,
+            "synopsis": "Une animation originale sur la vie quotidienne de cinq filles qui viennent de devenir des étudiants universitaires. Ils aiment la nourriture délicieuse, veulent s'amuser avec tout le monde et étudier un peu plus pour profiter de la vie universitaire au maximum!\n\n(Source: site officiel)",
+            "studios": "P.A. Works",
+            "genres": "Gourmet",
+            "themes": "Adult Cast, CGDCT"
+        },
+        {
             "mal_id": 59070,
             "title": "Guilty Gear Strive: Dual Rulers",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1199/147623l.jpg",
@@ -727,19 +740,6 @@
             "studios": "SANZIGEN",
             "genres": "Action",
             "themes": ""
-        },
-        {
-            "mal_id": 60658,
-            "title": "Hibi wa Sugiredo Meshi Umashi",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1221/148863l.jpg",
-            "anime_type": "TV",
-            "episodes": 12,
-            "status": "Currently Airing",
-            "score": 7.44,
-            "synopsis": "Une animation originale sur la vie quotidienne de cinq filles qui viennent de devenir des étudiants universitaires. Ils aiment la nourriture délicieuse, veulent s'amuser avec tout le monde et étudier un peu plus pour profiter de la vie universitaire au maximum!\n\n(Source: site officiel)",
-            "studios": "P.A. Works",
-            "genres": "Gourmet",
-            "themes": "Adult Cast, CGDCT"
         },
         {
             "mal_id": 58614,
@@ -761,7 +761,7 @@
             "anime_type": "TV",
             "episodes": null,
             "status": "Currently Airing",
-            "score": 6.44,
+            "score": 6.42,
             "synopsis": "Deuxième saison de Bye Bye, Earth.",
             "studios": "LIDENFILMS",
             "genres": "Action, Adventure, Fantasy",
@@ -774,7 +774,7 @@
             "anime_type": "TV",
             "episodes": null,
             "status": "Currently Airing",
-            "score": 6.44,
+            "score": 6.42,
             "synopsis": "Deuxième saison de Bye Bye, Earth.",
             "studios": "LIDENFILMS",
             "genres": "Action, Adventure, Fantasy",
@@ -826,7 +826,7 @@
             "anime_type": "TV",
             "episodes": null,
             "status": "Currently Airing",
-            "score": 6.13,
+            "score": 6.14,
             "synopsis": "Un extraterrestre en forme de chat d'une galaxie lointaine, Muumuu, arrive sur Terre. Son objectif est de se renseigner sur la technologie des appareils électroménagers sur Terre pour récupérer la technologie que son espèce a perdue. Le protagoniste, Sakurako, a une vie universitaire typique, mais tout change avec l'arrivée de Muumuu! Ce qui commence comme une cohabitation inattendue se transforme rapidement en un tourbillon d'événements chaotiques. La chimie entre Sakurako et Muumuu conduit à une aventure super-spectaculaire, remplie d'appareils et de comédie pour chats. \n\n(Source: Pony Canyon)",
             "studios": "OLM",
             "genres": "Comedy, Sci-Fi",
@@ -839,7 +839,7 @@
             "anime_type": "TV",
             "episodes": 12,
             "status": "Currently Airing",
-            "score": 5.36,
+            "score": 5.35,
             "synopsis": "C'est le monde du système d'analyse de bataille \"Compass 2.0\". C'est un espace onirique où les héros rassemblés de nombreux mondes différents passent du temps avec leurs partenaires humains, les joueurs. L'énergie générée par les batailles des héros est essentielle au fonctionnement de #compass, et la lutte est leur responsabilité. Cependant, un héros troublé nommé 13 refuse de trouver un partenaire ou une bataille, et est sur le point d'être banni du monde de #Compass 2.0!\n\nPendant ce temps, Jin, un joueur débutant qui vient d'arriver dans le monde de #Compass 2.0, semble intéressé par 13 en tant que partenaire potentiel. Cependant, un incident majeur commence à se produire dans le monde de #Compass 2.0 ... La clé pour résoudre le problème pourrait-elle être la capacité spéciale de 13?\n\nNotre héros troublé et son nouveau partenaire peut-il ramener la paix au monde de # Compass2.0?\n\n(Source: site officiel)",
             "studios": "Lay-duce",
             "genres": "Action",
@@ -891,7 +891,7 @@
             "anime_type": "TV",
             "episodes": null,
             "status": "Currently Airing",
-            "score": 6.02,
+            "score": 6.03,
             "synopsis": "L'histoire suit Hajime Sekiguchi, un ancien vendeur d'assurance-vie qui, dans un moment de désespoir, fait le saut inattendu dans le monde des hôtes.\n\nAu Club One, Hajime se retrouve entouré d'une distribution de personnalités excentriques: un hôte de type \"frère cadet\" avec 20 ans d'expérience, une ancienne idole spécialisée dans les tactiques de vente romantique et un hôte hyper-agressif obsédé par les jeux mobiles. Malgré la pensée, \"ce n'est pas un travail pour quiconque ayant un esprit sain d'esprit\", Hajime utilise ses compétences en vente d'assurance polies pour attirer des clients et se tailler un créneau surprenant pour lui-même.\n\n(Source: Mal News)",
             "studios": "Fanworks",
             "genres": "Comedy",
@@ -911,19 +911,6 @@
             "themes": "Music"
         },
         {
-            "mal_id": 59199,
-            "title": "Classic★Stars",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1564/148380l.jpg",
-            "anime_type": "TV",
-            "episodes": 13,
-            "status": "Currently Airing",
-            "score": 5.42,
-            "synopsis": "Gloria Private Academy est une école où les jeunes prometteurs se réunissent dans tous les domaines du divertissement, y compris la musique, l'art et les sports. Dans le département de musique, ceux qui correspondent au \"talent\" des grands musiciens sont transplantés avec un \"cadeau\" dans leur corps et sont appelés par le nom de ce musicien. Beethoven, un jeune homme découvert comme compatible après une blessure, en fait partie. Après avoir été transféré à l'école, Beethoven rencontre des camarades de classe avec différents cadeaux et découvre le charme de la musique, tout en visant à gagner la compétition.\n\n(Source: site officiel, traduit)",
-            "studios": "Platinum Vision",
-            "genres": "",
-            "themes": "Music, School"
-        },
-        {
             "mal_id": 59322,
             "title": "Shirobuta Kizoku desu ga Zense no Kioku ga Haeta node Hiyoko na Otouto Sodatemasu",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1059/147448l.jpg",
@@ -935,6 +922,19 @@
             "studios": "Studio Comet",
             "genres": "Comedy, Fantasy",
             "themes": "Isekai, Reincarnation"
+        },
+        {
+            "mal_id": 59199,
+            "title": "Classic★Stars",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1564/148380l.jpg",
+            "anime_type": "TV",
+            "episodes": 13,
+            "status": "Currently Airing",
+            "score": 5.43,
+            "synopsis": "Gloria Private Academy est une école où les jeunes prometteurs se réunissent dans tous les domaines du divertissement, y compris la musique, l'art et les sports. Dans le département de musique, ceux qui correspondent au \"talent\" des grands musiciens sont transplantés avec un \"cadeau\" dans leur corps et sont appelés par le nom de ce musicien. Beethoven, un jeune homme découvert comme compatible après une blessure, en fait partie. Après avoir été transféré à l'école, Beethoven rencontre des camarades de classe avec différents cadeaux et découvre le charme de la musique, tout en visant à gagner la compétition.\n\n(Source: site officiel, traduit)",
+            "studios": "Platinum Vision",
+            "genres": "",
+            "themes": "Music, School"
         },
         {
             "mal_id": 55727,
@@ -1021,7 +1021,7 @@
             "anime_type": "ONA",
             "episodes": null,
             "status": "Currently Airing",
-            "score": 6.1,
+            "score": 6.07,
             "synopsis": "Les histoires qui se trouvent dans les cartes prennent vie ...",
             "studios": "Konami animation",
             "genres": "Action, Adventure, Fantasy, Sci-Fi",
@@ -1034,7 +1034,7 @@
             "anime_type": "TV",
             "episodes": null,
             "status": "Currently Airing",
-            "score": 6.4,
+            "score": 6.41,
             "synopsis": "Suit les aventures de tous les jours de Koupen-chan et de leurs amis alors qu'ils apprécient les petites choses de la vie.\n\n(Source: Crunchyroll)",
             "studios": "Lesprit",
             "genres": "Slice of Life",
@@ -1060,24 +1060,11 @@
             "anime_type": "TV",
             "episodes": null,
             "status": "Currently Airing",
-            "score": 5.8,
+            "score": 5.79,
             "synopsis": "Un mini anime hebdomadaire montré avec chaque épisode de Chotto Dake Ai Ga Omoi Dark Elf Ga Isekai Kara Oikakete Kita exclusivement sur la diffusion AT-X de l'anime télévisé.",
             "studios": "Front Wing",
             "genres": "Comedy, Fantasy",
             "themes": "Urban Fantasy"
-        },
-        {
-            "mal_id": 57622,
-            "title": "Uta no☆Prince-sama♪ Movie: Taboo Night Kisses",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1643/147974l.jpg",
-            "anime_type": "Movie",
-            "episodes": 1,
-            "status": "Not yet aired",
-            "score": null,
-            "synopsis": "",
-            "studios": "A-1 Pictures",
-            "genres": "",
-            "themes": "Idols (Male), Music"
         },
         {
             "mal_id": 61361,
@@ -1091,6 +1078,19 @@
             "studios": "CloverWorks",
             "genres": "Action, Fantasy",
             "themes": ""
+        },
+        {
+            "mal_id": 57622,
+            "title": "Uta no☆Prince-sama♪ Movie: Taboo Night Kisses",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1643/147974l.jpg",
+            "anime_type": "Movie",
+            "episodes": 1,
+            "status": "Not yet aired",
+            "score": null,
+            "synopsis": "",
+            "studios": "A-1 Pictures",
+            "genres": "",
+            "themes": "Idols (Male), Music"
         },
         {
             "mal_id": 55709,
@@ -1190,7 +1190,7 @@
             "anime_type": "TV Special",
             "episodes": 1,
             "status": "Finished Airing",
-            "score": 7.27,
+            "score": 7.26,
             "synopsis": "Une version éditée spéciale qui revient sur les épisodes 1089-1122 qui ont été diffusés de janvier à octobre 2024. \n\n(Source: site officiel)",
             "studios": "Toei Animation",
             "genres": "Action, Adventure, Fantasy",
@@ -1262,19 +1262,6 @@
             "themes": "Mahou Shoujo, Pets"
         },
         {
-            "mal_id": 53205,
-            "title": "Jun You Yun II",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1710/147083l.jpg",
-            "anime_type": "ONA",
-            "episodes": 32,
-            "status": "Not yet aired",
-            "score": null,
-            "synopsis": "Deuxième saison de Jun You Yun.",
-            "studios": "Passion Paint Animation",
-            "genres": "Action, Adventure, Fantasy",
-            "themes": "Historical, Martial Arts"
-        },
-        {
             "mal_id": 61166,
             "title": "Akogare no Onna Joushi ga, Aibeya Shucchou no Tonari no Bed de Zetsurin Otoko ni Netorarete Iru",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1661/148373l.jpg",
@@ -1286,6 +1273,19 @@
             "studios": "New Generation",
             "genres": "Hentai",
             "themes": ""
+        },
+        {
+            "mal_id": 53205,
+            "title": "Jun You Yun II",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1710/147083l.jpg",
+            "anime_type": "ONA",
+            "episodes": 32,
+            "status": "Not yet aired",
+            "score": null,
+            "synopsis": "Deuxième saison de Jun You Yun.",
+            "studios": "Passion Paint Animation",
+            "genres": "Action, Adventure, Fantasy",
+            "themes": "Historical, Martial Arts"
         },
         {
             "mal_id": 61232,
@@ -1327,19 +1327,6 @@
             "themes": ""
         },
         {
-            "mal_id": 56640,
-            "title": "Junk World",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1185/138450l.jpg",
-            "anime_type": "Movie",
-            "episodes": null,
-            "status": "Not yet aired",
-            "score": null,
-            "synopsis": "Un film de suite de Junk Head.",
-            "studios": "Yamiken",
-            "genres": "Action, Adventure, Comedy, Sci-Fi, Suspense",
-            "themes": ""
-        },
-        {
             "mal_id": 61165,
             "title": "Amai Ijiwaru",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1830/148384l.jpg",
@@ -1350,6 +1337,19 @@
             "synopsis": "",
             "studios": "Nur",
             "genres": "Hentai",
+            "themes": ""
+        },
+        {
+            "mal_id": 56640,
+            "title": "Junk World",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1185/138450l.jpg",
+            "anime_type": "Movie",
+            "episodes": null,
+            "status": "Not yet aired",
+            "score": null,
+            "synopsis": "Un film de suite de Junk Head.",
+            "studios": "Yamiken",
+            "genres": "Action, Adventure, Comedy, Sci-Fi, Suspense",
             "themes": ""
         },
         {
@@ -1398,24 +1398,11 @@
             "anime_type": "Music",
             "episodes": 1,
             "status": "Finished Airing",
-            "score": 6.35,
+            "score": 6.37,
             "synopsis": "Vidéo musicale pour la chanson Kekka bien par Kocchi no Kento. La chanson a été utilisée comme ouverture du justicule d'anime: Boku No Hero Academia Illégals.",
             "studios": "",
             "genres": "",
             "themes": "Music"
-        },
-        {
-            "mal_id": 60916,
-            "title": "Mister Robot",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1215/147848l.jpg",
-            "anime_type": "Movie",
-            "episodes": 1,
-            "status": "Finished Airing",
-            "score": null,
-            "synopsis": "",
-            "studios": "",
-            "genres": "Action, Adventure, Sci-Fi",
-            "themes": ""
         },
         {
             "mal_id": 60993,
@@ -1428,6 +1415,19 @@
             "synopsis": "",
             "studios": "Seven",
             "genres": "Hentai",
+            "themes": ""
+        },
+        {
+            "mal_id": 60916,
+            "title": "Mister Robot",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1215/147848l.jpg",
+            "anime_type": "Movie",
+            "episodes": 1,
+            "status": "Finished Airing",
+            "score": null,
+            "synopsis": "",
+            "studios": "",
+            "genres": "Action, Adventure, Sci-Fi",
             "themes": ""
         },
         {
@@ -1470,6 +1470,19 @@
             "themes": ""
         },
         {
+            "mal_id": 61212,
+            "title": "Wo de Shixiong Tai Qiang Le",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1858/148482l.jpg",
+            "anime_type": "ONA",
+            "episodes": 48,
+            "status": "Currently Airing",
+            "score": null,
+            "synopsis": "En raison du cultivateur que Lu Shaoqing a accidentellement obtenu le trésor immortel \"Spring and Automn Ring\", il a été répertorié comme un démon destructeur du monde par la Juste Immortal Alliance et a été chassé à mort. Il a accidentellement voyagé dans le temps et l'espace à il y a mille ans et a partagé un corps avec l'ennemi qui l'a tué. Afin de survivre, Lu Shaoqing, qui était profondément dans le nid de l'ennemi, s'est battu et son courage avec son corps pour arracher le corps, et a anticipé les mouvements de l'ennemi pour collecter des trésors rares. En fin de compte, sous ses esprits et son courage, Lu Shaoqing est devenu le premier playboy du chemin juste qui a été détesté par tout le monde! Les secrets du monde de la culture ont progressivement fait surface. Lu Shaoqing comptait avec ses doigts, et l'histoire avait déjà changé!\n\n(Source: Bilibili, Google traduit)",
+            "studios": "Suoyi Technology",
+            "genres": "Action, Adventure, Fantasy",
+            "themes": "Historical, Martial Arts"
+        },
+        {
             "mal_id": 58908,
             "title": "Muzik Tiger In the Forest",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1001/148823l.jpg",
@@ -1494,19 +1507,6 @@
             "studios": "Tatsunoko Production",
             "genres": "",
             "themes": "Idols (Male), Music"
-        },
-        {
-            "mal_id": 61212,
-            "title": "Wo de Shixiong Tai Qiang Le",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1858/148482l.jpg",
-            "anime_type": "ONA",
-            "episodes": 48,
-            "status": "Currently Airing",
-            "score": null,
-            "synopsis": "En raison du cultivateur que Lu Shaoqing a accidentellement obtenu le trésor immortel \"Spring and Automn Ring\", il a été répertorié comme un démon destructeur du monde par la Juste Immortal Alliance et a été chassé à mort. Il a accidentellement voyagé dans le temps et l'espace à il y a mille ans et a partagé un corps avec l'ennemi qui l'a tué. Afin de survivre, Lu Shaoqing, qui était profondément dans le nid de l'ennemi, s'est battu et son courage avec son corps pour arracher le corps, et a anticipé les mouvements de l'ennemi pour collecter des trésors rares. En fin de compte, sous ses esprits et son courage, Lu Shaoqing est devenu le premier playboy du chemin juste qui a été détesté par tout le monde! Les secrets du monde de la culture ont progressivement fait surface. Lu Shaoqing comptait avec ses doigts, et l'histoire avait déjà changé!\n\n(Source: Bilibili, Google traduit)",
-            "studios": "Suoyi Technology",
-            "genres": "Action, Adventure, Fantasy",
-            "themes": "Historical, Martial Arts"
         },
         {
             "mal_id": 61300,
@@ -1541,7 +1541,7 @@
             "anime_type": "PV",
             "episodes": 1,
             "status": "Finished Airing",
-            "score": 6.67,
+            "score": 6.68,
             "synopsis": "Soulevez vos lunettes et toast à un festin pas comme les autres, où les vents occidentaux s'estompent dans des réjouissances dorées.\nLe 1er avril, l'année 4 1 du calendrier léger, le Grand Chrysos attend avec impatience votre arrivée!\n\"Honnêtement, je pense que\" le Grand Restaurant \"a une meilleure bague.\"\n\"Euh ... votre goût dans les noms est certainement ... unique en son genre.\"\n\n(Source: YouTube)",
             "studios": "",
             "genres": "Gourmet",
@@ -1620,7 +1620,7 @@
             "episodes": null,
             "status": "Currently Airing",
             "score": null,
-            "synopsis": "Mini anime de Kanchigai no atelier meister: Eiyuu Party No Moto Zatsuyougakari Ga, Jitsu wa sentou igai ga sss Datta à iu yoku aru hanashi.",
+            "synopsis": "Mini anime de Kanchigai no atelier meister: Eiyuu Party No Moto Zatsuyougakari Ga, Jitsu wa sentou igai ga sss Rank Datta à iu yoku aru hanashi.",
             "studios": "AQUA ARIS",
             "genres": "Comedy",
             "themes": ""
@@ -1636,19 +1636,6 @@
             "synopsis": "Deuxième saison de Sai-kyo-oh! Zukan: Les batailles ultimes.",
             "studios": "OLM Digital",
             "genres": "Action",
-            "themes": ""
-        },
-        {
-            "mal_id": 61162,
-            "title": "Chinpui: Eri-sama no Good Luck",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1171/148365l.jpg",
-            "anime_type": "Movie",
-            "episodes": 1,
-            "status": "Not yet aired",
-            "score": null,
-            "synopsis": "Film montré au Fujiko F. Museum à Kawasaki, Kanagawa pour célébrer le 40e anniversaire de la franchise.",
-            "studios": "Shin-Ei Animation",
-            "genres": "Comedy",
             "themes": ""
         },
         {
@@ -1669,13 +1656,26 @@
             "title": "Taigu Zhan Hun",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1830/149113l.jpg",
             "anime_type": "ONA",
-            "episodes": null,
+            "episodes": 40,
             "status": "Currently Airing",
             "score": null,
             "synopsis": "Une génération d'empereur d'arts martiaux a été tuée et est tombée, et dix mille ans plus tard, il a renommé dans un jeune homme du nom de Qin Feng. Il a réveillé l'esprit suprême et pratiqué les arts martiaux suprême. À partir de ce moment, il s'est battu contre d'innombrables génies. Tous les cieux et les mondes trembleront à cause de son retour!\n\n(Source: Youku, Google traduit)",
             "studios": "Tang Kirin Culture",
             "genres": "Action, Adventure, Fantasy",
             "themes": "Historical, Martial Arts, Reincarnation"
+        },
+        {
+            "mal_id": 61162,
+            "title": "Chinpui: Eri-sama no Good Luck",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1171/148365l.jpg",
+            "anime_type": "Movie",
+            "episodes": 1,
+            "status": "Not yet aired",
+            "score": null,
+            "synopsis": "Film montré au Fujiko F. Museum à Kawasaki, Kanagawa pour célébrer le 40e anniversaire de la franchise.",
+            "studios": "Shin-Ei Animation",
+            "genres": "Comedy",
+            "themes": ""
         },
         {
             "mal_id": 61430,
@@ -1910,6 +1910,32 @@
             "studios": "",
             "genres": "",
             "themes": "Music"
+        },
+        {
+            "mal_id": 61538,
+            "title": "Asa made Shiru Daku Haha Musume Donburi!!",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1027/149315l.jpg",
+            "anime_type": "OVA",
+            "episodes": null,
+            "status": "Not yet aired",
+            "score": null,
+            "synopsis": "",
+            "studios": "",
+            "genres": "Hentai",
+            "themes": ""
+        },
+        {
+            "mal_id": 61539,
+            "title": "Princess Burst!",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1691/149316l.jpg",
+            "anime_type": "OVA",
+            "episodes": null,
+            "status": "Not yet aired",
+            "score": null,
+            "synopsis": "",
+            "studios": "",
+            "genres": "Hentai",
+            "themes": ""
         }
     ],
     "upcoming": [
@@ -2187,19 +2213,6 @@
             "themes": "Isekai, Reincarnation"
         },
         {
-            "mal_id": 53913,
-            "title": "Tensei shitara Ken deshita 2",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1710/131965l.jpg",
-            "anime_type": "TV",
-            "episodes": null,
-            "status": "Not yet aired",
-            "score": null,
-            "synopsis": "Deuxième saison de Tensei Shitara Ken Deshita.",
-            "studios": "",
-            "genres": "Action, Adventure, Fantasy",
-            "themes": "Isekai, Reincarnation"
-        },
-        {
             "mal_id": 57907,
             "title": "Tate no Yuusha no Nariagari Season 4",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1638/148142l.jpg",
@@ -2211,6 +2224,19 @@
             "studios": "Kinema Citrus",
             "genres": "Action, Adventure, Drama, Fantasy",
             "themes": "Isekai"
+        },
+        {
+            "mal_id": 53913,
+            "title": "Tensei shitara Ken deshita 2",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1710/131965l.jpg",
+            "anime_type": "TV",
+            "episodes": null,
+            "status": "Not yet aired",
+            "score": null,
+            "synopsis": "Deuxième saison de Tensei Shitara Ken Deshita.",
+            "studios": "",
+            "genres": "Action, Adventure, Fantasy",
+            "themes": "Isekai, Reincarnation"
         },
         {
             "mal_id": 48820,
@@ -2317,19 +2343,6 @@
             "themes": "Urban Fantasy"
         },
         {
-            "mal_id": 56876,
-            "title": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2nd Season",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1026/148655l.jpg",
-            "anime_type": "TV",
-            "episodes": null,
-            "status": "Not yet aired",
-            "score": null,
-            "synopsis": "Deuxième saison d'Otonari No Tenshi-sama ni Itunomanika Dame Ningen Ni Sareteita Ken.",
-            "studios": "",
-            "genres": "Romance",
-            "themes": "School"
-        },
-        {
             "mal_id": 57433,
             "title": "Seishun Buta Yarou wa Santa Claus no Yume wo Minai",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1965/146621l.jpg",
@@ -2340,6 +2353,19 @@
             "synopsis": "Suite de Seishun Buta Yarou wa randoseru girl no yume wo minai.",
             "studios": "CloverWorks",
             "genres": "Drama, Romance, Supernatural",
+            "themes": "School"
+        },
+        {
+            "mal_id": 56876,
+            "title": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2nd Season",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1026/148655l.jpg",
+            "anime_type": "TV",
+            "episodes": null,
+            "status": "Not yet aired",
+            "score": null,
+            "synopsis": "Deuxième saison d'Otonari No Tenshi-sama ni Itunomanika Dame Ningen Ni Sareteita Ken.",
+            "studios": "",
+            "genres": "Romance",
             "themes": "School"
         },
         {
@@ -3058,6 +3084,32 @@
             "themes": "Isekai"
         },
         {
+            "mal_id": 61323,
+            "title": "Ao no Hako 2nd Season",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1591/148854l.jpg",
+            "anime_type": "TV",
+            "episodes": null,
+            "status": "Not yet aired",
+            "score": null,
+            "synopsis": "Deuxième saison d'AO no Hako.",
+            "studios": "",
+            "genres": "Romance, Sports",
+            "themes": "Love Polygon, School, Team Sports"
+        },
+        {
+            "mal_id": 61323,
+            "title": "Ao no Hako 2nd Season",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1591/148854l.jpg",
+            "anime_type": "TV",
+            "episodes": null,
+            "status": "Not yet aired",
+            "score": null,
+            "synopsis": "Deuxième saison d'AO no Hako.",
+            "studios": "",
+            "genres": "Romance, Sports",
+            "themes": "Love Polygon, School, Team Sports"
+        },
+        {
             "mal_id": 56008,
             "title": "Sabikui Bisco Season 2",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1345/137192l.jpg",
@@ -3071,32 +3123,6 @@
             "themes": ""
         },
         {
-            "mal_id": 61323,
-            "title": "Ao no Hako 2nd Season",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1591/148854l.jpg",
-            "anime_type": "TV",
-            "episodes": null,
-            "status": "Not yet aired",
-            "score": null,
-            "synopsis": "Deuxième saison d'AO no Hako.",
-            "studios": "",
-            "genres": "Romance, Sports",
-            "themes": "Love Polygon, School, Team Sports"
-        },
-        {
-            "mal_id": 61323,
-            "title": "Ao no Hako 2nd Season",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1591/148854l.jpg",
-            "anime_type": "TV",
-            "episodes": null,
-            "status": "Not yet aired",
-            "score": null,
-            "synopsis": "Deuxième saison d'AO no Hako.",
-            "studios": "",
-            "genres": "Romance, Sports",
-            "themes": "Love Polygon, School, Team Sports"
-        },
-        {
             "mal_id": 50668,
             "title": "Mahoutsukai no Yoru",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1995/120244l.jpg",
@@ -3104,7 +3130,7 @@
             "episodes": 1,
             "status": "Not yet aired",
             "score": null,
-            "synopsis": "Situé à la fin de la période de showa à la fin des années 1980, un vieux manoir dans la ville de Misaki serait la maison d'une sorcière.\n\nAoko entre brusquement dans le monde de Magi après que son grand-père ait soudainement décidé que Aoko soit devenu le successeur de la famille Aozaki. Depuis lors, Aoko se déplace dans le manoir de Kuonji et commence à apprendre les mages de la jeune Magus Alice Kuonji, la sorcière rumeur du manoir. Après avoir été témoin des deux à l'aide de Magecraft, Soujuurou Shizuki est également obligé de vivre avec eux jusqu'à ce qu'une rune pour retirer ses souvenirs soit découverte. \n\n(Source: Wiki fandom de type-lune)",
+            "synopsis": "Situé à la fin de la période de showa à la fin des années 1980, un vieux manoir dans la ville de Misaki serait la maison d'une sorcière.\n\nAoko entre brusquement dans le monde de Magi après que son grand-père ait soudainement décidé que Aoko soit devenu le successeur de la famille Aozaki. Depuis lors, Aoko emménage dans le manoir de Kuonji et commence à apprendre les mages du jeune Magus Alice Kuonji, la sorcière du manoir. Après avoir été témoin des deux à l'aide de Magecraft, Soujuurou Shizuki est également obligé de vivre avec eux jusqu'à ce qu'une rune pour retirer ses souvenirs soit découverte. \n\n(Source: Wiki fandom de type-lune)",
             "studios": "ufotable",
             "genres": "Mystery, Supernatural",
             "themes": ""
@@ -3123,6 +3149,32 @@
             "themes": "Adult Cast"
         },
         {
+            "mal_id": 61398,
+            "title": "Make Heroine ga Oosugiru! 2nd Season",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1031/149060l.jpg",
+            "anime_type": "TV",
+            "episodes": null,
+            "status": "Not yet aired",
+            "score": null,
+            "synopsis": "Deuxième saison de Make Heroine Ga Oosugiru!.",
+            "studios": "",
+            "genres": "Comedy, Romance",
+            "themes": "School"
+        },
+        {
+            "mal_id": 61398,
+            "title": "Make Heroine ga Oosugiru! 2nd Season",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1031/149060l.jpg",
+            "anime_type": "TV",
+            "episodes": null,
+            "status": "Not yet aired",
+            "score": null,
+            "synopsis": "Deuxième saison de Make Heroine Ga Oosugiru!.",
+            "studios": "",
+            "genres": "Comedy, Romance",
+            "themes": "School"
+        },
+        {
             "mal_id": 55772,
             "title": "Golden Kamuy: Saishuushou",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1809/136686l.jpg",
@@ -3134,32 +3186,6 @@
             "studios": "",
             "genres": "Action, Adventure",
             "themes": "Adult Cast, Historical, Military"
-        },
-        {
-            "mal_id": 61398,
-            "title": "Make Heroine ga Oosugiru! 2nd Season",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1031/149060l.jpg",
-            "anime_type": "TV",
-            "episodes": null,
-            "status": "Not yet aired",
-            "score": null,
-            "synopsis": "Deuxième saison de Make Heroine Ga Oosugiru!.",
-            "studios": "",
-            "genres": "Comedy, Romance",
-            "themes": "School"
-        },
-        {
-            "mal_id": 61398,
-            "title": "Make Heroine ga Oosugiru! 2nd Season",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1031/149060l.jpg",
-            "anime_type": "TV",
-            "episodes": null,
-            "status": "Not yet aired",
-            "score": null,
-            "synopsis": "Deuxième saison de Make Heroine Ga Oosugiru!.",
-            "studios": "",
-            "genres": "Comedy, Romance",
-            "themes": "School"
         },
         {
             "mal_id": 59230,
@@ -3669,19 +3695,6 @@
             "themes": "School"
         },
         {
-            "mal_id": 60055,
-            "title": "Yozakura-san Chi no Daisakusen 2nd Season",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1040/147111l.jpg",
-            "anime_type": "TV",
-            "episodes": null,
-            "status": "Not yet aired",
-            "score": null,
-            "synopsis": "Deuxième saison de Yozakura-san Chi no Daisakusen.",
-            "studios": "",
-            "genres": "Action, Comedy",
-            "themes": ""
-        },
-        {
             "mal_id": 60326,
             "title": "Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (※Muri ja Nakatta!?)",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1152/146560l.jpg",
@@ -3693,6 +3706,19 @@
             "studios": "studio MOTHER",
             "genres": "Comedy, Girls Love",
             "themes": "School"
+        },
+        {
+            "mal_id": 60055,
+            "title": "Yozakura-san Chi no Daisakusen 2nd Season",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1040/147111l.jpg",
+            "anime_type": "TV",
+            "episodes": null,
+            "status": "Not yet aired",
+            "score": null,
+            "synopsis": "Deuxième saison de Yozakura-san Chi no Daisakusen.",
+            "studios": "",
+            "genres": "Action, Comedy",
+            "themes": ""
         },
         {
             "mal_id": 49703,
@@ -4046,6 +4072,32 @@
             "themes": "Performing Arts"
         },
         {
+            "mal_id": 61292,
+            "title": "Rurouni Kenshin: Meiji Kenkaku Romantan 3rd Season",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1391/148722l.jpg",
+            "anime_type": "TV",
+            "episodes": null,
+            "status": "Not yet aired",
+            "score": null,
+            "synopsis": "Troisième saison de Rurouni Kenshin: Meiji Kenkaku Romantan.",
+            "studios": "",
+            "genres": "Action",
+            "themes": "Historical, Samurai"
+        },
+        {
+            "mal_id": 61292,
+            "title": "Rurouni Kenshin: Meiji Kenkaku Romantan 3rd Season",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1391/148722l.jpg",
+            "anime_type": "TV",
+            "episodes": null,
+            "status": "Not yet aired",
+            "score": null,
+            "synopsis": "Troisième saison de Rurouni Kenshin: Meiji Kenkaku Romantan.",
+            "studios": "",
+            "genres": "Action",
+            "themes": "Historical, Samurai"
+        },
+        {
             "mal_id": 46488,
             "title": "Tai-Ari deshita.: Ojousama wa Kakutou Game nante Shinai",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1834/148271l.jpg",
@@ -4057,32 +4109,6 @@
             "studios": "",
             "genres": "Comedy, Girls Love",
             "themes": "School, Video Game"
-        },
-        {
-            "mal_id": 61292,
-            "title": "Rurouni Kenshin: Meiji Kenkaku Romantan 3rd Season",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1391/148722l.jpg",
-            "anime_type": "TV",
-            "episodes": null,
-            "status": "Not yet aired",
-            "score": null,
-            "synopsis": "Troisième saison de Rurouni Kenshin: Meiji Kenkaku Romantan.",
-            "studios": "",
-            "genres": "Action",
-            "themes": "Historical, Samurai"
-        },
-        {
-            "mal_id": 61292,
-            "title": "Rurouni Kenshin: Meiji Kenkaku Romantan 3rd Season",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1391/148722l.jpg",
-            "anime_type": "TV",
-            "episodes": null,
-            "status": "Not yet aired",
-            "score": null,
-            "synopsis": "Troisième saison de Rurouni Kenshin: Meiji Kenkaku Romantan.",
-            "studios": "",
-            "genres": "Action",
-            "themes": "Historical, Samurai"
         },
         {
             "mal_id": 59551,
@@ -4241,6 +4267,19 @@
             "themes": ""
         },
         {
+            "mal_id": 61026,
+            "title": "Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1029/148034l.jpg",
+            "anime_type": "TV",
+            "episodes": null,
+            "status": "Not yet aired",
+            "score": null,
+            "synopsis": "Oda Akira est le genre de gars que les gens oublient est même là. Sa nature sans prétention porte ses fruits, cependant, lorsque toute sa classe est emportée dans un monde fantastique, et il se glisse facilement dans son nouveau rôle d'assassin silencieux. Entre ses statistiques de départ suspectes et trop de détails qui ne correspondent pas, Akira est sûr que quelque chose ne va pas. Mais creuser dans Royal Secrets est un jeu dangereux, et quand Akira découvre un schéma maléfique, il fait également un puissant ennemi - le roi même qui l'a amené dans ce monde! Avec l'aide de l'Elven Spirit Medium Amelia, peut-il trouver le pouvoir de bien régler les choses et de se venger?\n\n(Source: Seven Seas Entertainment)",
+            "studios": "Sunrise",
+            "genres": "Action, Adventure, Fantasy",
+            "themes": "Isekai"
+        },
+        {
             "mal_id": 58877,
             "title": "Diamond no Ace: Act II (Zoku-hen)",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1837/143185l.jpg",
@@ -4265,19 +4304,6 @@
             "studios": "",
             "genres": "Drama",
             "themes": "Music, School"
-        },
-        {
-            "mal_id": 61026,
-            "title": "Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1029/148034l.jpg",
-            "anime_type": "TV",
-            "episodes": null,
-            "status": "Not yet aired",
-            "score": null,
-            "synopsis": "Oda Akira est le genre de gars que les gens oublient est même là. Sa nature sans prétention porte ses fruits, cependant, lorsque toute sa classe est emportée dans un monde fantastique, et il se glisse facilement dans son nouveau rôle d'assassin silencieux. Entre ses statistiques de départ suspectes et trop de détails qui ne correspondent pas, Akira est sûr que quelque chose ne va pas. Mais creuser dans Royal Secrets est un jeu dangereux, et quand Akira découvre un schéma maléfique, il fait également un puissant ennemi - le roi même qui l'a amené dans ce monde! Avec l'aide de l'Elven Spirit Medium Amelia, peut-il trouver le pouvoir de bien régler les choses et de se venger?\n\n(Source: Seven Seas Entertainment)",
-            "studios": "Sunrise",
-            "genres": "Action, Adventure, Fantasy",
-            "themes": "Isekai"
         },
         {
             "mal_id": 59689,
@@ -4508,7 +4534,7 @@
             "episodes": null,
             "status": "Not yet aired",
             "score": null,
-            "synopsis": "Comme toute bonne dame noble, il faut avoir certains goûts acquis. Pour Melphiera Marchalrayd, elle a juste envie d'une protéine plutôt exotique - des monstres! Mais ne jugez pas! Malgré sa mauvaise réputation, la viande de monstre peut être utilisée dans la cuisine exquise et Melphiera est déterminée à changer l'opinion du Royaume à ce sujet! Malheureusement, depuis ses débuts dans la société, Melphiera a eu du mal à trouver son match parfait ... jusqu'à ce qu'elle rencontre le \"Duke\" Blood Mad \"de Galbraith sans peur!\n\n(Source: Kodansha USA)",
+            "synopsis": "Comme toute bonne dame noble, il faut avoir certains goûts acquis. Pour Melphiera Marchalrayd, elle a juste envie d'une protéine plutôt exotique - des monstres! Mais ne jugez pas! Malgré sa mauvaise réputation, la viande de monstre peut être utilisée dans la cuisine exquise et Melphiera est déterminée à changer l'opinion du Royaume à ce sujet! Malheureusement, depuis ses débuts dans la société, Melphiera a eu du mal à trouver son match parfait ... jusqu'à ce qu'elle rencontre le \"Duke Blood Mad\" de Galbraith sans peur!\n\n(Source: Kodansha USA)",
             "studios": "",
             "genres": "Fantasy, Gourmet, Romance",
             "themes": ""
@@ -4566,6 +4592,32 @@
             "themes": ""
         },
         {
+            "mal_id": 61517,
+            "title": "Kingdom 6th Season",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1265/149299l.jpg",
+            "anime_type": "TV",
+            "episodes": null,
+            "status": "Not yet aired",
+            "score": null,
+            "synopsis": "Dans la Chine ancienne, pendant la période des États en guerre, un ancien serviteur nommé Xin monte dans les rangs avec un rêve: devenir le plus grand général sous les cieux. Se battant aux côtés du roi Ying Zheng de Qin - qui cherche à unifier la Chine et à mettre fin au chaos - Xin mène sa propre unité, la Fei Xin Force, sur le champ de bataille.\n\nAvec le pouvoir récupéré par le chancelier influent Buwei Lü, le roi Ying Zheng commence à jeter les bases d'un nouvel État juridique unifié avec le soutien d'alliés clés comme le stratège Changping Jun et le légaliste Li Si.\n\nAlors que Qin lance une campagne pour saisir de nouveaux territoires de l'État de Zhao, leur avancée est interrompue par le brillant stratège, Li Mu. En réponse, Changping Jun élabore un plan audacieux: contourner les défenses de Zhao et frapper dans la ville clé de Gyou, près de la capitale de Zhao.\n\nPour effectuer cette manœuvre risquée, une puissante armée de coalition est formée - dirigée par les tacticiens ou Sen (Wang Jian), Kan Ki (Huan Yi) et la reine guerrière Yo Tan Wa (Yang Duanhe). Les rejoindre sont la prochaine génération de commandants Qin: Fei Xin Force de Xin, l'unité Gaku Ka de Mou Ten (Meng Tian), et l'unité Gyoku Hou de Ou Hon (Wang Ben), chacune opérant indépendamment.\n\nLa bataille féroce pour Gyou commence, alors que l'avenir de l'unification de Qin est en jeu.\n\n(Source: Mal News)",
+            "studios": "Pierrot, Studio Signpost",
+            "genres": "Action",
+            "themes": "Historical, Military"
+        },
+        {
+            "mal_id": 61517,
+            "title": "Kingdom 6th Season",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1265/149299l.jpg",
+            "anime_type": "TV",
+            "episodes": null,
+            "status": "Not yet aired",
+            "score": null,
+            "synopsis": "Dans la Chine ancienne, pendant la période des États en guerre, un ancien serviteur nommé Xin monte dans les rangs avec un rêve: devenir le plus grand général sous les cieux. Se battant aux côtés du roi Ying Zheng de Qin - qui cherche à unifier la Chine et à mettre fin au chaos - Xin mène sa propre unité, la Fei Xin Force, sur le champ de bataille.\n\nAvec le pouvoir récupéré par le chancelier influent Buwei Lü, le roi Ying Zheng commence à jeter les bases d'un nouvel État juridique unifié avec le soutien d'alliés clés comme le stratège Changping Jun et le légaliste Li Si.\n\nAlors que Qin lance une campagne pour saisir de nouveaux territoires de l'État de Zhao, leur avancée est interrompue par le brillant stratège, Li Mu. En réponse, Changping Jun élabore un plan audacieux: contourner les défenses de Zhao et frapper dans la ville clé de Gyou, près de la capitale de Zhao.\n\nPour effectuer cette manœuvre risquée, une puissante armée de coalition est formée - dirigée par les tacticiens ou Sen (Wang Jian), Kan Ki (Huan Yi) et la reine guerrière Yo Tan Wa (Yang Duanhe). Les rejoindre sont la prochaine génération de commandants Qin: Fei Xin Force de Xin, l'unité Gaku Ka de Mou Ten (Meng Tian), et l'unité Gyoku Hou de Ou Hon (Wang Ben), chacune opérant indépendamment.\n\nLa bataille féroce pour Gyou commence, alors que l'avenir de l'unification de Qin est en jeu.\n\n(Source: Mal News)",
+            "studios": "Pierrot, Studio Signpost",
+            "genres": "Action",
+            "themes": "Historical, Military"
+        },
+        {
             "mal_id": 60315,
             "title": "Dekin no Mogura",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1154/149311l.jpg",
@@ -4618,30 +4670,17 @@
             "themes": "Harem, School"
         },
         {
-            "mal_id": 61517,
-            "title": "Kingdom 6th Season",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1265/149299l.jpg",
+            "mal_id": 56734,
+            "title": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1348/149451l.jpg",
             "anime_type": "TV",
             "episodes": null,
             "status": "Not yet aired",
             "score": null,
-            "synopsis": "Dans la Chine ancienne, pendant la période des États en guerre, un ancien serviteur nommé Xin monte dans les rangs avec un rêve: devenir le plus grand général sous les cieux. Se battant aux côtés du roi Ying Zheng de Qin - qui cherche à unifier la Chine et à mettre fin au chaos - Xin mène sa propre unité, la Fei Xin Force, sur le champ de bataille.\n\nAvec le pouvoir récupéré par le chancelier influent Buwei Lü, le roi Ying Zheng commence à jeter les bases d'un nouvel État juridique unifié avec le soutien d'alliés clés comme le stratège Changping Jun et le légaliste Li Si.\n\nAlors que Qin lance une campagne pour saisir de nouveaux territoires de l'État de Zhao, leur avancée est interrompue par le brillant stratège, Li Mu. En réponse, Changping Jun élabore un plan audacieux: contourner les défenses de Zhao et frapper dans la ville clé de Gyou, près de la capitale de Zhao.\n\nPour effectuer cette manœuvre risquée, une puissante armée de coalition est formée - dirigée par les tacticiens ou Sen (Wang Jian), Kan Ki (Huan Yi) et la reine guerrière Yo Tan Wa (Yang Duanhe). Les rejoindre sont la prochaine génération de commandants Qin: Fei Xin Force de Xin, l'unité Gaku Ka de Mou Ten (Meng Tian), et l'unité Gyoku Hou de Ou Hon (Wang Ben), chacune opérant indépendamment.\n\nLa bataille féroce pour Gyou commence, alors que l'avenir de l'unification de Qin est en jeu.\n\n(Source: Mal News)",
-            "studios": "Pierrot, Studio Signpost",
-            "genres": "Action",
-            "themes": "Historical, Military"
-        },
-        {
-            "mal_id": 61517,
-            "title": "Kingdom 6th Season",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1265/149299l.jpg",
-            "anime_type": "TV",
-            "episodes": null,
-            "status": "Not yet aired",
-            "score": null,
-            "synopsis": "Dans la Chine ancienne, pendant la période des États en guerre, un ancien serviteur nommé Xin monte dans les rangs avec un rêve: devenir le plus grand général sous les cieux. Se battant aux côtés du roi Ying Zheng de Qin - qui cherche à unifier la Chine et à mettre fin au chaos - Xin mène sa propre unité, la Fei Xin Force, sur le champ de bataille.\n\nAvec le pouvoir récupéré par le chancelier influent Buwei Lü, le roi Ying Zheng commence à jeter les bases d'un nouvel État juridique unifié avec le soutien d'alliés clés comme le stratège Changping Jun et le légaliste Li Si.\n\nAlors que Qin lance une campagne pour saisir de nouveaux territoires de l'État de Zhao, leur avancée est interrompue par le brillant stratège, Li Mu. En réponse, Changping Jun élabore un plan audacieux: contourner les défenses de Zhao et frapper dans la ville clé de Gyou, près de la capitale de Zhao.\n\nPour effectuer cette manœuvre risquée, une puissante armée de coalition est formée - dirigée par les tacticiens ou Sen (Wang Jian), Kan Ki (Huan Yi) et la reine guerrière Yo Tan Wa (Yang Duanhe). Les rejoindre sont la prochaine génération de commandants Qin: Fei Xin Force de Xin, l'unité Gaku Ka de Mou Ten (Meng Tian), et l'unité Gyoku Hou de Ou Hon (Wang Ben), chacune opérant indépendamment.\n\nLa bataille féroce pour Gyou commence, alors que l'avenir de l'unification de Qin est en jeu.\n\n(Source: Mal News)",
-            "studios": "Pierrot, Studio Signpost",
-            "genres": "Action",
-            "themes": "Historical, Military"
+            "synopsis": "Moi, Maehara Maki, j'ai eu du mal à me connecter avec n'importe qui pendant mes années de lycée, j'ai du mal à se faire des amis. Ensuite, un tournant est arrivé. Une fille nommée Asanagi est entrée dans ma vie. En dépit d'être clandestinement appelée la \"deuxième fille la plus mignonne de classe\" par les garçons, elle a choisi de passer son vendredi avec moi au lieu de sa meilleure amie Amami, qui a tenu le titre \"Girl en classe la plus mignonne\". Dans le confort de ma maison, nous nous sommes plongés dans le domaine des jeux, regardé des films, nous sommes plongés dans des mangas, nous nous sommes livrés à la malbouffe - pizza, hamburgers - et cola, Carefree et Contenu. Pour le monde extérieur, nous aurions peut-être semblé un peu désordonné, mais à la fois pour Asanagi et moi, c'était un moment chéri et caché ensemble.\n\n(Source: Mal News)",
+            "studios": "Connect",
+            "genres": "Comedy, Romance",
+            "themes": "School"
         },
         {
             "mal_id": 59205,
@@ -4668,19 +4707,6 @@
             "studios": "",
             "genres": "Action, Adventure, Fantasy",
             "themes": "Isekai, Mecha"
-        },
-        {
-            "mal_id": 56734,
-            "title": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1348/149451l.jpg",
-            "anime_type": "TV",
-            "episodes": null,
-            "status": "Not yet aired",
-            "score": null,
-            "synopsis": "Moi, Maehara Maki, j'ai eu du mal à me connecter avec n'importe qui pendant mes années de lycée, j'ai du mal à se faire des amis. Ensuite, un tournant est arrivé. Une fille nommée Asanagi est entrée dans ma vie. En dépit d'être clandestinement appelée la \"deuxième fille la plus mignonne de classe\" par les garçons, elle a choisi de passer son vendredi avec moi au lieu de sa meilleure amie Amami, qui a tenu le titre \"Girl en classe la plus mignonne\". Dans le confort de ma maison, nous nous sommes plongés dans le domaine des jeux, regardé des films, nous sommes plongés dans des mangas, nous nous sommes livrés à la malbouffe - pizza, hamburgers - et cola, Carefree et Contenu. Pour le monde extérieur, nous aurions peut-être semblé un peu désordonné, mais à la fois pour Asanagi et moi, c'était un moment chéri et caché ensemble.\n\n(Source: Mal News)",
-            "studios": "Connect",
-            "genres": "Comedy, Romance",
-            "themes": "School"
         },
         {
             "mal_id": 60336,
@@ -4722,6 +4748,19 @@
             "themes": "Music"
         },
         {
+            "mal_id": 60371,
+            "title": "Seihantai na Kimi to Boku",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1766/148275l.jpg",
+            "anime_type": "TV",
+            "episodes": null,
+            "status": "Not yet aired",
+            "score": null,
+            "synopsis": "À côté de Miyu Suzuki, une lycéenne tendance et pétillante, s'assoit Yuusuke Tani, un garçon calme et franc. Leurs interactions sont brèves, limitées aux questions aléatoires non forcées de Suzuki et aux réponses succinctes de Tani. Pourtant, sous ces échanges simples, les sentiments d'amour s'épanouissent tranquillement.\n\nSuzuki voit Tani pour qui il est: un garçon simple qui respecte tout le monde de manière égale, complètement insouciante à l'intégration. Contrairement à Tani, elle est trop accrochée à ce que tout le monde pense, désespéré de garder son écrasement. Cependant, un léger malentendu conduit à Suzuki à avouer ses sentiments - et à son plus grand plaisir, Tani ressent la même chose. Jittery avec excitation, le jeune couple commence à sortir ensemble, se lançant dans un merveilleux voyage d'amitié et d'amour.\n\n[Écrit par MAL REWRITE]",
+            "studios": "Lapin Track",
+            "genres": "Comedy, Romance",
+            "themes": "School"
+        },
+        {
             "mal_id": 57093,
             "title": "Princess Principal: Crown Handler Movie 4",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1461/147981l.jpg",
@@ -4748,45 +4787,6 @@
             "themes": "Reincarnation"
         },
         {
-            "mal_id": 60371,
-            "title": "Seihantai na Kimi to Boku",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1766/148275l.jpg",
-            "anime_type": "TV",
-            "episodes": null,
-            "status": "Not yet aired",
-            "score": null,
-            "synopsis": "À côté de Miyu Suzuki, une lycéenne tendance et pétillante, s'assoit Yuusuke Tani, un garçon calme et franc. Leurs interactions sont brèves, limitées aux questions aléatoires non forcées de Suzuki et aux réponses succinctes de Tani. Pourtant, sous ces échanges simples, les sentiments d'amour s'épanouissent tranquillement.\n\nSuzuki voit Tani pour qui il est: un garçon simple qui respecte tout le monde également, complètement insuffisant de s'adapter. Contrairement à Tani, elle est trop accrochée à ce que tout le monde pense, désespéré de garder son écrasement. Cependant, un léger malentendu conduit à Suzuki à avouer ses sentiments - et à son plus grand plaisir, Tani ressent la même chose. Jittery avec excitation, le jeune couple commence à sortir ensemble, se lançant dans un merveilleux voyage d'amitié et d'amour.\n\n[Écrit par MAL REWRITE]",
-            "studios": "Lapin Track",
-            "genres": "Comedy, Romance",
-            "themes": "School"
-        },
-        {
-            "mal_id": 59817,
-            "title": "Girls Band Cry Movie",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1287/149287l.jpg",
-            "anime_type": "Movie",
-            "episodes": 2,
-            "status": "Not yet aired",
-            "score": null,
-            "synopsis": "Compilation théâtrale du groupe de filles Cry.",
-            "studios": "",
-            "genres": "Drama",
-            "themes": "Music"
-        },
-        {
-            "mal_id": 59817,
-            "title": "Girls Band Cry Movie",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1287/149287l.jpg",
-            "anime_type": "Movie",
-            "episodes": 2,
-            "status": "Not yet aired",
-            "score": null,
-            "synopsis": "Compilation théâtrale du groupe de filles Cry.",
-            "studios": "",
-            "genres": "Drama",
-            "themes": "Music"
-        },
-        {
             "mal_id": 61211,
             "title": "Mayonaka Heart Tune",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1884/148481l.jpg",
@@ -4798,6 +4798,32 @@
             "studios": "Gekkou",
             "genres": "Comedy, Romance",
             "themes": "Harem, School, Showbiz"
+        },
+        {
+            "mal_id": 59817,
+            "title": "Girls Band Cry Movie",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1287/149287l.jpg",
+            "anime_type": "Movie",
+            "episodes": 2,
+            "status": "Not yet aired",
+            "score": null,
+            "synopsis": "Compilation théâtrale du groupe de filles Cry.",
+            "studios": "",
+            "genres": "Drama",
+            "themes": "Music"
+        },
+        {
+            "mal_id": 59817,
+            "title": "Girls Band Cry Movie",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1287/149287l.jpg",
+            "anime_type": "Movie",
+            "episodes": 2,
+            "status": "Not yet aired",
+            "score": null,
+            "synopsis": "Compilation théâtrale du groupe de filles Cry.",
+            "studios": "",
+            "genres": "Drama",
+            "themes": "Music"
         },
         {
             "mal_id": 56907,
@@ -4956,19 +4982,6 @@
             "themes": "Isekai"
         },
         {
-            "mal_id": 61115,
-            "title": "Gochuumon wa Usagi desu ka? (Shinsaku Anime)",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1393/148220l.jpg",
-            "anime_type": null,
-            "episodes": null,
-            "status": "Not yet aired",
-            "score": null,
-            "synopsis": "Un nouveau projet d'anime pour gochuumon wa usagi desu ka ?.",
-            "studios": "",
-            "genres": "Slice of Life",
-            "themes": "CGDCT, Iyashikei, Workplace"
-        },
-        {
             "mal_id": 57071,
             "title": "Ginga Eiyuu Densetsu: Die Neue These (Zoku-hen)",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1567/139481l.jpg",
@@ -4980,6 +4993,19 @@
             "studios": "",
             "genres": "Drama, Sci-Fi",
             "themes": "Adult Cast, Military, Space"
+        },
+        {
+            "mal_id": 61115,
+            "title": "Gochuumon wa Usagi desu ka? (Shinsaku Anime)",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1393/148220l.jpg",
+            "anime_type": null,
+            "episodes": null,
+            "status": "Not yet aired",
+            "score": null,
+            "synopsis": "Un nouveau projet d'anime pour gochuumon wa usagi desu ka ?.",
+            "studios": "",
+            "genres": "Slice of Life",
+            "themes": "CGDCT, Iyashikei, Workplace"
         },
         {
             "mal_id": 59662,
@@ -5002,7 +5028,7 @@
             "episodes": null,
             "status": "Not yet aired",
             "score": null,
-            "synopsis": "L'histoire se concentre sur Gen Kinokura, un camping-car désexé qui chérit sa solitude. Au cours de l'un de ses voyages de camping habituels, il croise de façon inattendue avec Shizuku Kusano, un novice total de camping. Ce qui commence comme une rencontre accidentelle évolue vers un partenariat inhabituel, alors que les deux se lancent dans ce qui ne peut être décrit que comme \"Camping en solo pour deux\".\n\n(Source: Pony Canyon)",
+            "synopsis": "L'histoire se concentre sur Gen Kinokura, un camping-car désexé qui chérit sa solitude. Au cours de l'un de ses voyages de camping habituels, il croise de façon inattendue avec Shizuku Kusano, un novice total de camping. Ce qui commence comme une rencontre accidentelle évolue vers un partenariat inhabituel, alors que les deux se lancent dans ce qui ne peut être décrit que comme «camping en solo pour deux».\n\n(Source: Pony Canyon)",
             "studios": "SynergySP",
             "genres": "Slice of Life",
             "themes": "Adult Cast"
@@ -5054,7 +5080,7 @@
             "episodes": null,
             "status": "Not yet aired",
             "score": null,
-            "synopsis": "Yamai Zenjirou est votre travailleur de bureau quotidien au Japon moderne. Un matin, il se retrouve soudain convoqué dans un monde tropical où les dinosaures parcourent la terre. On lui dit que c'est le royaume de Capua et la personne qui l'a convoqué - son monarque, la reine Aura - le fait de l'épouser et de laisser sa vieille vie derrière pour une vie d'extravagance insouciante comme son consort du prince. Les raisons de son offre sont nombreuses et variées, mais elle a besoin d'un héritier, et elle veut qu'il soit celui qui le fournit!\n\nS'il accepte, il n'aura plus jamais à travailler, paressez-vous dans le luxe sans aucune inquiétude que de sécuriser le royaume son prochain monarque. Certes, dormir avec la beauté plantureuse est loin d'être des difficultés, mais tout est vraiment comme il semble? Il devra également abandonner tout ce qu'il sait sur Terre. Est-il prêt à tout laisser tomber à tout moment pour elle? Et dans quelle mesure pourra-t-il naviguer dans la politique, les gens et la culture de ce nouveau monde s'il le fait?\n\n(Source: J-Novel Club, édité)",
+            "synopsis": "Yamai Zenjirou est votre travailleur de bureau quotidien au Japon moderne. Un matin, il se retrouve soudain convoqué dans un monde tropical où les dinosaures parcourent la terre. On lui dit que c'est le royaume de Capua et la personne qui l'a convoqué - c'est monarque, la reine Aura - le fait de l'épouser et de quitter sa vieille vie pour une vie d'extravagance insouciante en tant que consort de prince. Les raisons de son offre sont nombreuses et variées, mais elle a besoin d'un héritier, et elle veut qu'il soit celui qui le fournit!\n\nS'il accepte, il n'aura plus jamais à travailler, paressez-vous dans le luxe sans aucune inquiétude que de sécuriser le royaume son prochain monarque. Certes, dormir avec la beauté plantureuse est loin d'être des difficultés, mais tout est vraiment comme il semble? Il devra également abandonner tout ce qu'il sait sur Terre. Est-il prêt à tout laisser tomber à tout moment pour elle? Et dans quelle mesure pourra-t-il naviguer dans la politique, les gens et la culture de ce nouveau monde s'il le fait?\n\n(Source: J-Novel Club, édité)",
             "studios": "",
             "genres": "Drama, Fantasy, Romance",
             "themes": "Isekai"
@@ -5125,19 +5151,6 @@
             "themes": "Reincarnation"
         },
         {
-            "mal_id": 48502,
-            "title": "Liu Yao",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1528/113686l.jpg",
-            "anime_type": "ONA",
-            "episodes": null,
-            "status": "Not yet aired",
-            "score": null,
-            "synopsis": "Une histoire de culture sur la façon dont une secte déclinante est restaurée par un narcissique, un fauteur de troubles, un méchant, un idiot et un enfant wimpy.\n\n(Source: Nouvelles mises à jour)",
-            "studios": "GARDEN Culture",
-            "genres": "Drama, Fantasy, Supernatural",
-            "themes": ""
-        },
-        {
             "mal_id": 57859,
             "title": "Egao no Taenai Shokuba desu.",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1826/148165l.jpg",
@@ -5149,6 +5162,19 @@
             "studios": "Voil",
             "genres": "Comedy",
             "themes": "Adult Cast, CGDCT, Otaku Culture, Workplace"
+        },
+        {
+            "mal_id": 48502,
+            "title": "Liu Yao",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1528/113686l.jpg",
+            "anime_type": "ONA",
+            "episodes": null,
+            "status": "Not yet aired",
+            "score": null,
+            "synopsis": "Une histoire de culture sur la façon dont une secte déclinante est restaurée par un narcissique, un fauteur de troubles, un méchant, un idiot et un enfant wimpy.\n\n(Source: Nouvelles mises à jour)",
+            "studios": "GARDEN Culture",
+            "genres": "Drama, Fantasy, Supernatural",
+            "themes": ""
         },
         {
             "mal_id": 56735,
@@ -5333,6 +5359,19 @@
             "themes": "Love Status Quo, School"
         },
         {
+            "mal_id": 58919,
+            "title": "Hyakuemu.",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1385/149361l.jpg",
+            "anime_type": "Movie",
+            "episodes": 1,
+            "status": "Not yet aired",
+            "score": null,
+            "synopsis": "Togashi est né pour courir. Enfant, il est naturellement doué et gagne chaque course de 100 mètres sans effort. Mais en sixième année, il rencontre Komiya, un étudiant en transfert plein de détermination mais qui manque de technique. En lui enseignant, Togashi donne à Komiya un nouvel objectif: gagner quoi qu'il arrive. Les années passent, Togashi et Komiya se réunissent à nouveau en tant que rivaux sur la piste et révèlent leur vrai moi.\n\n(Source: Annecy Festival)",
+            "studios": "Rock'n Roll Mountain",
+            "genres": "Drama, Sports",
+            "themes": ""
+        },
+        {
             "mal_id": 60427,
             "title": "Gnosia",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1347/148507l.jpg",
@@ -5357,19 +5396,6 @@
             "studios": "",
             "genres": "Comedy, Fantasy, Romance",
             "themes": "Adult Cast, Urban Fantasy, Workplace"
-        },
-        {
-            "mal_id": 58919,
-            "title": "Hyakuemu.",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1385/149361l.jpg",
-            "anime_type": "Movie",
-            "episodes": 1,
-            "status": "Not yet aired",
-            "score": null,
-            "synopsis": "Togashi est né pour courir. Enfant, il est naturellement doué et gagne chaque course de 100 mètres sans effort. Mais en sixième année, il rencontre Komiya, un étudiant en transfert plein de détermination mais qui manque de technique. En lui enseignant, Togashi donne à Komiya un nouvel objectif: gagner quoi qu'il arrive. Les années passent, Togashi et Komiya se réunissent à nouveau en tant que rivaux sur la piste et révèlent leur vrai moi.\n\n(Source: Annecy Festival)",
-            "studios": "Rock'n Roll Mountain",
-            "genres": "Drama, Sports",
-            "themes": ""
         },
         {
             "mal_id": 56837,
@@ -5463,19 +5489,6 @@
             "themes": "Workplace"
         },
         {
-            "mal_id": 35853,
-            "title": "Zero Seiki Movie 1: Emeraldas",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/11/86764l.jpg",
-            "anime_type": "Movie",
-            "episodes": 1,
-            "status": "Not yet aired",
-            "score": null,
-            "synopsis": "Un film d'anime qui a été annoncé à Japan Expo et qui devait être projeté en 2020 avant que la production ne soit retardée.",
-            "studios": "Production GoodBook",
-            "genres": "Action, Adventure, Sci-Fi",
-            "themes": ""
-        },
-        {
             "mal_id": 61209,
             "title": "Kao ni Denai Kashiwada-san to Kao ni Deru Oota-kun",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1491/148479l.jpg",
@@ -5487,6 +5500,19 @@
             "studios": "Studio Polon",
             "genres": "Comedy, Romance",
             "themes": "School"
+        },
+        {
+            "mal_id": 35853,
+            "title": "Zero Seiki Movie 1: Emeraldas",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/11/86764l.jpg",
+            "anime_type": "Movie",
+            "episodes": 1,
+            "status": "Not yet aired",
+            "score": null,
+            "synopsis": "Un film d'anime qui a été annoncé à Japan Expo et qui devait être projeté en 2020 avant que la production ne soit retardée.",
+            "studios": "Production GoodBook",
+            "genres": "Action, Adventure, Sci-Fi",
+            "themes": ""
         },
         {
             "mal_id": 56736,
@@ -5580,30 +5606,17 @@
             "themes": "Reverse Harem, School"
         },
         {
-            "mal_id": 60577,
-            "title": "Tong Ling Fei 2nd Season",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1292/147061l.jpg",
-            "anime_type": "ONA",
+            "mal_id": 61546,
+            "title": "Star Wars: Visions Presents - The Ninth Jedi",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1234/149352l.jpg",
+            "anime_type": null,
             "episodes": null,
             "status": "Not yet aired",
             "score": null,
-            "synopsis": "Qian Yunxi, la fille aînée du Premier ministre du Royaume Guyu, a des pouvoirs surnaturels. Elle a été considérée comme une personne malchanceuse depuis qu'elle est enfant et est forcée de se marier dans le palais. Voyant sa sincérité et sa gentillesse, le Prince Ye Youmin utilise des milliers de trucs pour montrer sa gentillesse. Qian Yunxi pense que le prince a de mauvaises intentions, alors elle se bat avec lui. Une vie de cohabitation chaotique commence.\n\n(Source: Bilibili, traduit)",
-            "studios": "Shengying Animation",
-            "genres": "Comedy, Drama, Romance",
-            "themes": "Historical"
-        },
-        {
-            "mal_id": 60577,
-            "title": "Tong Ling Fei 2nd Season",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1292/147061l.jpg",
-            "anime_type": "ONA",
-            "episodes": null,
-            "status": "Not yet aired",
-            "score": null,
-            "synopsis": "Qian Yunxi, la fille aînée du Premier ministre du Royaume Guyu, a des pouvoirs surnaturels. Elle a été considérée comme une personne malchanceuse depuis qu'elle est enfant et est forcée de se marier dans le palais. Voyant sa sincérité et sa gentillesse, le Prince Ye Youmin utilise des milliers de trucs pour montrer sa gentillesse. Qian Yunxi pense que le prince a de mauvaises intentions, alors elle se bat avec lui. Une vie de cohabitation chaotique commence.\n\n(Source: Bilibili, traduit)",
-            "studios": "Shengying Animation",
-            "genres": "Comedy, Drama, Romance",
-            "themes": "Historical"
+            "synopsis": "Un spin-off qui se développera le neuvième Jedi dans un format plus long.",
+            "studios": "",
+            "genres": "Action, Adventure, Sci-Fi",
+            "themes": "Military, Space"
         },
         {
             "mal_id": 57820,
@@ -5619,17 +5632,30 @@
             "themes": ""
         },
         {
-            "mal_id": 61546,
-            "title": "Star Wars: Visions Presents - The Ninth Jedi",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1234/149352l.jpg",
-            "anime_type": null,
+            "mal_id": 60577,
+            "title": "Tong Ling Fei 2nd Season",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1292/147061l.jpg",
+            "anime_type": "ONA",
             "episodes": null,
             "status": "Not yet aired",
             "score": null,
-            "synopsis": "Un spin-off qui se développera le neuvième Jedi dans un format plus long.",
-            "studios": "",
-            "genres": "Action, Adventure, Sci-Fi",
-            "themes": "Military, Space"
+            "synopsis": "Qian Yunxi, la fille aînée du Premier ministre du Royaume Guyu, a des pouvoirs surnaturels. Elle a été considérée comme une personne malchanceuse depuis qu'elle est enfant et est forcée de se marier dans le palais. Voyant sa sincérité et sa gentillesse, le Prince Ye Youmin utilise des milliers de trucs pour montrer sa gentillesse. Qian Yunxi pense que le prince a de mauvaises intentions, alors elle se bat avec lui. Une vie de cohabitation chaotique commence.\n\n(Source: Bilibili, traduit)",
+            "studios": "Shengying Animation",
+            "genres": "Comedy, Drama, Romance",
+            "themes": "Historical"
+        },
+        {
+            "mal_id": 60577,
+            "title": "Tong Ling Fei 2nd Season",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1292/147061l.jpg",
+            "anime_type": "ONA",
+            "episodes": null,
+            "status": "Not yet aired",
+            "score": null,
+            "synopsis": "Qian Yunxi, la fille aînée du Premier ministre du Royaume Guyu, a des pouvoirs surnaturels. Elle a été considérée comme une personne malchanceuse depuis qu'elle est enfant et est forcée de se marier dans le palais. Voyant sa sincérité et sa gentillesse, le Prince Ye Youmin utilise des milliers de trucs pour montrer sa gentillesse. Qian Yunxi pense que le prince a de mauvaises intentions, alors elle se bat avec lui. Une vie de cohabitation chaotique commence.\n\n(Source: Bilibili, traduit)",
+            "studios": "Shengying Animation",
+            "genres": "Comedy, Drama, Romance",
+            "themes": "Historical"
         },
         {
             "mal_id": 56613,
@@ -5710,19 +5736,6 @@
             "themes": "Reincarnation"
         },
         {
-            "mal_id": 59005,
-            "title": "Leviathan",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1964/143449l.jpg",
-            "anime_type": "ONA",
-            "episodes": null,
-            "status": "Not yet aired",
-            "score": null,
-            "synopsis": "En 1914, à la veille de la guerre, un prince fugitif et une fille déguisée se rencontrent à bord d'un dirigeable bio-conçu, le HMS Leviathan, et changent le cours de l'histoire. \n\n(Source: Netflix)",
-            "studios": "Orange",
-            "genres": "Adventure, Sci-Fi",
-            "themes": "Historical"
-        },
-        {
             "mal_id": 60697,
             "title": "Fermat no Ryouri",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1862/148422l.jpg",
@@ -5734,6 +5747,45 @@
             "studios": "domerica",
             "genres": "Gourmet",
             "themes": ""
+        },
+        {
+            "mal_id": 61023,
+            "title": "Hitozuma no Kuchibiru wa Kan Chuuhai no Aji ga Shite",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1961/149183l.jpg",
+            "anime_type": "TV",
+            "episodes": null,
+            "status": "Not yet aired",
+            "score": null,
+            "synopsis": "Tsuyoshi, un étudiant universitaire de troisième année de 22 ans, passe ses journées à jongler avec les cours et son travail de livraison de nourriture, avec une boîte de Chuuhai fort toujours à portée de main. Vivant seul dans un petit appartement, sa routine banale prend une tournure inattendue lorsqu'il se retrouve empêtré avec Yui Koriyama, une femme mariée qu'il a admirée depuis l'enfance. Ce qui commence comme une connexion innocente dégénère bientôt en quelque chose de bien plus intime, brouillant les frontières entre le désir, le désir et la moralité.\n\nDans un contexte de nuits tranquilles et de moments volés, ce conte risqué mais comique explore le frisson et les complications d'une romance illicite - où chaque rencontre est à la fois enivrante et dangereuse.\n\n(Source: Mal News)",
+            "studios": "Raiose",
+            "genres": "Romance, Ecchi",
+            "themes": "Adult Cast"
+        },
+        {
+            "mal_id": 61023,
+            "title": "Hitozuma no Kuchibiru wa Kan Chuuhai no Aji ga Shite",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1961/149183l.jpg",
+            "anime_type": "TV",
+            "episodes": null,
+            "status": "Not yet aired",
+            "score": null,
+            "synopsis": "Tsuyoshi, un étudiant universitaire de troisième année de 22 ans, passe ses journées à jongler avec les cours et son travail de livraison de nourriture, avec une boîte de Chuuhai fort toujours à portée de main. Vivant seul dans un petit appartement, sa routine banale prend une tournure inattendue lorsqu'il se retrouve empêtré avec Yui Koriyama, une femme mariée qu'il a admirée depuis l'enfance. Ce qui commence comme une connexion innocente dégénère bientôt en quelque chose de bien plus intime, brouillant les frontières entre le désir, le désir et la moralité.\n\nDans un contexte de nuits tranquilles et de moments volés, ce conte risqué mais comique explore le frisson et les complications d'une romance illicite - où chaque rencontre est à la fois enivrante et dangereuse.\n\n(Source: Mal News)",
+            "studios": "Raiose",
+            "genres": "Romance, Ecchi",
+            "themes": "Adult Cast"
+        },
+        {
+            "mal_id": 59005,
+            "title": "Leviathan",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1964/143449l.jpg",
+            "anime_type": "ONA",
+            "episodes": null,
+            "status": "Not yet aired",
+            "score": null,
+            "synopsis": "En 1914, à la veille de la guerre, un prince fugitif et une fille déguisée se rencontrent à bord d'un dirigeable bio-conçu, le HMS Leviathan, et changent le cours de l'histoire. \n\n(Source: Netflix)",
+            "studios": "Orange",
+            "genres": "Adventure, Sci-Fi",
+            "themes": "Historical"
         },
         {
             "mal_id": 57969,
@@ -5801,32 +5853,6 @@
             "themes": "Idols (Female), Music"
         },
         {
-            "mal_id": 61023,
-            "title": "Hitozuma no Kuchibiru wa Kan Chuuhai no Aji ga Shite",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1961/149183l.jpg",
-            "anime_type": "TV",
-            "episodes": null,
-            "status": "Not yet aired",
-            "score": null,
-            "synopsis": "Tsuyoshi, un étudiant universitaire de troisième année de 22 ans, passe ses journées à jongler avec les cours et son travail de livraison de nourriture, avec une boîte de Chuuhai fort toujours à portée de main. Vivant seul dans un petit appartement, sa routine banale prend une tournure inattendue lorsqu'il se retrouve empêtré avec Yui Koriyama, une femme mariée qu'il a admirée depuis l'enfance. Ce qui commence comme une connexion innocente dégénère bientôt en quelque chose de bien plus intime, brouillant les frontières entre le désir, le désir et la moralité.\n\nDans un contexte de nuits tranquilles et de moments volés, ce conte risqué mais comique explore le frisson et les complications d'une romance illicite - où chaque rencontre est à la fois enivrante et dangereuse.\n\n(Source: Mal News)",
-            "studios": "Raiose",
-            "genres": "Romance, Ecchi",
-            "themes": "Adult Cast"
-        },
-        {
-            "mal_id": 61023,
-            "title": "Hitozuma no Kuchibiru wa Kan Chuuhai no Aji ga Shite",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1961/149183l.jpg",
-            "anime_type": "TV",
-            "episodes": null,
-            "status": "Not yet aired",
-            "score": null,
-            "synopsis": "Tsuyoshi, un étudiant universitaire de troisième année de 22 ans, passe ses journées à jongler avec les cours et son travail de livraison de nourriture, avec une boîte de Chuuhai fort toujours à portée de main. Vivant seul dans un petit appartement, sa routine banale prend une tournure inattendue lorsqu'il se retrouve empêtré avec Yui Koriyama, une femme mariée qu'il a admirée depuis l'enfance. Ce qui commence comme une connexion innocente dégénère bientôt en quelque chose de bien plus intime, brouillant les frontières entre le désir, le désir et la moralité.\n\nDans un contexte de nuits tranquilles et de moments volés, ce conte risqué mais comique explore le frisson et les complications d'une romance illicite - où chaque rencontre est à la fois enivrante et dangereuse.\n\n(Source: Mal News)",
-            "studios": "Raiose",
-            "genres": "Romance, Ecchi",
-            "themes": "Adult Cast"
-        },
-        {
             "mal_id": 60508,
             "title": "Food Court de, Mata Ashita.",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1402/146947l.jpg",
@@ -5879,6 +5905,32 @@
             "themes": ""
         },
         {
+            "mal_id": 61501,
+            "title": "Kanan-sama wa Akumade Choroi",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1165/149264l.jpg",
+            "anime_type": "TV",
+            "episodes": null,
+            "status": "Not yet aired",
+            "score": null,
+            "synopsis": "Kanan est un démon qui descend sur le monde humain avec un seul objectif: se régaler de la plus douce délicatesse de toutes - des âmes humaines. Déguisée en lycéen, elle vise sa première cible, un garçon sans prétention nommé Youji Kyougi. Mais tout comme elle se prépare à réclamer son repas, les choses prennent une tournure très inattendue.\n\nAu lieu de le dévorer, Kanan finit par former un \"contrat romantique\" avec Youji. Pour quelqu'un qui a vécu pendant des millénaires sans vivre de l'amour, la navigation dans la romance du lycée s'avère plus terrifiante que n'importe quelle chasse. Entre les dates gênantes, les mésaventures de maintien des mains et les sentiments qu'elle ne peut pas tout à fait nommer, le démon autrefois fier se retrouve agité à chaque tournant.\n\nUn romcom surnaturel sur un démon amoureux et le garçon qui était censé être sa proie - sucrée, chaotique et pleine de premières.\n\n(Source: Mal News)",
+            "studios": "Studio Kai",
+            "genres": "Comedy, Romance, Supernatural",
+            "themes": "School"
+        },
+        {
+            "mal_id": 61501,
+            "title": "Kanan-sama wa Akumade Choroi",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1165/149264l.jpg",
+            "anime_type": "TV",
+            "episodes": null,
+            "status": "Not yet aired",
+            "score": null,
+            "synopsis": "Kanan est un démon qui descend sur le monde humain avec un seul objectif: se régaler de la plus douce délicatesse de toutes - des âmes humaines. Déguisée en lycéen, elle vise sa première cible, un garçon sans prétention nommé Youji Kyougi. Mais tout comme elle se prépare à réclamer son repas, les choses prennent une tournure très inattendue.\n\nAu lieu de le dévorer, Kanan finit par former un \"contrat romantique\" avec Youji. Pour quelqu'un qui a vécu pendant des millénaires sans vivre de l'amour, la navigation dans la romance du lycée s'avère plus terrifiante que n'importe quelle chasse. Entre les dates gênantes, les mésaventures de maintien des mains et les sentiments qu'elle ne peut pas tout à fait nommer, le démon autrefois fier se retrouve agité à chaque tournant.\n\nUn romcom surnaturel sur un démon amoureux et le garçon qui était censé être sa proie - sucrée, chaotique et pleine de premières.\n\n(Source: Mal News)",
+            "studios": "Studio Kai",
+            "genres": "Comedy, Romance, Supernatural",
+            "themes": "School"
+        },
+        {
             "mal_id": 60684,
             "title": "Yeosin Gangnim 2nd Season",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1745/147328l.jpg",
@@ -5918,19 +5970,6 @@
             "themes": "Mecha, Workplace"
         },
         {
-            "mal_id": 58957,
-            "title": "9: Ruler's Crown",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1154/145364l.jpg",
-            "anime_type": "TV",
-            "episodes": null,
-            "status": "Not yet aired",
-            "score": null,
-            "synopsis": "La scène: Shiromitsugawa, une ville universitaire ordinaire qui a lancé plusieurs tentatives infructueuses pour stimuler le tourisme et se revitaliser, notamment parrainant un anime local à grand budget mais pauvrement rédigé sur la base du folklore local. Une tempête est sur le point de descendre dans cette ville endormie.\n\nNous suivons Kakeru Niimi, un homme qui peut parfois être un peu brut mais qui a un fort sens des responsabilités et un cœur aimable. La vie ordinaire de Kakeru est jetée dans le chaos après que la relique sacrée du sanctuaire local se brise. À la suite de cet événement, plusieurs jeunes hommes et femmes se réveillent aux capacités surhumaines.\n\nCe qui était autrefois une vie banale dans une ville ordinaire se transforme bientôt en une quête pour retrouver un tueur en série super puissant avant de pouvoir frapper à nouveau.\n\n(Source: projet Sekai)",
-            "studios": "PRA",
-            "genres": "",
-            "themes": "Super Power"
-        },
-        {
             "mal_id": 60316,
             "title": "Busamen Gachi Fighter",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1034/146540l.jpg",
@@ -5944,30 +5983,17 @@
             "themes": "Isekai"
         },
         {
-            "mal_id": 61501,
-            "title": "Kanan-sama wa Akumade Choroi",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1165/149264l.jpg",
+            "mal_id": 58957,
+            "title": "9: Ruler's Crown",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1154/145364l.jpg",
             "anime_type": "TV",
             "episodes": null,
             "status": "Not yet aired",
             "score": null,
-            "synopsis": "Kanan est un démon qui descend sur le monde humain avec un seul objectif: se régaler de la plus douce délicatesse de toutes - des âmes humaines. Déguisée en lycéen, elle vise sa première cible, un garçon sans prétention nommé Youji Kyougi. Mais tout comme elle se prépare à réclamer son repas, les choses prennent une tournure très inattendue.\n\nAu lieu de le dévorer, Kanan finit par former un \"contrat romantique\" avec Youji. Pour quelqu'un qui a vécu pendant des millénaires sans vivre de l'amour, la navigation dans la romance du lycée s'avère plus terrifiante que n'importe quelle chasse. Entre les dates gênantes, les mésaventures de maintien des mains et les sentiments qu'elle ne peut pas tout à fait nommer, le démon autrefois fier se retrouve agité à chaque tournant.\n\nUn romcom surnaturel sur un démon amoureux et le garçon qui était censé être sa proie - sucrée, chaotique et pleine de premières.\n\n(Source: Mal News)",
-            "studios": "Studio Kai",
-            "genres": "Comedy, Romance, Supernatural",
-            "themes": "School"
-        },
-        {
-            "mal_id": 61501,
-            "title": "Kanan-sama wa Akumade Choroi",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1165/149264l.jpg",
-            "anime_type": "TV",
-            "episodes": null,
-            "status": "Not yet aired",
-            "score": null,
-            "synopsis": "Kanan est un démon qui descend sur le monde humain avec un seul objectif: se régaler de la plus douce délicatesse de toutes - des âmes humaines. Déguisée en lycéen, elle vise sa première cible, un garçon sans prétention nommé Youji Kyougi. Mais tout comme elle se prépare à réclamer son repas, les choses prennent une tournure très inattendue.\n\nAu lieu de le dévorer, Kanan finit par former un \"contrat romantique\" avec Youji. Pour quelqu'un qui a vécu pendant des millénaires sans vivre de l'amour, la navigation dans la romance du lycée s'avère plus terrifiante que n'importe quelle chasse. Entre les dates gênantes, les mésaventures de maintien des mains et les sentiments qu'elle ne peut pas tout à fait nommer, le démon autrefois fier se retrouve agité à chaque tournant.\n\nUn romcom surnaturel sur un démon amoureux et le garçon qui était censé être sa proie - sucrée, chaotique et pleine de premières.\n\n(Source: Mal News)",
-            "studios": "Studio Kai",
-            "genres": "Comedy, Romance, Supernatural",
-            "themes": "School"
+            "synopsis": "La scène: Shiromitsugawa, une ville universitaire ordinaire qui a lancé plusieurs tentatives infructueuses pour stimuler le tourisme et se revitaliser, notamment parrainant un anime local à grand budget mais pauvrement rédigé sur la base du folklore local. Une tempête est sur le point de descendre dans cette ville endormie.\n\nNous suivons Kakeru Niimi, un homme qui peut parfois être un peu brut mais qui a un fort sens des responsabilités et un cœur aimable. La vie ordinaire de Kakeru est jetée dans le chaos après que la relique sacrée du sanctuaire local se brise. À la suite de cet événement, plusieurs jeunes hommes et femmes se réveillent aux capacités surhumaines.\n\nCe qui était autrefois une vie banale dans une ville ordinaire se transforme bientôt en une quête pour retrouver un tueur en série super puissant avant de pouvoir frapper à nouveau.\n\n(Source: projet Sekai)",
+            "studios": "PRA",
+            "genres": "",
+            "themes": "Super Power"
         },
         {
             "mal_id": 60933,
@@ -5983,6 +6009,32 @@
             "themes": "School, Vampire"
         },
         {
+            "mal_id": 59711,
+            "title": "Shibou Yuugi de Meshi wo Kuu.",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1850/145199l.jpg",
+            "anime_type": "TV",
+            "episodes": null,
+            "status": "Not yet aired",
+            "score": null,
+            "synopsis": "Yuki se réveille pour se retrouver dans un manoir inconnu, portant un uniforme de femme de chambre et allongé sur un lit luxueux. Bientôt, elle découvre cinq autres filles, toutes habillées de la même chose qu'elle. C'est la maison fantôme, et la seule façon dont ils peuvent survivre est de traverser les pièges qui attendent - voire des jeux pleins de coups de sang, de scies à buzz, de pièces verrouillées et d'armes. C'est une situation désespérée et terrifiante pour tout le monde là-bas ... eh bien, tout le monde sauf Yuki. Après tout, c'est sa carrière à Seventeen. Pensez-vous que c'est étrange? Elle serait d'accord. Mais c'est comme ça que certaines personnes sont - elles gagnent leur vie en jouant à des jeux de mort.\n\n(Source: Yen Press)",
+            "studios": "Studio Deen",
+            "genres": "Action, Suspense",
+            "themes": "High Stakes Game"
+        },
+        {
+            "mal_id": 59711,
+            "title": "Shibou Yuugi de Meshi wo Kuu.",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1850/145199l.jpg",
+            "anime_type": "TV",
+            "episodes": null,
+            "status": "Not yet aired",
+            "score": null,
+            "synopsis": "Yuki se réveille pour se retrouver dans un manoir inconnu, portant un uniforme de femme de chambre et allongé sur un lit luxueux. Bientôt, elle découvre cinq autres filles, toutes habillées de la même chose qu'elle. C'est la maison fantôme, et la seule façon dont ils peuvent survivre est de traverser les pièges qui attendent - voire des jeux pleins de coups de sang, de scies à buzz, de pièces verrouillées et d'armes. C'est une situation désespérée et terrifiante pour tout le monde là-bas ... eh bien, tout le monde sauf Yuki. Après tout, c'est sa carrière à Seventeen. Pensez-vous que c'est étrange? Elle serait d'accord. Mais c'est comme ça que certaines personnes sont - elles gagnent leur vie en jouant à des jeux de mort.\n\n(Source: Yen Press)",
+            "studios": "Studio Deen",
+            "genres": "Action, Suspense",
+            "themes": "High Stakes Game"
+        },
+        {
             "mal_id": 61333,
             "title": "Ao no Miburo: Serizawa Ansatsu-hen",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1906/148878l.jpg",
@@ -5994,32 +6046,6 @@
             "studios": "",
             "genres": "Action",
             "themes": "Historical, Samurai"
-        },
-        {
-            "mal_id": 59711,
-            "title": "Shibou Yuugi de Meshi wo Kuu.",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1850/145199l.jpg",
-            "anime_type": "TV",
-            "episodes": null,
-            "status": "Not yet aired",
-            "score": null,
-            "synopsis": "Yuki se réveille pour se retrouver dans un manoir inconnu, portant un uniforme de femme de chambre et allongé sur un lit luxueux. Bientôt, elle découvre cinq autres filles, toutes habillées de la même chose qu'elle. C'est la maison fantôme, et la seule façon dont ils peuvent survivre est de traverser les pièges qui attendent - voire des jeux pleins de coups de sang, de scies à buzz, de pièces verrouillées et d'armes. C'est une situation désespérée et terrifiante pour tout le monde là-bas ... eh bien, tout le monde sauf Yuki. Après tout, c'est sa carrière à Seventeen. Pensez-vous que c'est étrange? Elle serait d'accord. Mais c'est comme ça que certaines personnes sont - elles gagnent leur vie en jouant à des jeux de mort.\n\n(Source: Yen Press)",
-            "studios": "Studio Deen",
-            "genres": "Action, Suspense",
-            "themes": "High Stakes Game"
-        },
-        {
-            "mal_id": 59711,
-            "title": "Shibou Yuugi de Meshi wo Kuu.",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1850/145199l.jpg",
-            "anime_type": "TV",
-            "episodes": null,
-            "status": "Not yet aired",
-            "score": null,
-            "synopsis": "Yuki se réveille pour se retrouver dans un manoir inconnu, portant un uniforme de femme de chambre et allongé sur un lit luxueux. Bientôt, elle découvre cinq autres filles, toutes habillées de la même chose qu'elle. C'est la maison fantôme, et la seule façon dont ils peuvent survivre est de traverser les pièges qui attendent - voire des jeux pleins de coups de sang, de scies à buzz, de pièces verrouillées et d'armes. C'est une situation désespérée et terrifiante pour tout le monde là-bas ... eh bien, tout le monde sauf Yuki. Après tout, c'est sa carrière à Seventeen. Pensez-vous que c'est étrange? Elle serait d'accord. Mais c'est comme ça que certaines personnes sont - elles gagnent leur vie en jouant à des jeux de mort.\n\n(Source: Yen Press)",
-            "studios": "Studio Deen",
-            "genres": "Action, Suspense",
-            "themes": "High Stakes Game"
         },
         {
             "mal_id": 60230,
@@ -6139,6 +6165,19 @@
             "themes": "Music, School"
         },
         {
+            "mal_id": 61150,
+            "title": "Onmyou Kaiten Re:Birth",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1100/148312l.jpg",
+            "anime_type": "TV",
+            "episodes": null,
+            "status": "Not yet aired",
+            "score": null,
+            "synopsis": "Takeru Narihira est un délinquant loup solitaire qui passe ses journées à se battre, à éviter les amitiés et à être captivé par une mystérieuse fille nommée Tsukimiya - quelqu'un qu'il n'a jamais vu que dans ses rêves.\n\nUn jour, un accident soudain l'envoie dégringoler d'une falaise. Quand il reprend conscience, il se retrouve à Denji Heian-kyou, une version futuriste de la capitale ancienne, où la technologie de pointe et le mysticisme coexistent. Ce monde est sous la protection du légendaire Onmyouji, Abe no Seimei - et au choc de Takeru, Tsukimiya est réel et vit à cet endroit.\n\nJuste au moment où il commence à se délecter de cette rencontre façante, une brume noire mortelle connue sous le nom de Yamikaoru descend, amenant des êtres monstrueux appelés Oni. Dans le chaos, lui et Tsukimiya sont tués - seulement pour que Takeru se réveille à nouveau dans Denji Heian-kyou.\n\nRéalisant qu'il a en quelque sorte glissé dans le temps, Takeru se résout de défier le destin. Pour protéger Tsukimiya de son avenir condamné, il se tourne vers Abe No Seimei pour s'entraîner dans l'art de Onmyou-Jutsu. Maintenant, en tant que Onmyouji lui-même, il doit se battre pour réécrire le destin et découvrir la vérité derrière ce nouveau monde étrange.\n\n(Source: Mal News)",
+            "studios": "David Production",
+            "genres": "Action, Fantasy",
+            "themes": "Isekai"
+        },
+        {
             "mal_id": 60253,
             "title": "Isekai Munchkin: HP1 no Mama de Saikyou Saisoku Dungeon Kouryaku",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1932/146391l.jpg",
@@ -6159,7 +6198,7 @@
             "episodes": null,
             "status": "Not yet aired",
             "score": null,
-            "synopsis": "Noa, la plus forte de six ans du monde, détient la position chanceuse d'être le treizième prince de l'empereur. Né avec un capuchon de niveau infini et une compétence de triche qui lui permet d'ajouter les capacités de ceux qu'il commande à la sienne, il est inégalé. Réincarné en une famille noble, NOA prospère dans un environnement enrichi d'une éducation exceptionnelle et de ressources abondantes, permettant à ses talents de s'épanouir. Cependant, derrière la façade glamour de la société aristocratique se cache un monde de complots et de luttes de pouvoir.\n\n(Source: Pony Canyon)",
+            "synopsis": "Noa, la plus forte de six ans du monde, détient la position chanceuse d'être le treizième prince de l'empereur. Né avec un capuchon de niveau infini et une compétence de triche qui lui permet d'ajouter les capacités de ceux qu'il commande à la sienne, il est inégalé. Réincarné en une famille noble, la NOA prospère dans un environnement enrichi d'une éducation exceptionnelle et de ressources abondantes, permettant à ses talents de s'épanouir. Cependant, derrière la façade glamour de la société aristocratique se cache un monde de complots et de luttes de pouvoir.\n\n(Source: Pony Canyon)",
             "studios": "",
             "genres": "Action, Adventure, Fantasy",
             "themes": ""
@@ -6178,17 +6217,17 @@
             "themes": "Super Power, Urban Fantasy"
         },
         {
-            "mal_id": 61150,
-            "title": "Onmyou Kaiten Re:Birth",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1100/148312l.jpg",
+            "mal_id": 60969,
+            "title": "Taiyou yori mo Mabushii Hoshi",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1971/149410l.jpg",
             "anime_type": "TV",
             "episodes": null,
             "status": "Not yet aired",
             "score": null,
-            "synopsis": "Takeru Narihira est un délinquant loup solitaire qui passe ses journées à se battre, à éviter les amitiés et à être captivé par une mystérieuse fille nommée Tsukimiya - quelqu'un qu'il n'a jamais vu que dans ses rêves.\n\nUn jour, un accident soudain l'envoie dégringoler d'une falaise. Quand il reprend conscience, il se retrouve à Denji Heian-kyou, une version futuriste de la capitale ancienne, où la technologie de pointe et le mysticisme coexistent. Ce monde est sous la protection du légendaire Onmyouji, Abe no Seimei - et au choc de Takeru, Tsukimiya est réel et vit à cet endroit.\n\nJuste au moment où il commence à se délecter de cette rencontre façante, une brume noire mortelle connue sous le nom de Yamikaoru descend, amenant des êtres monstrueux appelés Oni. Dans le chaos, lui et Tsukimiya sont tués - seulement pour que Takeru se réveille à nouveau dans Denji Heian-kyou.\n\nRéalisant qu'il a en quelque sorte glissé dans le temps, Takeru se résout de défier le destin. Pour protéger Tsukimiya de son avenir condamné, il se tourne vers Abe No Seimei pour s'entraîner dans l'art de Onmyou-Jutsu. Maintenant, en tant que Onmyouji lui-même, il doit se battre pour réécrire le destin et découvrir la vérité derrière ce nouveau monde étrange.\n\n(Source: Mal News)",
-            "studios": "David Production",
-            "genres": "Action, Fantasy",
-            "themes": "Isekai"
+            "synopsis": "SAE et KOKI sont amis depuis l'enfance. Une journée fatidique à la fin du collège, elle a une révélation: Koki a grandi! Maintenant, ils sont au lycée, et elle a une autre révélation: elle a des sentiments pour Koki! Mais Sae n'est pas la seule fille qui fait ... la question est de savoir pour qui Koki a-t-il des sentiments ?!\n\n(Source: VIZ Media)",
+            "studios": "Studio Kai",
+            "genres": "Romance",
+            "themes": "School"
         },
         {
             "mal_id": 55034,
@@ -6202,19 +6241,6 @@
             "studios": "",
             "genres": "Action, Adventure",
             "themes": "Historical, Martial Arts"
-        },
-        {
-            "mal_id": 60969,
-            "title": "Taiyou yori mo Mabushii Hoshi",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1971/149410l.jpg",
-            "anime_type": "TV",
-            "episodes": null,
-            "status": "Not yet aired",
-            "score": null,
-            "synopsis": "SAE et KOKI sont amis depuis l'enfance. Une journée fatidique à la fin du collège, elle a une révélation: Koki a grandi! Maintenant, ils sont au lycée, et elle a une autre révélation: elle a des sentiments pour Koki! Mais Sae n'est pas la seule fille qui fait ... la question est de savoir pour qui Koki a-t-il des sentiments ?!\n\n(Source: VIZ Media)",
-            "studios": "Studio Kai",
-            "genres": "Romance",
-            "themes": "School"
         },
         {
             "mal_id": 50405,
@@ -6503,6 +6529,19 @@
             "themes": ""
         },
         {
+            "mal_id": 59484,
+            "title": "Kikaijikake no Marie",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1520/149409l.jpg",
+            "anime_type": "TV",
+            "episodes": null,
+            "status": "Not yet aired",
+            "score": null,
+            "synopsis": "Arthur Louis Zetes, riche, beau et réussi, n'est pas étranger à la cupidité des gens. Doutant constamment ceux qui l'entourent, il n'a aucune foi en l'humanité; Ainsi, il fait une demande pour la femme de chambre parfaite - une femme de chambre robot. Cependant, son majordome n'est pas en mesure d'acquérir un tel serviteur en raison de limitations technologiques, il trouve donc le prochain meilleur substitut.\n\nMarie Evans est une ancienne enfant prodige des arts martiaux connue pour son manque d'expression. Noyée de dette, elle accepte facilement l'offre d'être une femme de chambre qui agit comme un robot. Alors qu'Arthur est souvent émoussé envers les humains, il ne peut s'empêcher de ne pas tomber sur son robot personnel; À son tour, Marie est émue par sa campagne et sa considération vers elle.\n\nKikaijikake no Marie suit la vie quotidienne comique d'un riche héritier et sa femme de chambre mécanique (humaine).\n\n[Écrit par MAL REWRITE]",
+            "studios": "Zero-G, Liber",
+            "genres": "Comedy, Romance",
+            "themes": ""
+        },
+        {
             "mal_id": 61128,
             "title": "Yuusha Party wo Oidasareta Kiyoubinbou",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1857/148252l.jpg",
@@ -6529,19 +6568,6 @@
             "themes": "Anthropomorphic, Gag Humor, School"
         },
         {
-            "mal_id": 56929,
-            "title": "World End Economica",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1952/139141l.jpg",
-            "anime_type": "Movie",
-            "episodes": 1,
-            "status": "Not yet aired",
-            "score": null,
-            "synopsis": "Yoshiharu Kawaura fait partie de la première génération d'humains nés sur la lune et a un rêve sauvage: faire partie de l'élite qui vivent dans le centre de la ville lunaire. En tant qu'adolescent sans-abri, avec seulement de maigres économies et une attitude irrévérencieuse, il se cache et dort dans des cafés Internet tout en échangeant des actions à la Bourse Lunar. Avec son travail acharné et son intuition naturelle du marché, son argent de semence de mille mools atteint soixante-douze mille mools en quelques mois, avec la fin de sa séquence nulle part en vue.\n\nMalheureusement, bien que la lune soit un paradis économique avec des réglementations limitées et des impôts bas, les oursins de rue comme Yoshiharu doivent toujours rester à l'affût. Après un appel particulièrement étroit avec la police, il se réfugime dans une église détenue et dirigé par Risa, un travailleur à temps partiel dans un restaurant chinois. Dans un coup de sort, il est également resté à l'église, une fille froide aux yeux moyens et aux capacités mathématiques de niveau génie. Yoshiharu - en supposant maintenant que le pseudonyme Haru - considère immédiatement le potentiel de Hagana en tant qu'analyste quantitatif et établit un partenariat avec elle pour un concours de trading d'actions virtuels connu pour être un ticket dans la communauté financière. Alors que leur succès croissant à la fois dans et hors de la concurrence conduit à plus de gens d'investir dans Haru et son objectif, pourra-t-il garder son sang-froid et rester au sommet du marché toujours volatile?\n\n[Écrit par MAL REWRITE]",
-            "studios": "",
-            "genres": "Adventure, Romance, Sci-Fi",
-            "themes": ""
-        },
-        {
             "mal_id": 61443,
             "title": "Shunkashuutou Daikousha: Haru no Mai",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1908/149187l.jpg",
@@ -6555,16 +6581,16 @@
             "themes": ""
         },
         {
-            "mal_id": 59484,
-            "title": "Kikaijikake no Marie",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1520/149409l.jpg",
-            "anime_type": "TV",
-            "episodes": null,
+            "mal_id": 56929,
+            "title": "World End Economica",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1952/139141l.jpg",
+            "anime_type": "Movie",
+            "episodes": 1,
             "status": "Not yet aired",
             "score": null,
-            "synopsis": "Arthur Louis Zetes, riche, beau et réussi, n'est pas étranger à la cupidité des gens. Doutant constamment ceux qui l'entourent, il n'a aucune foi en l'humanité; Ainsi, il fait une demande pour la femme de chambre parfaite - une femme de chambre robot. Cependant, son majordome n'est pas en mesure d'acquérir un tel serviteur en raison de limitations technologiques, il trouve donc le prochain meilleur substitut.\n\nMarie Evans est une ancienne enfant prodige des arts martiaux connue pour son manque d'expression. Noyée de dette, elle accepte facilement l'offre d'être une femme de chambre qui agit comme un robot. Alors qu'Arthur est souvent émoussé envers les humains, il ne peut s'empêcher de ne pas tomber sur son robot personnel; À son tour, Marie est émue par sa campagne et sa considération vers elle.\n\nKikaijikake no Marie suit la vie quotidienne comique d'un riche héritier et sa femme de chambre mécanique (humaine).\n\n[Écrit par MAL REWRITE]",
-            "studios": "Zero-G, Liber",
-            "genres": "Comedy, Romance",
+            "synopsis": "Yoshiharu Kawaura fait partie de la première génération d'humains nés sur la lune et a un rêve sauvage: faire partie de l'élite qui vivent dans le centre de la ville lunaire. En tant qu'adolescent sans-abri, avec seulement de maigres économies et une attitude irrévérencieuse, il se cache et dort dans des cafés Internet tout en échangeant des actions à la Bourse Lunar. Avec son travail acharné et son intuition naturelle du marché, son argent de semence de mille mools atteint soixante-douze mille mools en quelques mois, avec la fin de sa séquence nulle part en vue.\n\nMalheureusement, bien que la lune soit un paradis économique avec des réglementations limitées et des impôts bas, les oursins de rue comme Yoshiharu doivent toujours rester à l'affût. Après un appel particulièrement étroit avec la police, il se réfugime dans une église détenue et dirigé par Risa, un travailleur à temps partiel dans un restaurant chinois. Dans un coup de sort, il est également resté à l'église, une fille froide aux yeux moyens et aux capacités mathématiques de niveau génie. Yoshiharu - en supposant maintenant que le pseudonyme Haru - considère immédiatement le potentiel de Hagana en tant qu'analyste quantitatif et établit un partenariat avec elle pour un concours de trading d'actions virtuels connu pour être un ticket dans la communauté financière. Alors que leur succès croissant à la fois dans et hors de la concurrence conduit à plus de gens d'investir dans Haru et son objectif, pourra-t-il garder son sang-froid et rester au sommet du marché toujours volatile?\n\n[Écrit par MAL REWRITE]",
+            "studios": "",
+            "genres": "Adventure, Romance, Sci-Fi",
             "themes": ""
         },
         {
@@ -6620,6 +6646,19 @@
             "themes": ""
         },
         {
+            "mal_id": 61159,
+            "title": "Toujima Tanzaburou wa Kamen Rider ni Naritai",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1933/148739l.jpg",
+            "anime_type": "TV",
+            "episodes": null,
+            "status": "Not yet aired",
+            "score": null,
+            "synopsis": "Toujima Tanzaburou a passé toute sa vie à poursuivre un rêve: devenir Kamen Rider. Maintenant, à 40 ans, la réalité l'a presque rattrapé, et il est sur le point de laisser aller son fantasme d'enfance.\n\nAutrement dit, jusqu'à ce qu'il soit pris dans une vague de criminalité dirigée par le gang \"Fake Shocker\" - transformant son rêve de longue date en quelque chose de bien plus dangereux.\n\nCe qui commence comme un voyage de prétend du héros devient rapidement quelque chose de réel. Le fantasme ultime de Kamen Rider est sur le point de commencer!\n\n(Source: Mal News)",
+            "studios": "LIDENFILMS",
+            "genres": "Action, Comedy",
+            "themes": "Super Power"
+        },
+        {
             "mal_id": 61142,
             "title": "Sawaranaide Kotesashi-kun",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1328/148287l.jpg",
@@ -6633,17 +6672,17 @@
             "themes": "Harem, School"
         },
         {
-            "mal_id": 61159,
-            "title": "Toujima Tanzaburou wa Kamen Rider ni Naritai",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1933/148739l.jpg",
+            "mal_id": 61196,
+            "title": "Dead Account",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1250/148452l.jpg",
             "anime_type": "TV",
             "episodes": null,
             "status": "Not yet aired",
             "score": null,
-            "synopsis": "Toujima Tanzaburou a passé toute sa vie à poursuivre un rêve: devenir Kamen Rider. Maintenant, à 40 ans, la réalité l'a presque rattrapé, et il est sur le point de laisser aller son fantasme d'enfance.\n\nAutrement dit, jusqu'à ce qu'il soit pris dans une vague de criminalité dirigée par le gang \"Fake Shocker\" - transformant son rêve de longue date en quelque chose de bien plus dangereux.\n\nCe qui commence comme un voyage de prétend du héros devient rapidement quelque chose de réel. Le fantasme ultime de Kamen Rider est sur le point de commencer!\n\n(Source: Mal News)",
-            "studios": "LIDENFILMS",
-            "genres": "Action, Comedy",
-            "themes": "Super Power"
+            "synopsis": "Toujours prêt pour un combat! Destruction pour la destruction! Le streamer en ligne Aoringo est un troll, faisant le pire du pire du contenu des actes de flamme et ratissant les revenus des observateurs de haine. Vous pensez peut-être qu'il n'est rien de plus qu'un mangeur de fond et un drain sur la société, mais en réalité, il est un abandon du lycée Soji Enishiro, un frère aîné attentionné avec une dent sucrée qui n'aime rien de plus que sa petite sœur. Ses vidéos virales? Juste un moyen de payer les factures médicales de sa sœur. Et même si toute l'humanité le déteste, il s'en fiche, tant que sa petite sœur s'améliore. Mais alors, quelque chose de très étrange commence à se produire ... Ne manquez pas les débuts de ce manga de bataille exorcisme occulte moderne!\n\n(Source: Kodansha USA)",
+            "studios": "SynergySP",
+            "genres": "Action, Supernatural",
+            "themes": ""
         },
         {
             "mal_id": 61174,
@@ -6672,16 +6711,16 @@
             "themes": ""
         },
         {
-            "mal_id": 61196,
-            "title": "Dead Account",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1250/148452l.jpg",
-            "anime_type": "TV",
+            "mal_id": 58915,
+            "title": "Housenka",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1156/149419l.jpg",
+            "anime_type": "Movie",
             "episodes": null,
             "status": "Not yet aired",
             "score": null,
-            "synopsis": "Toujours prêt pour un combat! Destruction pour la destruction! Le streamer en ligne Aoringo est un troll, faisant le pire du pire du contenu des actes de flamme et ratissant les revenus des observateurs de haine. Vous pensez peut-être qu'il n'est rien de plus qu'un mangeur de fond et un drain sur la société, mais en réalité, il est un abandon du lycée Soji Enishiro, un frère aîné attentionné avec une dent sucrée qui n'aime rien de plus que sa petite sœur. Ses vidéos virales? Juste un moyen de payer les factures médicales de sa sœur. Et même si toute l'humanité le déteste, il s'en fiche, tant que sa petite sœur s'améliore. Mais alors, quelque chose de très étrange commence à se produire ... Ne manquez pas les débuts de ce manga de bataille exorcisme occulte moderne!\n\n(Source: Kodansha USA)",
-            "studios": "SynergySP",
-            "genres": "Action, Supernatural",
+            "synopsis": "Automne 2023. Akutsu, un détenu âgé purgeant à vie en prison, est au bord d'une mort solitaire dans sa seule cellule. Une fleur, touchée-moi, qui peut parler comme les humains lui dit: \"Quelle vie pourrie tu as eu.\" Grâce à leur «conversation», Akutsu commence à réfléchir sur son passé.\n\nÉté 1986. Akutsu vit avec Nana, une femme de six ans son junior, et son fils Kensuke dans un appartement minable avec un jardin plein de touches. Un retour victorieux d'une nuit d'un yakuza mourant, et l'histoire de sa famille a raconté une fleur qui fleurit en prison.\n\n(Source: Annecy Festival)",
+            "studios": "CLAP",
+            "genres": "",
             "themes": ""
         },
         {
@@ -6694,19 +6733,6 @@
             "score": null,
             "synopsis": "",
             "studios": "CloverWorks",
-            "genres": "",
-            "themes": ""
-        },
-        {
-            "mal_id": 58915,
-            "title": "Housenka",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1156/149419l.jpg",
-            "anime_type": "Movie",
-            "episodes": null,
-            "status": "Not yet aired",
-            "score": null,
-            "synopsis": "Automne 2023. Akutsu, un détenu âgé purgeant à vie en prison, est au bord d'une mort solitaire dans sa seule cellule. Une fleur, touchée-moi, qui peut parler comme les humains lui dit: \"Quelle vie pourrie tu as eu.\" Grâce à leur «conversation», Akutsu commence à réfléchir sur son passé.\n\nÉté 1986. Akutsu vit avec Nana, une femme de six ans son junior, et son fils Kensuke dans un appartement minable avec un jardin plein de touches. Un retour victorieux d'une nuit d'un yakuza mourant, et l'histoire de sa famille a raconté une fleur qui fleurit en prison.\n\n(Source: Annecy Festival)",
-            "studios": "CLAP",
             "genres": "",
             "themes": ""
         },
@@ -6828,19 +6854,6 @@
             "themes": ""
         },
         {
-            "mal_id": 60255,
-            "title": "Arne no Jikenbo",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1289/146396l.jpg",
-            "anime_type": "TV",
-            "episodes": null,
-            "status": "Not yet aired",
-            "score": null,
-            "synopsis": "Arne Neuntöte est un détective vampire qui manipule les pouvoirs surnaturels. Lynn Reinweiß est la fille d'un noble qui aime les vampires. Leurs mondes n'auraient jamais dû traverser, mais ils se joignent aux mains pour résoudre un mystère sanglant. Dans les nuits les plus sombres, Lynn se retrouve dans un besoin désespéré d'aide. Puis elle se promène dans la mystérieuse ville de \"Lügenberg\", où vivent les non-humains.\n\nLe monde de Lynn change radicalement lorsqu'elle rencontre \"Arne\", un vampire qui est appelé \"le pire\" de la ville. Et ce soir, une nouvelle \"affaire de meurtre\" s'est produite. Quelle est la vérité derrière les incidents bizarres qui se déroulent dans un monde où l'humanité et le bizarre se croisent?\n\n\"Allez, humain. Tu peux danser joyeusement sous la lune cramoisie.\" \n\n(Source: Steam, édité)",
-            "studios": "",
-            "genres": "Mystery",
-            "themes": "Vampire"
-        },
-        {
             "mal_id": 60505,
             "title": "Necronomico no Cosmic Horror Show",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1773/146934l.jpg",
@@ -6854,6 +6867,45 @@
             "themes": ""
         },
         {
+            "mal_id": 60255,
+            "title": "Arne no Jikenbo",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1289/146396l.jpg",
+            "anime_type": "TV",
+            "episodes": null,
+            "status": "Not yet aired",
+            "score": null,
+            "synopsis": "Arne Neuntöte est un détective vampire qui manipule les pouvoirs surnaturels. Lynn Reinweiß est la fille d'un noble qui aime les vampires. Leurs mondes n'auraient jamais dû traverser, mais ils se joignent aux mains pour résoudre un mystère sanglant. Dans les nuits les plus sombres, Lynn se retrouve dans un besoin désespéré d'aide. Puis elle se promène dans la mystérieuse ville de \"Lügenberg\", où vivent les non-humains.\n\nLe monde de Lynn change radicalement lorsqu'elle rencontre \"Arne\", un vampire qui est appelé \"le pire\" de la ville. Et ce soir, une nouvelle \"affaire de meurtre\" s'est produite. Quelle est la vérité derrière les incidents bizarres qui se déroulent dans un monde où l'humanité et le bizarre se croisent?\n\n\"Allez, humain. Tu peux danser joyeusement sous la lune cramoisie.\" \n\n(Source: Steam, édité)",
+            "studios": "",
+            "genres": "Mystery",
+            "themes": "Vampire"
+        },
+        {
+            "mal_id": 61239,
+            "title": "Binan Koukou Chikyuu Bouei-bu Haikara!",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1265/148526l.jpg",
+            "anime_type": "TV",
+            "episodes": null,
+            "status": "Not yet aired",
+            "score": null,
+            "synopsis": "Nouvelle série pour Binan Koukou Chikyuu Bouei-Bu.",
+            "studios": "Studio Deen",
+            "genres": "Comedy",
+            "themes": "Parody, School"
+        },
+        {
+            "mal_id": 61239,
+            "title": "Binan Koukou Chikyuu Bouei-bu Haikara!",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1265/148526l.jpg",
+            "anime_type": "TV",
+            "episodes": null,
+            "status": "Not yet aired",
+            "score": null,
+            "synopsis": "Nouvelle série pour Binan Koukou Chikyuu Bouei-Bu.",
+            "studios": "Studio Deen",
+            "genres": "Comedy",
+            "themes": "Parody, School"
+        },
+        {
             "mal_id": 54705,
             "title": "Kaitou Queen no Yuuga na Vacances",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1826/148445l.jpg",
@@ -6865,32 +6917,6 @@
             "studios": "East Fish Studio",
             "genres": "Adventure, Fantasy",
             "themes": ""
-        },
-        {
-            "mal_id": 61239,
-            "title": "Binan Koukou Chikyuu Bouei-bu Haikara!",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1265/148526l.jpg",
-            "anime_type": "TV",
-            "episodes": null,
-            "status": "Not yet aired",
-            "score": null,
-            "synopsis": "Nouvelle série pour Binan Koukou Chikyuu Bouei-Bu.",
-            "studios": "Studio Deen",
-            "genres": "Comedy",
-            "themes": "Parody, School"
-        },
-        {
-            "mal_id": 61239,
-            "title": "Binan Koukou Chikyuu Bouei-bu Haikara!",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1265/148526l.jpg",
-            "anime_type": "TV",
-            "episodes": null,
-            "status": "Not yet aired",
-            "score": null,
-            "synopsis": "Nouvelle série pour Binan Koukou Chikyuu Bouei-Bu.",
-            "studios": "Studio Deen",
-            "genres": "Comedy",
-            "themes": "Parody, School"
         },
         {
             "mal_id": 58832,
@@ -6958,19 +6984,6 @@
             "themes": ""
         },
         {
-            "mal_id": 55075,
-            "title": "Hina",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1687/135463l.jpg",
-            "anime_type": "Movie",
-            "episodes": null,
-            "status": "Not yet aired",
-            "score": null,
-            "synopsis": "Le \"drame d'action très divertissant\" se déroule à Izu, au Japon, où les hommes se battent pour une femme appelée Hina. Qu'est-ce qui fait exactement Hina en inducteur des hommes en erreur? Alors que les hommes essaient de révéler leurs vrais sentiments pour Hina, les hommes forts et musclés s'impliquent également et le son du tambour du festival signale le début d'une confrontation. \n\n(Source: Variété, édité)",
-            "studios": "",
-            "genres": "",
-            "themes": ""
-        },
-        {
             "mal_id": 60739,
             "title": "Otome Game no Heroine de Saikyou Survival",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1639/147459l.jpg",
@@ -6981,6 +6994,19 @@
             "synopsis": "Orphelin par une attaque monstre contre son village, la jeune Alicia passe trois années horribles dans un orphelinat avant de enfin s'enfuir. Quand elle s'enfuit, cependant, Alicia a une violente rencontre avec une femme plus âgée déterminée à la tuer. Pendant leur combat, elle entre en contact avec un cristal étrange qui lui accorde une richesse de connaissances, la transformant d'un enfant innocent en un planificateur cool et calculé. Désormais conscient qu'elle était censée être la protagoniste d'un jeu Otome et dégoûtée de son sort supposé, Alicia décide de prendre les choses en main et de devenir forte - par tous les moyens nécessaires. En utilisant ses nouvelles connaissances, et avec l'aide d'un étranger qu'elle rencontre dans les bois, elle apprend à survivre par elle-même dans un monde beaucoup trop dur et impitoyable pour une fille de son âge. Prêt ou non, elle est déterminée à tailler son propre chemin.\n\n(Source: J-Novel Club)",
             "studios": "",
             "genres": "Action, Adventure, Fantasy",
+            "themes": ""
+        },
+        {
+            "mal_id": 55075,
+            "title": "Hina",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1687/135463l.jpg",
+            "anime_type": "Movie",
+            "episodes": null,
+            "status": "Not yet aired",
+            "score": null,
+            "synopsis": "Le \"drame d'action très divertissant\" se déroule à Izu, au Japon, où les hommes se battent pour une femme appelée Hina. Qu'est-ce qui fait exactement Hina en inducteur des hommes en erreur? Alors que les hommes essaient de révéler leurs vrais sentiments pour Hina, les hommes forts et musclés s'impliquent également et le son du tambour du festival signale le début d'une confrontation. \n\n(Source: Variété, édité)",
+            "studios": "",
+            "genres": "",
             "themes": ""
         },
         {
@@ -7017,7 +7043,7 @@
             "episodes": null,
             "status": "Not yet aired",
             "score": null,
-            "synopsis": "UNNEI Mochizuki, un employé de deuxième année dans une pièce de grossiste, fait une erreur qui cause des problèmes pour ses clients. Se sentant bouleversé, il pense à s'enfuir dans un endroit où personne ne le connaît. C'est à ce moment-là qu'il rencontre Tsugumi Nagisa, un auteur du livre d'images avec un visage jeune et des lunettes, qui voyage avec son chien dans sa voiture, qu'ils utilisent comme maison. Ils passent leurs journées sur la route, vivent dans la voiture et appréciant une nouvelle façon de voyager, libre de n'importe quel horaire.\n\n(Source: Mal News)",
+            "synopsis": "UNNEI Mochizuki, un employé de deuxième année dans un grossiste de machine, fait une erreur qui cause des problèmes pour ses clients. Se sentant bouleversé, il pense à s'enfuir dans un endroit où personne ne le connaît. C'est à ce moment-là qu'il rencontre Tsugumi Nagisa, un auteur du livre d'images avec un visage jeune et des lunettes, qui voyage avec son chien dans sa voiture, qu'ils utilisent comme maison. Ils passent leurs journées sur la route, vivent dans la voiture et appréciant une nouvelle façon de voyager, libre de n'importe quel horaire.\n\n(Source: Mal News)",
             "studios": "",
             "genres": "Adventure, Slice of Life",
             "themes": "Adult Cast"
@@ -7225,7 +7251,7 @@
             "episodes": 12,
             "status": "Not yet aired",
             "score": null,
-            "synopsis": "Le fan Lingxiao, un maître de compagnie Spirit doué, a été pris en embuscade dans le concours de promotion de la secte de niveau A et dévoré par sa propre baleine pour animaux de compagnie, Kun. Quand il s'est réveillé, il s'est retrouvé à réincarner en un jeune homme nommé \"Liu Fengmang\" qui est emprisonné dans le manoir blanc. \n\nSa secte, Lingxiao Pavilion, était également dans un détroit désastreux. Afin de découvrir la vérité sur le contrecoup de l'esprit Kun et de relancer sa secte, Fan Lingxiao prend ses animaux de compagnie existants et se lance dans une nouvelle aventure avec Gu Ling, Cheng Xi et Yue Tong.\n\n(Source: Bilibili, traduit)",
+            "synopsis": "Le fan Lingxiao, un maître de compagnie Spirit doué, a été pris en embuscade dans le concours de promotion de la secte de niveau A et dévoré par sa propre baleine pour animaux de compagnie, Kun. Quand il s'est réveillé, il s'est retrouvé à réincarner en un jeune homme nommé \"Liu Fengmang\" qui est emprisonné dans le manoir blanc. \n\nSa secte, Lingxiao Pavilion, était également dans un détroit désastreux. Afin de découvrir la vérité sur le contrecoup de l'Esprit Kun et de relancer sa secte, Fan Lingxiao prend ses animaux de compagnie existants et se lance dans une nouvelle aventure avec Gu Ling, Cheng Xi et Yue Tong.\n\n(Source: Bilibili, traduit)",
             "studios": "Big Firebird Culture",
             "genres": "Action, Fantasy",
             "themes": ""
@@ -7283,19 +7309,6 @@
             "themes": "Isekai, School"
         },
         {
-            "mal_id": 61077,
-            "title": "Dragon Heart: Reikai Tanbouki",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1103/148127l.jpg",
-            "anime_type": "Movie",
-            "episodes": 1,
-            "status": "Not yet aired",
-            "score": null,
-            "synopsis": "Ryusuke est un élève du secondaire vivant à Tokyo. Pendant ses vacances d'été, il visite Tokushima et retrouve son cousin adolescent, Tomomi. Ryusuke et Tomomi sortent sur la rivière Anabuki où ils sont emportés par le courant précipité.\n\nAlors qu'ils s'enfoncent au fond de la rivière, un dragon apparaît, les sauve et les emmène dans un mystérieux vieil homme. Le vieil homme dit à Ryusuke et Tomomi qu'ils sont déjà morts, mais qu'il peut les renvoyer à la vie s'ils explorent le monde des esprits et trouvent leur mission dans la vie. Bien que perplexe par la situation, Ryusuke et Tomomi décident de commencer leur voyage vers le monde des esprits. Tout d'abord, ils arrivent dans une ville sombre qui ressemble à des années 1960. Peu de temps après, ils sont assaillés par des choses terribles les unes après les autres. Ils voient des voleurs de peur se tuer mutuellement et des médecins mutiler les patients. Les gens meurent et se lèvent. Ils se font tuer et relèvent à nouveau. Ryusuke et Tomomi se rendent compte qu'ils sont en enfer. Mais leur voyage ne s'arrête pas là. L'aventure au-delà de ce monde se poursuit dans l'inconnu. Seront-ils en mesure de trouver leur mission dans la vie?\n\n(Source: dragonheart-movie.com)",
-            "studios": "HS Pictures Studio",
-            "genres": "Fantasy, Supernatural",
-            "themes": ""
-        },
-        {
             "mal_id": 60378,
             "title": "Shabake",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1871/146645l.jpg",
@@ -7309,6 +7322,19 @@
             "themes": "Historical, Mythology"
         },
         {
+            "mal_id": 61077,
+            "title": "Dragon Heart: Reikai Tanbouki",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1103/148127l.jpg",
+            "anime_type": "Movie",
+            "episodes": 1,
+            "status": "Not yet aired",
+            "score": null,
+            "synopsis": "Ryusuke est un élève du secondaire vivant à Tokyo. Pendant ses vacances d'été, il visite Tokushima et retrouve son cousin adolescent, Tomomi. Ryusuke et Tomomi sortent sur la rivière Anabuki où ils sont emportés par le courant précipité.\n\nAlors qu'ils s'enfoncent au fond de la rivière, un dragon apparaît, les sauve et les emmène dans un mystérieux vieil homme. Le vieil homme dit à Ryusuke et Tomomi qu'ils sont déjà morts, mais qu'il peut les renvoyer à la vie s'ils explorent le monde des esprits et trouvent leur mission dans la vie. Bien que perplexe par la situation, Ryusuke et Tomomi décident de commencer leur voyage vers le monde des esprits. Tout d'abord, ils arrivent dans une ville sombre qui ressemble à des années 1960. Peu de temps après, ils sont assaillés par des choses terribles les unes après les autres. Ils voient des voleurs de peur se tuer mutuellement et des médecins mutiler les patients. Les gens meurent et se lèvent. Ils se font tuer et relèvent à nouveau. Ryusuke et Tomomi se rendent compte qu'ils sont en enfer. Mais leur voyage ne s'arrête pas là. L'aventure au-delà de ce monde se poursuit dans l'inconnu. Seront-ils en mesure de trouver leur mission dans la vie?\n\n(Source: dragonheart-movie.com)",
+            "studios": "HS Pictures Studio",
+            "genres": "Fantasy, Supernatural",
+            "themes": ""
+        },
+        {
             "mal_id": 40242,
             "title": "Idomo",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1059/102541l.jpg",
@@ -7320,6 +7346,19 @@
             "studios": "Twin Engine",
             "genres": "Adventure, Fantasy",
             "themes": ""
+        },
+        {
+            "mal_id": 60774,
+            "title": "ChaO",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1288/148819l.jpg",
+            "anime_type": "Movie",
+            "episodes": 1,
+            "status": "Not yet aired",
+            "score": null,
+            "synopsis": "Une future société où les humains et les sirènes coexistent. Stephen, un employé de bureau, est soudainement invité à se marier par Chao, une princesse du royaume sirène! Une histoire d'amour 100% pure!\n\n(Source: Twitter officiel, édité)",
+            "studios": "Studio 4°C",
+            "genres": "Fantasy, Romance",
+            "themes": "Urban Fantasy"
         },
         {
             "mal_id": 58756,
@@ -7359,19 +7398,6 @@
             "studios": "Studio Meditation With a Pencil",
             "genres": "Drama, Fantasy",
             "themes": ""
-        },
-        {
-            "mal_id": 60774,
-            "title": "ChaO",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1288/148819l.jpg",
-            "anime_type": "Movie",
-            "episodes": 1,
-            "status": "Not yet aired",
-            "score": null,
-            "synopsis": "Une future société où les humains et les sirènes coexistent. Stephen, un employé de bureau, est soudainement invité à se marier par Chao, une princesse du royaume sirène! Une histoire d'amour 100% pure!\n\n(Source: Twitter officiel, édité)",
-            "studios": "Studio 4°C",
-            "genres": "Fantasy, Romance",
-            "themes": "Urban Fantasy"
         },
         {
             "mal_id": 60349,
@@ -7563,7 +7589,7 @@
             "episodes": null,
             "status": "Not yet aired",
             "score": null,
-            "synopsis": "Au milieu du 21e siècle, le monde criminel de Tokyo est gouverné par des seigneurs démoniaques - des patrons criminaires qui ont subi une chirurgie d'amélioration de l'éther, leur accordant des super-pouvoirs terrifiants. Les seuls qui peuvent les abattre sont des héros, des chasseurs de primes qui stimulent leurs propres pouvoirs d'éther en utilisant le médicament E3 (E-trois). Avec un meurtre légalisé dans le cadre du travail, être un héros est moins une question de justice et plus de survie.\n\nYashiro, connu sous le nom de Reaper, est un de ces héros - un exécuteur indépendant qui travaille seul. Autrement dit, jusqu'à ce que Jougamine, une lycéenne et «apprenti» autoproclamée, se fraye un chemin dans sa vie. À contrecœur, la prenant sous son aile, Yashiro se retrouve bientôt pris dans un tourbillon de conflits mortels.\n\n(Source: Mal News)",
+            "synopsis": "Au milieu du 21e siècle, le monde criminel criminel de Tokyo est gouverné par des seigneurs démoniaques - des patrons criminaires qui ont subi une chirurgie d'amélioration de l'éther, leur accordant des superpuissances terrifiantes. Les seuls qui peuvent les abattre sont des héros, des chasseurs de primes qui stimulent leurs propres pouvoirs d'éther en utilisant le médicament E3 (E-trois). Avec un meurtre légalisé dans le cadre du travail, être un héros est moins une question de justice et plus de survie.\n\nYashiro, connu sous le nom de Reaper, est un de ces héros - un exécuteur indépendant qui travaille seul. Autrement dit, jusqu'à ce que Jougamine, une lycéenne et «apprenti» autoproclamée, se fraye un chemin dans sa vie. À contrecœur, la prenant sous son aile, Yashiro se retrouve bientôt pris dans un tourbillon de conflits mortels.\n\n(Source: Mal News)",
             "studios": "OLM",
             "genres": "Action, Sci-Fi",
             "themes": "Organized Crime, Super Power"
@@ -7686,19 +7712,6 @@
             "themes": "Anthropomorphic, Iyashikei"
         },
         {
-            "mal_id": 53732,
-            "title": "Hidarikiki no Eren",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1568/131585l.jpg",
-            "anime_type": null,
-            "episodes": null,
-            "status": "Not yet aired",
-            "score": null,
-            "synopsis": "Asakura Koichi travaille comme designer dans une agence de publicité. Même s'il travaille très dur, il ne reçoit pas de reconnaissance à son travail. Il est frustré par sa situation et il décide de visiter un endroit depuis ses jours d'école, impliquant Yamagishi Eren.\n\nPendant ce temps, Yamagishi Eren a le surnom \"Hidarikiki\" (\"The Southpaw\") et est peintre à New York. Elle est douée en tant que peintre, mais en raison de son talent de génie, elle souffre. \n\n(Source: MyDramalist, édité)",
-            "studios": "",
-            "genres": "Slice of Life",
-            "themes": "Adult Cast, Visual Arts"
-        },
-        {
             "mal_id": 60191,
             "title": "Cheng He Titong 2nd Season",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1522/146256l.jpg",
@@ -7710,6 +7723,19 @@
             "studios": "Shengying Animation",
             "genres": "Comedy, Romance",
             "themes": "Historical, Isekai"
+        },
+        {
+            "mal_id": 53732,
+            "title": "Hidarikiki no Eren",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1568/131585l.jpg",
+            "anime_type": null,
+            "episodes": null,
+            "status": "Not yet aired",
+            "score": null,
+            "synopsis": "Asakura Koichi travaille comme designer dans une agence de publicité. Même s'il travaille très dur, il ne reçoit pas de reconnaissance à son travail. Il est frustré par sa situation et il décide de visiter un endroit depuis ses jours d'école, impliquant Yamagishi Eren.\n\nPendant ce temps, Yamagishi Eren a le surnom \"Hidarikiki\" (\"The Southpaw\") et est peintre à New York. Elle est douée en tant que peintre, mais en raison de son talent de génie, elle souffre. \n\n(Source: MyDramalist, édité)",
+            "studios": "",
+            "genres": "Slice of Life",
+            "themes": "Adult Cast, Visual Arts"
         },
         {
             "mal_id": 60279,
@@ -7790,17 +7816,17 @@
             "themes": "Otaku Culture"
         },
         {
-            "mal_id": 46808,
-            "title": "Sasami 14: Mahou Shoujo Pretty Sammy",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1119/111292l.jpg",
-            "anime_type": "OVA",
+            "mal_id": 61084,
+            "title": "Hikuidori: Ushuu Boro Tobi-gumi",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1887/148147l.jpg",
+            "anime_type": "TV",
             "episodes": null,
             "status": "Not yet aired",
             "score": null,
-            "synopsis": "Je suis Sasami Kawai, 14 ans! Une fille de la deuxième année de lycée qui semble être partout. Je vais bien aujourd'hui avec mon meilleur ami Misao Amano ... En tant que jolie Sammy et Pixie Misa, j'étais censé être une fille magique, mais je ne pouvais pas me transformer! Des bêtes mystérieuses et de nouvelles filles magiques sortiront, et que se passera-t-il! ??\n\n(Source: Campfire)",
-            "studios": "",
-            "genres": "Comedy, Fantasy",
-            "themes": "Mahou Shoujo"
+            "synopsis": "",
+            "studios": "SynergySP",
+            "genres": "",
+            "themes": "Historical"
         },
         {
             "mal_id": 58837,
@@ -7816,17 +7842,17 @@
             "themes": "Anthropomorphic"
         },
         {
-            "mal_id": 61084,
-            "title": "Hikuidori: Ushuu Boro Tobi-gumi",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1887/148147l.jpg",
-            "anime_type": "TV",
+            "mal_id": 46808,
+            "title": "Sasami 14: Mahou Shoujo Pretty Sammy",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1119/111292l.jpg",
+            "anime_type": "OVA",
             "episodes": null,
             "status": "Not yet aired",
             "score": null,
-            "synopsis": "",
-            "studios": "SynergySP",
-            "genres": "",
-            "themes": "Historical"
+            "synopsis": "Je suis Sasami Kawai, 14 ans! Une fille de la deuxième année de lycée qui semble être partout. Je vais bien aujourd'hui avec mon meilleur ami Misao Amano ... En tant que jolie Sammy et Pixie Misa, j'étais censé être une fille magique, mais je ne pouvais pas me transformer! Des bêtes mystérieuses et de nouvelles filles magiques sortiront, et que se passera-t-il! ??\n\n(Source: Campfire)",
+            "studios": "",
+            "genres": "Comedy, Fantasy",
+            "themes": "Mahou Shoujo"
         },
         {
             "mal_id": 41912,
@@ -7868,6 +7894,19 @@
             "themes": ""
         },
         {
+            "mal_id": 61184,
+            "title": "Nohara Hiroshi: Hiru Meshi no Ryuugi",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1736/148429l.jpg",
+            "anime_type": null,
+            "episodes": null,
+            "status": "Not yet aired",
+            "score": null,
+            "synopsis": "Cette série suit la philosophie ultime de l'heure du déjeuner d'Hiroshi Nohara, car il sélectionne et apprécie soigneusement ses repas de midi dans les contraintes d'un budget limité et d'un temps de pause.\n\nMais il ne s'agit pas seulement de savourer les aliments - Hiroshi plonge dans les anecdotes de cuisine, les méthodes de préparation et les dilemmes quotidiens d'un salarié. Du débattre de l'opportunité de traiter ses juniors au déjeuner à la recherche de repas rapides entre les réunions de vente, et même à se défouler sur son patron, la série est remplie de moments relatables pour les professionnels du travail.\n\n(Source: Mal News)",
+            "studios": "DLE",
+            "genres": "Comedy, Gourmet",
+            "themes": ""
+        },
+        {
             "mal_id": 54160,
             "title": "Future Kid Takara",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1424/148808l.jpg",
@@ -7881,16 +7920,16 @@
             "themes": ""
         },
         {
-            "mal_id": 61184,
-            "title": "Nohara Hiroshi: Hiru Meshi no Ryuugi",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1736/148429l.jpg",
-            "anime_type": null,
+            "mal_id": 60726,
+            "title": "My Melody & Kuromi",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1410/147428l.jpg",
+            "anime_type": "ONA",
             "episodes": null,
             "status": "Not yet aired",
             "score": null,
-            "synopsis": "Cette série suit la philosophie ultime de l'heure du déjeuner d'Hiroshi Nohara, car il sélectionne et apprécie soigneusement ses repas de midi dans les contraintes d'un budget limité et d'un temps de pause.\n\nMais il ne s'agit pas seulement de savourer les aliments - Hiroshi plonge dans les anecdotes de cuisine, les méthodes de préparation et les dilemmes quotidiens d'un salarié. Du débattre de l'opportunité de traiter ses juniors au déjeuner à la recherche de repas rapides entre les réunions de vente, et même à se défouler sur son patron, la série est remplie de moments relatables pour les professionnels du travail.\n\n(Source: Mal News)",
-            "studios": "DLE",
-            "genres": "Comedy, Gourmet",
+            "synopsis": "Préparez-vous pour une délicieuse aventure alors que My Melody & Kuromi donne vie aux personnages bien-aimés de Sanrio dans une charmante série d'animation en stop-motion. Célébrant le 50e anniversaire de ma mélodie et le 20e anniversaire de Kuromi, la série emmène les téléspectateurs dans une aventure à Mariland, leur maison fantaisiste.\n\n(Source: Netflix)",
+            "studios": "Wit Studio",
+            "genres": "Fantasy",
             "themes": ""
         },
         {
@@ -7905,19 +7944,6 @@
             "studios": "dwarf, Tecarat",
             "genres": "Action",
             "themes": "Historical, Samurai"
-        },
-        {
-            "mal_id": 60726,
-            "title": "My Melody & Kuromi",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1410/147428l.jpg",
-            "anime_type": "ONA",
-            "episodes": null,
-            "status": "Not yet aired",
-            "score": null,
-            "synopsis": "Préparez-vous pour une délicieuse aventure alors que My Melody & Kuromi donne vie aux personnages bien-aimés de Sanrio dans une charmante série d'animation en stop-motion. Célébrant le 50e anniversaire de ma mélodie et le 20e anniversaire de Kuromi, la série emmène les téléspectateurs dans une aventure à Mariland, leur maison fantaisiste.\n\n(Source: Netflix)",
-            "studios": "Wit Studio",
-            "genres": "Fantasy",
-            "themes": ""
         },
         {
             "mal_id": 57150,
@@ -7953,10 +7979,23 @@
             "episodes": null,
             "status": "Not yet aired",
             "score": null,
-            "synopsis": "Depuis les temps anciens, le ninja et le yakuza sont en guerre, renversant du sang dans le monde à mesure que les empires montent et descendent. Ainsi, quand, à l'ère moderne, Shinoha, un ninja, rencontre Kiwami, un gangster suivant le chemin du Yakuza - le Gokudo - et découvre qu'ils ont des intérêts communs, l'hypothèse évidente est que rien de bien ne peut en découvrir. Mais peut-il être qu'une bromance naissante secouera une rancune de 300 ans?\n\nQui gagnera la lutte pour un véritable pouvoir ultime?\n\n(Source: Kodansha USA)",
+            "synopsis": "Depuis les temps anciens, le ninja et le yakuza sont en guerre, renversant du sang dans le monde à mesure que les empires montent et diminuent. Ainsi, quand, à l'ère moderne, Shinoha, un ninja, rencontre Kiwami, un gangster suivant le chemin du Yakuza - le Gokudo - et découvre qu'ils ont des intérêts communs, l'hypothèse évidente est que rien de bien ne peut en découvrir. Mais peut-il être qu'une bromance naissante secouera une rancune de 300 ans?\n\nQui gagnera la lutte pour un véritable pouvoir ultime?\n\n(Source: Kodansha USA)",
             "studios": "",
             "genres": "Action",
             "themes": "Adult Cast, Martial Arts, Organized Crime"
+        },
+        {
+            "mal_id": 61549,
+            "title": "Okiraku Ryoushu no Tanoshii Ryouchi Bouei: Seisankei Majutsu de Na mo Naki Mura wo Saikyou no Jousai Toshi ni",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1380/149356l.jpg",
+            "anime_type": "TV",
+            "episodes": null,
+            "status": "Not yet aired",
+            "score": null,
+            "synopsis": "Van, le quatrième fils d'un noble puissant, n'a que deux ans lorsqu'il se souvient de sa vie passée en tant que salarié au Japon. Avec son cerveau adulte dans un jeune corps, il est considéré comme un enfant prodige ... jusqu'à ce qu'il affiche la compétence de \"magie de production\" quand il aura huit ans. Dans une famille qui favorise la magie offensante, cette compétence d'artisanat est considérée comme inutile au combat, et Van est banni pour superviser une petite ville de campagne en disgrâce. Avec seulement sa femme de chambre personnelle, les souvenirs de sa vie passée et sa magie \"sans valeur\" peuvent-elles améliorer la fortune de ce petit village - et lui-même?\n\n(Source: Seven Seas Entertainment)",
+            "studios": "",
+            "genres": "Fantasy",
+            "themes": "Isekai, Reincarnation"
         },
         {
             "mal_id": 60862,
@@ -7983,19 +8022,6 @@
             "studios": "",
             "genres": "Boys Love",
             "themes": ""
-        },
-        {
-            "mal_id": 61549,
-            "title": "Okiraku Ryoushu no Tanoshii Ryouchi Bouei: Seisankei Majutsu de Na mo Naki Mura wo Saikyou no Jousai Toshi ni",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1380/149356l.jpg",
-            "anime_type": "TV",
-            "episodes": null,
-            "status": "Not yet aired",
-            "score": null,
-            "synopsis": "Van, le quatrième fils d'un noble puissant, n'a que deux ans lorsqu'il se souvient de sa vie passée en tant que salarié au Japon. Avec son cerveau adulte dans un jeune corps, il est considéré comme un enfant prodige ... jusqu'à ce qu'il affiche la compétence de \"magie de production\" quand il aura huit ans. Dans une famille qui favorise la magie offensante, cette compétence d'artisanat est considérée comme inutile au combat, et Van est banni pour superviser une petite ville de campagne en disgrâce. Avec seulement sa femme de chambre personnelle, les souvenirs de sa vie passée et sa magie \"sans valeur\" peuvent-elles améliorer la fortune de ce petit village - et lui-même?\n\n(Source: Seven Seas Entertainment)",
-            "studios": "",
-            "genres": "Fantasy",
-            "themes": "Isekai, Reincarnation"
         },
         {
             "mal_id": 61227,
@@ -8050,6 +8076,19 @@
             "themes": "School"
         },
         {
+            "mal_id": 61558,
+            "title": "Aikatsu! x PriPara the Movie: Deai no Kiseki!",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1723/149417l.jpg",
+            "anime_type": "Movie",
+            "episodes": 1,
+            "status": "Not yet aired",
+            "score": null,
+            "synopsis": "Film de collaboration entre Aikatsu! et Pripara.",
+            "studios": "",
+            "genres": "Slice of Life",
+            "themes": "Idols (Female), Music, School"
+        },
+        {
             "mal_id": 60591,
             "title": "Wei Miao Rensheng",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1871/147084l.jpg",
@@ -8061,19 +8100,6 @@
             "studios": "",
             "genres": "Romance, Supernatural",
             "themes": "Pets, Workplace"
-        },
-        {
-            "mal_id": 50440,
-            "title": "Banshou Shaonian",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1283/119631l.jpg",
-            "anime_type": "ONA",
-            "episodes": null,
-            "status": "Not yet aired",
-            "score": null,
-            "synopsis": "Il y a mille ans, les morceaux d'une météorite avec une énergie massive sont tombés à plusieurs endroits du monde. Ils étaient appelés \"fragments de Dieu\". Les humains ont commencé des guerres pour eux. Dans une certaine ville, le Seigneur s'est sacrifié en résistance contre la mauvaise force pour protéger les résidents. Lorsque la guerre a pris fin, la mécanique a reconstruit la ville et a fondé la St. Beroro Academy, une école de rêve pour la mécanique pour poursuivre leurs rêves ...\n\n(Source: Bilibili)",
-            "studios": "HM Heros",
-            "genres": "Action",
-            "themes": ""
         },
         {
             "mal_id": 61508,
@@ -8089,6 +8115,19 @@
             "themes": ""
         },
         {
+            "mal_id": 50440,
+            "title": "Banshou Shaonian",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1283/119631l.jpg",
+            "anime_type": "ONA",
+            "episodes": null,
+            "status": "Not yet aired",
+            "score": null,
+            "synopsis": "Il y a mille ans, les morceaux d'une météorite avec une énergie massive sont tombés à plusieurs endroits du monde. Ils étaient appelés \"fragments de Dieu\". Les humains ont commencé des guerres pour eux. Dans une certaine ville, le Seigneur s'est sacrifié en résistance contre la mauvaise force pour protéger les résidents. Lorsque la guerre a pris fin, la mécanique a reconstruit la ville et a fondé la St. Beroro Academy, une école de rêve pour la mécanique pour poursuivre leurs rêves ...\n\n(Source: Bilibili)",
+            "studios": "HM Heros",
+            "genres": "Action",
+            "themes": ""
+        },
+        {
             "mal_id": 51974,
             "title": "Wu Di de Zuqiu",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1177/124186l.jpg",
@@ -8100,19 +8139,6 @@
             "studios": "",
             "genres": "Sports",
             "themes": "Team Sports"
-        },
-        {
-            "mal_id": 61558,
-            "title": "Aikatsu! x PriPara the Movie: Deai no Kiseki!",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1723/149417l.jpg",
-            "anime_type": "Movie",
-            "episodes": 1,
-            "status": "Not yet aired",
-            "score": null,
-            "synopsis": "Film de collaboration entre Aikatsu! et Pripara.",
-            "studios": "",
-            "genres": "Slice of Life",
-            "themes": "Idols (Female), Music, School"
         },
         {
             "mal_id": 60570,
@@ -8219,19 +8245,6 @@
             "themes": "Video Game"
         },
         {
-            "mal_id": 50235,
-            "title": "Long Wu",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1155/119012l.jpg",
-            "anime_type": "ONA",
-            "episodes": 1,
-            "status": "Not yet aired",
-            "score": null,
-            "synopsis": "",
-            "studios": "",
-            "genres": "Fantasy",
-            "themes": ""
-        },
-        {
             "mal_id": 61495,
             "title": "Hinagiku no Jinsei",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1357/149255l.jpg",
@@ -8242,6 +8255,19 @@
             "synopsis": "Après le voyage émotionnel d'une fillette de six ans nommée Daisy, qui perd sa mère dans un accident tragique et a du mal à s'adapter à la vie avec sa tante. Une nuit sans sommeil, elle rencontre une mystérieuse fille nommée Dahlia à sa fenêtre. Leurs jours ensemble commencent à transcender le temps et l'espace, apportant une perspective cosmique à la vie modeste de Daisy dans un restaurant du centre-ville de Yakisoba.\n\n(Source: Variété)",
             "studios": "Miyu Productions, ame pippin",
             "genres": "",
+            "themes": ""
+        },
+        {
+            "mal_id": 50235,
+            "title": "Long Wu",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1155/119012l.jpg",
+            "anime_type": "ONA",
+            "episodes": 1,
+            "status": "Not yet aired",
+            "score": null,
+            "synopsis": "",
+            "studios": "",
+            "genres": "Fantasy",
             "themes": ""
         },
         {
@@ -8271,6 +8297,19 @@
             "themes": "Historical"
         },
         {
+            "mal_id": 60993,
+            "title": "Motokare to wa Dekinakatta Sex Shitemo Ii desu ka?",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1211/147977l.jpg",
+            "anime_type": "OVA",
+            "episodes": null,
+            "status": "Not yet aired",
+            "score": null,
+            "synopsis": "",
+            "studios": "Seven",
+            "genres": "Hentai",
+            "themes": ""
+        },
+        {
             "mal_id": 55566,
             "title": "Wasted Chef",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1307/148217l.jpg",
@@ -8284,9 +8323,9 @@
             "themes": ""
         },
         {
-            "mal_id": 60993,
-            "title": "Motokare to wa Dekinakatta Sex Shitemo Ii desu ka?",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1211/147977l.jpg",
+            "mal_id": 61164,
+            "title": "Inshoku Ou Demar",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1670/148371l.jpg",
             "anime_type": "OVA",
             "episodes": null,
             "status": "Not yet aired",
@@ -8310,16 +8349,29 @@
             "themes": ""
         },
         {
-            "mal_id": 61164,
-            "title": "Inshoku Ou Demar",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1670/148371l.jpg",
-            "anime_type": "OVA",
-            "episodes": null,
+            "mal_id": 61492,
+            "title": "Entotsu Machi no Poupelle: Yakusoku no Tokei-dai",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1446/149253l.jpg",
+            "anime_type": "Movie",
+            "episodes": 1,
             "status": "Not yet aired",
             "score": null,
-            "synopsis": "",
-            "studios": "Seven",
-            "genres": "Hentai",
+            "synopsis": "Suite à Entotu Machi No Poupelle.",
+            "studios": "Studio 4°C",
+            "genres": "Adventure, Fantasy",
+            "themes": ""
+        },
+        {
+            "mal_id": 61492,
+            "title": "Entotsu Machi no Poupelle: Yakusoku no Tokei-dai",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1446/149253l.jpg",
+            "anime_type": "Movie",
+            "episodes": 1,
+            "status": "Not yet aired",
+            "score": null,
+            "synopsis": "Suite à Entotu Machi No Poupelle.",
+            "studios": "Studio 4°C",
+            "genres": "Adventure, Fantasy",
             "themes": ""
         },
         {
@@ -8334,32 +8386,6 @@
             "studios": "Tatsunoko Production",
             "genres": "",
             "themes": "Idols (Male), Music"
-        },
-        {
-            "mal_id": 61492,
-            "title": "Entotsu Machi no Poupelle: Yakusoku no Tokei-dai",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1446/149253l.jpg",
-            "anime_type": "Movie",
-            "episodes": 1,
-            "status": "Not yet aired",
-            "score": null,
-            "synopsis": "Suite à Entotu Machi No Poupelle.",
-            "studios": "Studio 4°C",
-            "genres": "Adventure, Fantasy",
-            "themes": ""
-        },
-        {
-            "mal_id": 61492,
-            "title": "Entotsu Machi no Poupelle: Yakusoku no Tokei-dai",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1446/149253l.jpg",
-            "anime_type": "Movie",
-            "episodes": 1,
-            "status": "Not yet aired",
-            "score": null,
-            "synopsis": "Suite à Entotu Machi No Poupelle.",
-            "studios": "Studio 4°C",
-            "genres": "Adventure, Fantasy",
-            "themes": ""
         },
         {
             "mal_id": 57821,
@@ -8421,7 +8447,7 @@
             "episodes": 1,
             "status": "Not yet aired",
             "score": null,
-            "synopsis": "Le film vous suit, un lycéen dans le Japon moderne qui rêve de devenir musicien mais lutte contre l'opposition familiale et les conflits au sein de son groupe. Un jour, tout en marchant dans Shibuya, il entend une voix désespérée appeler à l'aide, et une lumière blanche aveuglante l'englut.\n\nPendant ce temps, loin du cosmos, le corps céleste Meguriboshi est au bord de la guerre contre la source d'énergie connue sous le nom de \"Hoshichi\" (Star Blood). Tout comme un cessez-le-feu est sur le point d'être négocié entre les nations en guerre, un champ de débris orbitaux massif descend, menaçant une catastrophe. Laco, un jeune mécanicien, se précipite pour aider les forces de défense de la planète mais se retrouve en grave danger. Alors qu'elle tombe dans l'inconscience, son esprit se connecte avec vous, marquant le début de leur sort entrelacé.\n\n(Source: Mal News)",
+            "synopsis": "Le film vous suit, un lycéen du Japon moderne qui rêve de devenir musicien mais lutte contre l'opposition familiale et les conflits au sein de son groupe. Un jour, tout en marchant dans Shibuya, il entend une voix désespérée appeler à l'aide, et une lumière blanche aveuglante l'englut.\n\nPendant ce temps, loin du cosmos, le corps céleste Meguriboshi est au bord de la guerre contre la source d'énergie connue sous le nom de \"Hoshichi\" (Star Blood). Tout comme un cessez-le-feu est sur le point d'être négocié entre les nations en guerre, un champ de débris orbitaux massif descend, menaçant une catastrophe. Laco, un jeune mécanicien, se précipite pour aider les forces de défense de la planète mais se retrouve en grave danger. Alors qu'elle tombe dans l'inconscience, son esprit se connecte avec vous, marquant le début de leur sort entrelacé.\n\n(Source: Mal News)",
             "studios": "",
             "genres": "Action, Sci-Fi",
             "themes": "Mecha"
@@ -8746,7 +8772,7 @@
             "episodes": null,
             "status": "Not yet aired",
             "score": null,
-            "synopsis": "Après que Shen Jianxin soit redevenu dans le village de Daoxiang, des contes étranges, des cas non résolus et des inventions scandaleuses apparaissent constamment ... Lui et ses partenaires se lancent dans une nouvelle aventure.\n\n(Source: Bilibili, traduit)",
+            "synopsis": "Après que Shen Jianxin soit redevenu dans le village de Daoxiang, des contes étranges, des cas non résolus et des inventions scandaleuses apparaissent constamment ... lui et ses partenaires se lancent dans une nouvelle aventure.\n\n(Source: Bilibili, traduit)",
             "studios": "",
             "genres": "Action, Adventure, Comedy",
             "themes": "Historical, Martial Arts"
@@ -8958,6 +8984,45 @@
             "studios": "Pb Animation Co. Ltd., LAN Studio, Sunflowers",
             "genres": "Sci-Fi",
             "themes": ""
+        },
+        {
+            "mal_id": 61538,
+            "title": "Asa made Shiru Daku Haha Musume Donburi!!",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1027/149315l.jpg",
+            "anime_type": "OVA",
+            "episodes": null,
+            "status": "Not yet aired",
+            "score": null,
+            "synopsis": "",
+            "studios": "",
+            "genres": "Hentai",
+            "themes": ""
+        },
+        {
+            "mal_id": 61539,
+            "title": "Princess Burst!",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1691/149316l.jpg",
+            "anime_type": "OVA",
+            "episodes": null,
+            "status": "Not yet aired",
+            "score": null,
+            "synopsis": "",
+            "studios": "",
+            "genres": "Hentai",
+            "themes": ""
+        },
+        {
+            "mal_id": 61578,
+            "title": "Seitokai ni mo Ana wa Aru!",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1410/149470l.jpg",
+            "anime_type": "TV",
+            "episodes": null,
+            "status": "Not yet aired",
+            "score": null,
+            "synopsis": "En ce qui concerne les visages du conseil étudiant, certains sont idiots, effrayants, sombres ou un peu étranges. Cependant, les jours étrangement mignons et étranges continuent de passer dans leur vie quotidienne.\n\n(Source: Kodansha, traduit)",
+            "studios": "",
+            "genres": "Comedy",
+            "themes": "School"
         }
     ]
 }
