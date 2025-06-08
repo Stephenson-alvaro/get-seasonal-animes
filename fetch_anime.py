@@ -28,6 +28,17 @@ def fetch_season_anime(season_type):
 
     return all_anime
 
+def remove_duplicates_by_id_and_title(anime_list):
+    """Élimine les doublons basés sur mal_id et title."""
+    seen = set()
+    unique_anime = []
+    for anime in anime_list:
+        identifier = (anime.get("mal_id"), anime.get("title"))
+        if identifier not in seen:
+            seen.add(identifier)
+            unique_anime.append(anime)
+    return unique_anime
+
 async def translate_text(text):
     """Traduit un texte donné en français."""
     translator = Translator()
@@ -61,22 +72,19 @@ def extract_anime_info(anime):
         "themes": ", ".join(t["name"] for t in anime.get("themes", []))
     }
 
-# Récupération des données de chaque saison
+# Récupération et fusion des deux saisons
 current_season = fetch_season_anime('now')
 upcoming_season = fetch_season_anime('upcoming')
 
-# Traitement des données pour n'extraire que les informations souhaitées
-current_season_processed = [extract_anime_info(anime) for anime in current_season]
-upcoming_season_processed = [extract_anime_info(anime) for anime in upcoming_season]
+# Fusion et suppression des doublons
+all_anime_raw = current_season + upcoming_season
+unique_anime_raw = remove_duplicates_by_id_and_title(all_anime_raw)
 
-# Création de la structure de données finale
-anime_data = {
-    "now": current_season_processed,
-    "upcoming": upcoming_season_processed
-}
+# Traitement
+anime_processed = [extract_anime_info(anime) for anime in unique_anime_raw]
 
-# Sauvegarde en JSON
+# Sauvegarde JSON
 with open('seasonal_animes.json', 'w', encoding='utf-8') as f:
-    json.dump(anime_data, f, ensure_ascii=False, indent=4)
+    json.dump(anime_processed, f, ensure_ascii=False, indent=4)
 
 print("Données sauvegardées dans seasonal_animes.json")
