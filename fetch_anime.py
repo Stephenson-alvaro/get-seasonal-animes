@@ -1,9 +1,7 @@
 import requests
 import time
 import json
-import asyncio
 from googletrans import Translator
-
 
 def fetch_season_anime(season_type):
     """Récupère tous les animés d'une saison donnée (now/upcoming)"""
@@ -42,23 +40,24 @@ def remove_duplicates_by_id_and_title(anime_list):
     return unique_anime
 
 
-async def translate_text(text):
+def translate_text(text):
     """Traduit un texte donné en français."""
-    translator = Translator()
-    if text:
-        try:
-            result = translator.translate(text, src='en', dest='fr')
-            return result.text
-        except Exception as e:
-            print("Erreur de traduction :", e)
-            return text
-    return ""
+    if not text:
+        return ""
+
+    try:
+        translator = Translator()
+        result = translator.translate(text, src='en', dest='fr')
+        return result.text
+    except Exception as e:
+        print("Erreur de traduction :", e)
+        return text
 
 
 def extract_anime_info(anime):
     """Extrait uniquement les informations souhaitées pour un anime donné."""
     synopsis = anime.get("synopsis", "")
-    translated_synopsis = asyncio.run(translate_text(synopsis))
+    translated_synopsis = translate_text(synopsis)
 
     return {
         "mal_id": anime.get("mal_id"),
