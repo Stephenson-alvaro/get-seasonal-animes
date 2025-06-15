@@ -38,14 +38,7 @@ async def extract_info(anime, translator):
         "mal_id": anime.get("mal_id"),
         "title": anime.get("title"),
         "cover_src": anime.get("images", {}).get("jpg", {}).get("large_image_url"),
-        "anime_type": anime.get("type"),
-        "episodes": anime.get("episodes"),
-        "status": anime.get("status"),
-        "score": anime.get("score"),
-        "synopsis": text_fr,
-        "studios": ", ".join(s["name"] for s in anime.get("studios", [])),
-        "genres": ", ".join(g["name"] for g in anime.get("genres", [])),
-        "themes": ", ".join(t["name"] for t in anime.get("themes", []))
+        "score": anime.get("score")
     }
 
 async def process(season_type, translator):
