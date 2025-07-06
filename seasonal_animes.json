@@ -1,27 +1,27 @@
 {
     "now": [
         {
+            "mal_id": 60543,
+            "title": "Dandadan 2nd Season",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1721/149001l.jpg",
+            "score": 8.44
+        },
+        {
             "mal_id": 53065,
             "title": "Sono Bisque Doll wa Koi wo Suru Season 2",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1024/150787l.jpg",
             "score": null
         },
         {
-            "mal_id": 60543,
-            "title": "Dandadan 2nd Season",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1721/149001l.jpg",
-            "score": 8.46
+            "mal_id": 59177,
+            "title": "Kaijuu 8-gou 2nd Season",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1177/150344l.jpg",
+            "score": null
         },
         {
             "mal_id": 59192,
             "title": "Kimetsu no Yaiba Movie: Mugen Jou-hen",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1681/148216l.jpg",
-            "score": null
-        },
-        {
-            "mal_id": 59177,
-            "title": "Kaijuu 8-gou 2nd Season",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1177/150344l.jpg",
             "score": null
         },
         {
@@ -34,7 +34,7 @@
             "mal_id": 58390,
             "title": "Yofukashi no Uta Season 2",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1509/148453l.jpg",
-            "score": null
+            "score": 8.23
         },
         {
             "mal_id": 59845,
@@ -46,7 +46,7 @@
             "mal_id": 57433,
             "title": "Seishun Buta Yarou wa Santa Claus no Yume wo Minai",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1823/149858l.jpg",
-            "score": null
+            "score": 8.5
         },
         {
             "mal_id": 57907,
@@ -82,19 +82,25 @@
             "mal_id": 58913,
             "title": "Hikaru ga Shinda Natsu",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1104/148614l.jpg",
-            "score": null
+            "score": 8.05
         },
         {
             "mal_id": 59277,
             "title": "Kanojo, Okarishimasu 4th Season",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1071/150808l.jpg",
-            "score": 6.31
+            "score": 6.32
         },
         {
             "mal_id": 59095,
             "title": "Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu 2nd Season",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1154/149614l.jpg",
             "score": null
+        },
+        {
+            "mal_id": 59459,
+            "title": "Silent Witch: Chinmoku no Majo no Kakushigoto",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1669/149732l.jpg",
+            "score": 7.79
         },
         {
             "mal_id": 52293,
@@ -109,10 +115,10 @@
             "score": null
         },
         {
-            "mal_id": 59459,
-            "title": "Silent Witch: Chinmoku no Majo no Kakushigoto",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1669/149732l.jpg",
-            "score": 7.68
+            "mal_id": 60732,
+            "title": "Mizu Zokusei no Mahoutsukai",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1224/147443l.jpg",
+            "score": 7.09
         },
         {
             "mal_id": 59402,
@@ -127,16 +133,10 @@
             "score": 6.81
         },
         {
-            "mal_id": 60732,
-            "title": "Mizu Zokusei no Mahoutsukai",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1224/147443l.jpg",
-            "score": 7.09
-        },
-        {
             "mal_id": 53397,
             "title": "Tsuyokute New Saga",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1170/147753l.jpg",
-            "score": 6.95
+            "score": 6.91
         },
         {
             "mal_id": 59205,
@@ -163,16 +163,22 @@
             "score": null
         },
         {
+            "mal_id": 56693,
+            "title": "Watari-kun no xx ga Houkai Sunzen",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1502/150545l.jpg",
+            "score": 6.65
+        },
+        {
             "mal_id": 61339,
             "title": "Jibaku Shounen Hanako-kun 2 Part 2",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1484/150617l.jpg",
             "score": null
         },
         {
-            "mal_id": 56693,
-            "title": "Watari-kun no xx ga Houkai Sunzen",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1502/150545l.jpg",
-            "score": 6.64
+            "mal_id": 59632,
+            "title": "Mattaku Saikin no Tantei to Kitara",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1323/149460l.jpg",
+            "score": 7.15
         },
         {
             "mal_id": 59207,
@@ -181,10 +187,10 @@
             "score": null
         },
         {
-            "mal_id": 59632,
-            "title": "Mattaku Saikin no Tantei to Kitara",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1323/149460l.jpg",
-            "score": 7.13
+            "mal_id": 58749,
+            "title": "Arknights: Rise from Ember",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1790/149462l.jpg",
+            "score": 7.57
         },
         {
             "mal_id": 56907,
@@ -193,16 +199,16 @@
             "score": null
         },
         {
-            "mal_id": 58749,
-            "title": "Arknights: Rise from Ember",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1790/149462l.jpg",
-            "score": 7.27
+            "mal_id": 59421,
+            "title": "Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai sareru",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1518/149900l.jpg",
+            "score": 7.04
         },
         {
             "mal_id": 53512,
             "title": "Busu ni Hanataba wo.",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1672/148193l.jpg",
-            "score": null
+            "score": 6.6
         },
         {
             "mal_id": 59791,
@@ -217,22 +223,16 @@
             "score": null
         },
         {
-            "mal_id": 59421,
-            "title": "Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai sareru",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1518/149900l.jpg",
-            "score": null
+            "mal_id": 60523,
+            "title": "Tsuihousha Shokudou e Youkoso!",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1313/149355l.jpg",
+            "score": 7.24
         },
         {
             "mal_id": 59619,
             "title": "Ame to Kimi to",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1329/150512l.jpg",
-            "score": null
-        },
-        {
-            "mal_id": 60523,
-            "title": "Tsuihousha Shokudou e Youkoso!",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1313/149355l.jpg",
-            "score": 7.2
+            "score": 7
         },
         {
             "mal_id": 59342,
@@ -247,15 +247,15 @@
             "score": null
         },
         {
-            "mal_id": 58197,
-            "title": "Nyaight of the Living Cat",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1411/150445l.jpg",
-            "score": null
-        },
-        {
             "mal_id": 59161,
             "title": "Bad Girl",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1672/148848l.jpg",
+            "score": 6.88
+        },
+        {
+            "mal_id": 58197,
+            "title": "Nyaight of the Living Cat",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1411/150445l.jpg",
             "score": null
         },
         {
@@ -271,16 +271,16 @@
             "score": null
         },
         {
+            "mal_id": 61150,
+            "title": "Onmyou Kaiten Re:Birth",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1933/150503l.jpg",
+            "score": 6.66
+        },
+        {
             "mal_id": 60315,
             "title": "Dekin no Mogura",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1154/149311l.jpg",
             "score": null
-        },
-        {
-            "mal_id": 61150,
-            "title": "Onmyou Kaiten Re:Birth",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1933/150503l.jpg",
-            "score": 6.7
         },
         {
             "mal_id": 60508,
@@ -292,7 +292,7 @@
             "mal_id": 61023,
             "title": "Hitozuma no Kuchibiru wa Kan Chuuhai no Aji ga Shite",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1961/149183l.jpg",
-            "score": 5.95
+            "score": 5.9
         },
         {
             "mal_id": 60316,
@@ -307,16 +307,22 @@
             "score": null
         },
         {
+            "mal_id": 60260,
+            "title": "Hotel Inhumans",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1900/150443l.jpg",
+            "score": null
+        },
+        {
             "mal_id": 54028,
             "title": "Turkey!",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1213/148653l.jpg",
             "score": null
         },
         {
-            "mal_id": 60260,
-            "title": "Hotel Inhumans",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1900/150443l.jpg",
-            "score": null
+            "mal_id": 57820,
+            "title": "Kamitsubaki-shi Kensetsuchuu.",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1967/148714l.jpg",
+            "score": 5.89
         },
         {
             "mal_id": 60697,
@@ -331,21 +337,9 @@
             "score": null
         },
         {
-            "mal_id": 57820,
-            "title": "Kamitsubaki-shi Kensetsuchuu.",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1967/148714l.jpg",
-            "score": 6
-        },
-        {
             "mal_id": 58957,
             "title": "9: Ruler's Crown",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1278/149789l.jpg",
-            "score": null
-        },
-        {
-            "mal_id": 57969,
-            "title": "Nukitashi the Animation",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1587/149982l.jpg",
             "score": null
         },
         {
@@ -353,6 +347,12 @@
             "title": "Necronomico no Cosmic Horror Show",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1845/150343l.jpg",
             "score": 5.67
+        },
+        {
+            "mal_id": 57969,
+            "title": "Nukitashi the Animation",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1587/149982l.jpg",
+            "score": null
         },
         {
             "mal_id": 53722,
@@ -370,6 +370,12 @@
             "mal_id": 60130,
             "title": "Muchuu sa, Kimi ni.",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1359/150668l.jpg",
+            "score": null
+        },
+        {
+            "mal_id": 59662,
+            "title": "Long Zu II: Daowangzhe Zhi Tong",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1577/147273l.jpg",
             "score": null
         },
         {
@@ -391,22 +397,22 @@
             "score": null
         },
         {
-            "mal_id": 58996,
-            "title": "Osomatsu-san 4th Season",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1018/150416l.jpg",
-            "score": null
-        },
-        {
             "mal_id": 55689,
             "title": "Utagoe wa Mille-Feuille",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1977/145685l.jpg",
             "score": null
         },
         {
+            "mal_id": 58996,
+            "title": "Osomatsu-san 4th Season",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1018/150416l.jpg",
+            "score": null
+        },
+        {
             "mal_id": 61274,
             "title": "Ginga Tokkyuu Milky☆Subway",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1464/150712l.jpg",
-            "score": 6.53
+            "score": 6.51
         },
         {
             "mal_id": 60577,
@@ -481,15 +487,15 @@
             "score": null
         },
         {
-            "mal_id": 60562,
-            "title": "Bai Yao Pu 5th Season",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1015/149994l.jpg",
-            "score": null
-        },
-        {
             "mal_id": 61952,
             "title": "Luo Xiao Hei Zhan Ji 2",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1505/150847l.jpg",
+            "score": null
+        },
+        {
+            "mal_id": 60562,
+            "title": "Bai Yao Pu 5th Season",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1015/149994l.jpg",
             "score": null
         },
         {
@@ -529,15 +535,15 @@
             "score": null
         },
         {
-            "mal_id": 60917,
-            "title": "Ahobsan Sup: Gisaenghon",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1322/147849l.jpg",
-            "score": null
-        },
-        {
             "mal_id": 61561,
             "title": "Cang Lan Jue 2",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1784/149998l.jpg",
+            "score": null
+        },
+        {
+            "mal_id": 60917,
+            "title": "Ahobsan Sup: Gisaenghon",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1322/147849l.jpg",
             "score": null
         },
         {
@@ -595,21 +601,15 @@
             "score": null
         },
         {
+            "mal_id": 61621,
+            "title": "Yun Shen Buzhi Meng",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1897/150259l.jpg",
+            "score": null
+        },
+        {
             "mal_id": 59865,
             "title": "Shinobanai! Crypto Ninja Sakuya: San no Maki",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1122/145554l.jpg",
-            "score": null
-        },
-        {
-            "mal_id": 61290,
-            "title": "Punirunes: Puni 3",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1095/150294l.jpg",
-            "score": null
-        },
-        {
-            "mal_id": 61751,
-            "title": "Liaozhai: Lanre Si",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1184/150284l.jpg",
             "score": null
         },
         {
@@ -631,6 +631,18 @@
             "score": null
         },
         {
+            "mal_id": 61290,
+            "title": "Punirunes: Puni 3",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1095/150294l.jpg",
+            "score": null
+        },
+        {
+            "mal_id": 61751,
+            "title": "Liaozhai: Lanre Si",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1184/150284l.jpg",
+            "score": null
+        },
+        {
             "mal_id": 61778,
             "title": "Dotoli Munhwasenteo",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1418/150394l.jpg",
@@ -649,15 +661,15 @@
             "score": null
         },
         {
-            "mal_id": 61731,
-            "title": "Gakkou de wa Oshiete Kurenai Taisetsu na Koto",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1791/149887l.jpg",
-            "score": null
-        },
-        {
             "mal_id": 61929,
             "title": "Ling Tian Du Zun",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1002/150785l.jpg",
+            "score": null
+        },
+        {
+            "mal_id": 61731,
+            "title": "Gakkou de wa Oshiete Kurenai Taisetsu na Koto",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1791/149887l.jpg",
             "score": null
         },
         {
@@ -679,9 +691,9 @@
             "score": null
         },
         {
-            "mal_id": 61948,
-            "title": "Zhege Nianji Huan Neng Dang Daxia Ma 2nd Season",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1211/150841l.jpg",
+            "mal_id": 61790,
+            "title": "Kakurenbo The Animation",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1577/150879l.jpg",
             "score": null
         },
         {
@@ -691,15 +703,21 @@
             "score": null
         },
         {
-            "mal_id": 61951,
-            "title": "Ruguo Lishi Shi Yiqun Miao: Yuan Mo Ming Chu Pian",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1616/150846l.jpg",
+            "mal_id": 61948,
+            "title": "Zhege Nianji Huan Neng Dang Daxia Ma 2nd Season",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1211/150841l.jpg",
             "score": null
         },
         {
             "mal_id": 61954,
             "title": "Xi Yangyang Yu Hui Tailang: Kuang Ye Xin Yuzhou",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1753/150849l.jpg",
+            "score": null
+        },
+        {
+            "mal_id": 61951,
+            "title": "Ruguo Lishi Shi Yiqun Miao: Yuan Mo Ming Chu Pian",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1616/150846l.jpg",
             "score": null
         },
         {
@@ -753,15 +771,15 @@
             "score": null
         },
         {
-            "mal_id": 59192,
-            "title": "Kimetsu no Yaiba Movie: Mugen Jou-hen",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1681/148216l.jpg",
-            "score": null
-        },
-        {
             "mal_id": 59177,
             "title": "Kaijuu 8-gou 2nd Season",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1177/150344l.jpg",
+            "score": null
+        },
+        {
+            "mal_id": 59192,
+            "title": "Kimetsu no Yaiba Movie: Mugen Jou-hen",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1681/148216l.jpg",
             "score": null
         },
         {
@@ -783,12 +801,6 @@
             "score": null
         },
         {
-            "mal_id": 58390,
-            "title": "Yofukashi no Uta Season 2",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1509/148453l.jpg",
-            "score": null
-        },
-        {
             "mal_id": 59845,
             "title": "Kaoru Hana wa Rin to Saku",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1744/150433l.jpg",
@@ -804,12 +816,6 @@
             "mal_id": 57658,
             "title": "Jujutsu Kaisen: Shimetsu Kaiyuu",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1889/147024l.jpg",
-            "score": null
-        },
-        {
-            "mal_id": 57433,
-            "title": "Seishun Buta Yarou wa Santa Claus no Yume wo Minai",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1823/149858l.jpg",
             "score": null
         },
         {
@@ -843,6 +849,12 @@
             "score": null
         },
         {
+            "mal_id": 59986,
+            "title": "Grand Blue Season 2",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1108/150583l.jpg",
+            "score": null
+        },
+        {
             "mal_id": 54703,
             "title": "Fumetsu no Anata e Season 3",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1361/149180l.jpg",
@@ -852,12 +864,6 @@
             "mal_id": 59068,
             "title": "Dungeon Meshi 2nd Season",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1796/143572l.jpg",
-            "score": null
-        },
-        {
-            "mal_id": 59986,
-            "title": "Grand Blue Season 2",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1108/150583l.jpg",
             "score": null
         },
         {
@@ -879,21 +885,15 @@
             "score": null
         },
         {
-            "mal_id": 59708,
-            "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1585/145193l.jpg",
-            "score": null
-        },
-        {
             "mal_id": 61006,
             "title": "Bocchi the Rock! 2nd Season",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1142/148003l.jpg",
             "score": null
         },
         {
-            "mal_id": 58913,
-            "title": "Hikaru ga Shinda Natsu",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1104/148614l.jpg",
+            "mal_id": 59708,
+            "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1585/145193l.jpg",
             "score": null
         },
         {
@@ -953,7 +953,7 @@
         {
             "mal_id": 60636,
             "title": "Bleach: Sennen Kessen-hen - Kashin-tan",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1905/147227l.jpg",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1488/150890l.jpg",
             "score": null
         },
         {
@@ -999,15 +999,15 @@
             "score": null
         },
         {
-            "mal_id": 52750,
-            "title": "SK∞ 2nd Season",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1292/127028l.jpg",
-            "score": null
-        },
-        {
             "mal_id": 52293,
             "title": "New Panty & Stocking with Garterbelt",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1180/150596l.jpg",
+            "score": null
+        },
+        {
+            "mal_id": 52750,
+            "title": "SK∞ 2nd Season",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1292/127028l.jpg",
             "score": null
         },
         {
@@ -1023,15 +1023,15 @@
             "score": null
         },
         {
-            "mal_id": 58967,
-            "title": "Haikyuu!! Movie: vs. Chiisana Kyojin",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1767/148248l.jpg",
-            "score": null
-        },
-        {
             "mal_id": 58811,
             "title": "Tougen Anki",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1474/150666l.jpg",
+            "score": null
+        },
+        {
+            "mal_id": 58967,
+            "title": "Haikyuu!! Movie: vs. Chiisana Kyojin",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1767/148248l.jpg",
             "score": null
         },
         {
@@ -1077,15 +1077,15 @@
             "score": null
         },
         {
-            "mal_id": 59971,
-            "title": "Tensei shitara Slime Datta Ken Movie 2: Soukai no Namida-hen",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1440/147868l.jpg",
-            "score": null
-        },
-        {
             "mal_id": 59402,
             "title": "Kakkou no Iinazuke Season 2",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1551/150517l.jpg",
+            "score": null
+        },
+        {
+            "mal_id": 59971,
+            "title": "Tensei shitara Slime Datta Ken Movie 2: Soukai no Namida-hen",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1440/147868l.jpg",
             "score": null
         },
         {
@@ -1167,12 +1167,6 @@
             "score": null
         },
         {
-            "mal_id": 56906,
-            "title": "Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta (TV Special)",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1351/148718l.jpg",
-            "score": null
-        },
-        {
             "mal_id": 59130,
             "title": "Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1782/150383l.jpg",
@@ -1182,6 +1176,12 @@
             "mal_id": 61903,
             "title": "Kaguya-sama wa Kokurasetai: Otona e no Kaidan",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1112/150697l.jpg",
+            "score": null
+        },
+        {
+            "mal_id": 56906,
+            "title": "Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta (TV Special)",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1351/148718l.jpg",
             "score": null
         },
         {
@@ -1203,6 +1203,12 @@
             "score": null
         },
         {
+            "mal_id": 60326,
+            "title": "Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (※Muri ja Nakatta!?)",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1887/150496l.jpg",
+            "score": null
+        },
+        {
             "mal_id": 50668,
             "title": "Mahoutsukai no Yoru",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1995/120244l.jpg",
@@ -1212,12 +1218,6 @@
             "mal_id": 59230,
             "title": "Zenchi-teki na Dokusha no Shiten kara",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1549/144140l.jpg",
-            "score": null
-        },
-        {
-            "mal_id": 60326,
-            "title": "Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (※Muri ja Nakatta!?)",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1887/150496l.jpg",
             "score": null
         },
         {
@@ -1269,6 +1269,12 @@
             "score": null
         },
         {
+            "mal_id": 61990,
+            "title": "Cyberpunk: Edgerunners 2",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1451/150888l.jpg",
+            "score": null
+        },
+        {
             "mal_id": 54757,
             "title": "3-nen Z-gumi Ginpachi-sensei",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1367/146006l.jpg",
@@ -1293,15 +1299,21 @@
             "score": null
         },
         {
+            "mal_id": 61126,
+            "title": "Kimi ga Shinu made Koi wo Shitai",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1051/148250l.jpg",
+            "score": null
+        },
+        {
             "mal_id": 55744,
             "title": "Ousama Ranking Movie",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1282/136615l.jpg",
             "score": null
         },
         {
-            "mal_id": 61126,
-            "title": "Kimi ga Shinu made Koi wo Shitai",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1051/148250l.jpg",
+            "mal_id": 61987,
+            "title": "Kusuriya no Hitorigoto (Zoku-hen)",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1508/150885l.jpg",
             "score": null
         },
         {
@@ -1347,6 +1359,12 @@
             "score": null
         },
         {
+            "mal_id": 56907,
+            "title": "Koujo Denka no Kateikyoushi",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1445/150685l.jpg",
+            "score": null
+        },
+        {
             "mal_id": 59435,
             "title": "Undead Unluck (Special)",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1964/144558l.jpg",
@@ -1362,18 +1380,6 @@
             "mal_id": 60510,
             "title": "2.5-jigen no Ririsa 2nd Season",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1833/146951l.jpg",
-            "score": null
-        },
-        {
-            "mal_id": 56907,
-            "title": "Koujo Denka no Kateikyoushi",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1445/150685l.jpg",
-            "score": null
-        },
-        {
-            "mal_id": 53512,
-            "title": "Busu ni Hanataba wo.",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1672/148193l.jpg",
             "score": null
         },
         {
@@ -1395,15 +1401,9 @@
             "score": null
         },
         {
-            "mal_id": 59421,
-            "title": "Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai sareru",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1518/149900l.jpg",
-            "score": null
-        },
-        {
-            "mal_id": 59619,
-            "title": "Ame to Kimi to",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1329/150512l.jpg",
+            "mal_id": 61942,
+            "title": "Vigilante: Boku no Hero Academia Illegals 2nd Season",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1183/150817l.jpg",
             "score": null
         },
         {
@@ -1431,12 +1431,6 @@
             "score": null
         },
         {
-            "mal_id": 61942,
-            "title": "Vigilante: Boku no Hero Academia Illegals 2nd Season",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1183/150817l.jpg",
-            "score": null
-        },
-        {
             "mal_id": 61603,
             "title": "Ao Ashi 2nd Season",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1832/149517l.jpg",
@@ -1449,21 +1443,27 @@
             "score": null
         },
         {
-            "mal_id": 61831,
-            "title": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1444/150622l.jpg",
-            "score": null
-        },
-        {
             "mal_id": 59689,
             "title": "Game Center Shoujo to Ibunka Kouryuu",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1943/149719l.jpg",
             "score": null
         },
         {
+            "mal_id": 61831,
+            "title": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1444/150622l.jpg",
+            "score": null
+        },
+        {
             "mal_id": 58772,
             "title": "Kakuriyo no Yadomeshi Ni",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1987/150625l.jpg",
+            "score": null
+        },
+        {
+            "mal_id": 58197,
+            "title": "Nyaight of the Living Cat",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1411/150445l.jpg",
             "score": null
         },
         {
@@ -1479,21 +1479,15 @@
             "score": null
         },
         {
-            "mal_id": 58197,
-            "title": "Nyaight of the Living Cat",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1411/150445l.jpg",
+            "mal_id": 60951,
+            "title": "Kizetsu Yuusha to Ansatsu Hime",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1777/150455l.jpg",
             "score": null
         },
         {
-            "mal_id": 59161,
-            "title": "Bad Girl",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1672/148848l.jpg",
-            "score": null
-        },
-        {
-            "mal_id": 61200,
-            "title": "Shuumatsu no Walküre III",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1169/148460l.jpg",
+            "mal_id": 61973,
+            "title": "Gate Season 2: Jieitai Kanoumi nite, Kaku Tatakaeri",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1786/150874l.jpg",
             "score": null
         },
         {
@@ -1503,9 +1497,9 @@
             "score": null
         },
         {
-            "mal_id": 60951,
-            "title": "Kizetsu Yuusha to Ansatsu Hime",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1777/150455l.jpg",
+            "mal_id": 61200,
+            "title": "Shuumatsu no Walküre III",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1169/148460l.jpg",
             "score": null
         },
         {
@@ -1515,15 +1509,15 @@
             "score": null
         },
         {
-            "mal_id": 50139,
-            "title": "Disney: Twisted-Wonderland The Animation - Episode of Heartslabyul",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1420/148466l.jpg",
-            "score": null
-        },
-        {
             "mal_id": 59267,
             "title": "Sanda",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1490/147156l.jpg",
+            "score": null
+        },
+        {
+            "mal_id": 50139,
+            "title": "Disney: Twisted-Wonderland The Animation - Episode of Heartslabyul",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1420/148466l.jpg",
             "score": null
         },
         {
@@ -1599,6 +1593,12 @@
             "score": null
         },
         {
+            "mal_id": 60315,
+            "title": "Dekin no Mogura",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1154/149311l.jpg",
+            "score": null
+        },
+        {
             "mal_id": 61292,
             "title": "Rurouni Kenshin: Meiji Kenkaku Romantan 3rd Season",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1391/148722l.jpg",
@@ -1614,12 +1614,6 @@
             "mal_id": 43434,
             "title": "Shuo Feng: Po Zhen Zi",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1577/109768l.jpg",
-            "score": null
-        },
-        {
-            "mal_id": 60315,
-            "title": "Dekin no Mogura",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1154/149311l.jpg",
             "score": null
         },
         {
@@ -1641,9 +1635,9 @@
             "score": null
         },
         {
-            "mal_id": 61973,
-            "title": "Gate Season 2: Jieitai Kanoumi nite, Kaku Tatakaeri",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1786/150874l.jpg",
+            "mal_id": 60508,
+            "title": "Food Court de, Mata Ashita.",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1039/150572l.jpg",
             "score": null
         },
         {
@@ -1653,21 +1647,9 @@
             "score": null
         },
         {
-            "mal_id": 60508,
-            "title": "Food Court de, Mata Ashita.",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1039/150572l.jpg",
-            "score": null
-        },
-        {
             "mal_id": 61517,
             "title": "Kingdom 6th Season",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1145/150403l.jpg",
-            "score": null
-        },
-        {
-            "mal_id": 38716,
-            "title": "Kidou Senshi Gundam: Senkou no Hathaway - Circe no Majo",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1251/150743l.jpg",
             "score": null
         },
         {
@@ -1677,9 +1659,15 @@
             "score": null
         },
         {
-            "mal_id": 59741,
-            "title": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1502/145271l.jpg",
+            "mal_id": 38716,
+            "title": "Kidou Senshi Gundam: Senkou no Hathaway - Circe no Majo",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1251/150743l.jpg",
+            "score": null
+        },
+        {
+            "mal_id": 61968,
+            "title": "Monogatari Series: Off & Monster Season (Shin Episode)",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1823/150866l.jpg",
             "score": null
         },
         {
@@ -1689,9 +1677,21 @@
             "score": null
         },
         {
+            "mal_id": 59741,
+            "title": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1502/145271l.jpg",
+            "score": null
+        },
+        {
             "mal_id": 56734,
             "title": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1348/149451l.jpg",
+            "score": null
+        },
+        {
+            "mal_id": 59961,
+            "title": "Kizu darake Seijo yori Houfuku wo Komete",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1546/145782l.jpg",
             "score": null
         },
         {
@@ -1707,15 +1707,15 @@
             "score": null
         },
         {
-            "mal_id": 59961,
-            "title": "Kizu darake Seijo yori Houfuku wo Komete",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1546/145782l.jpg",
-            "score": null
-        },
-        {
             "mal_id": 58877,
             "title": "Diamond no Ace: Act II Second Season",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1697/149820l.jpg",
+            "score": null
+        },
+        {
+            "mal_id": 60260,
+            "title": "Hotel Inhumans",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1900/150443l.jpg",
             "score": null
         },
         {
@@ -1731,21 +1731,15 @@
             "score": null
         },
         {
-            "mal_id": 60260,
-            "title": "Hotel Inhumans",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1900/150443l.jpg",
+            "mal_id": 57888,
+            "title": "Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha.",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1637/148702l.jpg",
             "score": null
         },
         {
             "mal_id": 56646,
             "title": "Hokuto no Ken: Fist of the North Star",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1911/150747l.jpg",
-            "score": null
-        },
-        {
-            "mal_id": 57888,
-            "title": "Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha.",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1637/148702l.jpg",
             "score": null
         },
         {
@@ -1773,27 +1767,21 @@
             "score": null
         },
         {
-            "mal_id": 61968,
-            "title": "Monogatari Series: Off & Monster Season (Shin Episode)",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1823/150866l.jpg",
-            "score": null
-        },
-        {
             "mal_id": 61925,
             "title": "A-Rank Party wo Ridatsu shita Ore wa, Moto Oshiego-tachi to Meikyuu Shinbu wo Mezasu. 2nd Season",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1563/150779l.jpg",
             "score": null
         },
         {
-            "mal_id": 57961,
-            "title": "Rakuen Tsuihou: Kokoro no Resonance",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1437/146525l.jpg",
-            "score": null
-        },
-        {
             "mal_id": 60697,
             "title": "Fermat no Ryouri",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1104/150590l.jpg",
+            "score": null
+        },
+        {
+            "mal_id": 57961,
+            "title": "Rakuen Tsuihou: Kokoro no Resonance",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1437/146525l.jpg",
             "score": null
         },
         {
@@ -1809,9 +1797,9 @@
             "score": null
         },
         {
-            "mal_id": 38717,
-            "title": "Kidou Senshi Gundam: Senkou no Hathaway 3",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1214/96549l.jpg",
+            "mal_id": 60131,
+            "title": "Karaoke Iko!",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1801/150665l.jpg",
             "score": null
         },
         {
@@ -1821,9 +1809,15 @@
             "score": null
         },
         {
-            "mal_id": 60131,
-            "title": "Karaoke Iko!",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1801/150665l.jpg",
+            "mal_id": 38717,
+            "title": "Kidou Senshi Gundam: Senkou no Hathaway 3",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1214/96549l.jpg",
+            "score": null
+        },
+        {
+            "mal_id": 61931,
+            "title": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu. Season 2",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1601/150794l.jpg",
             "score": null
         },
         {
@@ -1839,12 +1833,6 @@
             "score": null
         },
         {
-            "mal_id": 61931,
-            "title": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu. Season 2",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1601/150794l.jpg",
-            "score": null
-        },
-        {
             "mal_id": 58146,
             "title": "Tensei Akujo no Kuro Rekishi",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1347/150603l.jpg",
@@ -1854,6 +1842,12 @@
             "mal_id": 61269,
             "title": "Digimon Beatbreak",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1945/148620l.jpg",
+            "score": null
+        },
+        {
+            "mal_id": 53130,
+            "title": "Eisen Flügel",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1788/150891l.jpg",
             "score": null
         },
         {
@@ -1869,12 +1863,6 @@
             "score": null
         },
         {
-            "mal_id": 53130,
-            "title": "Eisen Flügel",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1450/128319l.jpg",
-            "score": null
-        },
-        {
             "mal_id": 41919,
             "title": "Mo Du Zhe",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1688/108804l.jpg",
@@ -1887,27 +1875,21 @@
             "score": null
         },
         {
-            "mal_id": 58957,
-            "title": "9: Ruler's Crown",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1278/149789l.jpg",
-            "score": null
-        },
-        {
             "mal_id": 59047,
             "title": "Tamon-kun Ima Docchi!?",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1633/148194l.jpg",
             "score": null
         },
         {
-            "mal_id": 59817,
-            "title": "Girls Band Cry Movie",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1287/149287l.jpg",
-            "score": null
-        },
-        {
             "mal_id": 57969,
             "title": "Nukitashi the Animation",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1587/149982l.jpg",
+            "score": null
+        },
+        {
+            "mal_id": 59817,
+            "title": "Girls Band Cry Movie",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1287/149287l.jpg",
             "score": null
         },
         {
@@ -1941,12 +1923,6 @@
             "score": null
         },
         {
-            "mal_id": 58886,
-            "title": "Darwin Jihen",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1740/146583l.jpg",
-            "score": null
-        },
-        {
             "mal_id": 58919,
             "title": "Hyakuemu.",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1385/149361l.jpg",
@@ -1956,6 +1932,12 @@
             "mal_id": 60254,
             "title": "Yano-kun no Futsuu no Hibi",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1859/148430l.jpg",
+            "score": null
+        },
+        {
+            "mal_id": 58886,
+            "title": "Darwin Jihen",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1740/146583l.jpg",
             "score": null
         },
         {
@@ -1971,21 +1953,27 @@
             "score": null
         },
         {
-            "mal_id": 57528,
-            "title": "Risou no Himo Seikatsu",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1349/140367l.jpg",
-            "score": null
-        },
-        {
             "mal_id": 60130,
             "title": "Muchuu sa, Kimi ni.",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1359/150668l.jpg",
             "score": null
         },
         {
+            "mal_id": 57528,
+            "title": "Risou no Himo Seikatsu",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1349/140367l.jpg",
+            "score": null
+        },
+        {
             "mal_id": 60303,
             "title": "Shinjiteita Nakama-tachi ni Dungeon Okuchi de Korosarekaketa ga Gift \"Mugen Gacha\" de Level 9999 no Nakama-tachi wo Te ni Irete Moto Party Member to Sekai ni Fukushuu & \"Zamaa!\" Shimasu!",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1256/149294l.jpg",
+            "score": null
+        },
+        {
+            "mal_id": 61930,
+            "title": "Uma Musume: Cinderella Gray Part 2",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1158/150789l.jpg",
             "score": null
         },
         {
@@ -2007,12 +1995,6 @@
             "score": null
         },
         {
-            "mal_id": 61930,
-            "title": "Uma Musume: Cinderella Gray Part 2",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1158/150789l.jpg",
-            "score": null
-        },
-        {
             "mal_id": 60347,
             "title": "Cat's♥Eye",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1836/148551l.jpg",
@@ -2022,6 +2004,12 @@
             "mal_id": 61115,
             "title": "Gochuumon wa Usagi desu ka? (Shinsaku Anime)",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1393/148220l.jpg",
+            "score": null
+        },
+        {
+            "mal_id": 61276,
+            "title": "Mikata ga Yowasugite Hojo Mahou ni Tesshiteita Kyuutei Mahoushi, Tsuihou sarete Saikyou wo Mezashimasu",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1411/148643l.jpg",
             "score": null
         },
         {
@@ -2037,21 +2025,15 @@
             "score": null
         },
         {
-            "mal_id": 61276,
-            "title": "Mikata ga Yowasugite Hojo Mahou ni Tesshiteita Kyuutei Mahoushi, Tsuihou sarete Saikyou wo Mezashimasu",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1411/148643l.jpg",
+            "mal_id": 60969,
+            "title": "Taiyou yori mo Mabushii Hoshi",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1971/149410l.jpg",
             "score": null
         },
         {
             "mal_id": 60552,
             "title": "Kabushikigaisha Magi-Lumière 2nd Season",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1944/147019l.jpg",
-            "score": null
-        },
-        {
-            "mal_id": 60969,
-            "title": "Taiyou yori mo Mabushii Hoshi",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1971/149410l.jpg",
             "score": null
         },
         {
@@ -2085,15 +2067,15 @@
             "score": null
         },
         {
-            "mal_id": 58953,
-            "title": "Pokemon Concierge Part 2",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1873/148170l.jpg",
-            "score": null
-        },
-        {
             "mal_id": 61174,
             "title": "Sozai Saishuka no Isekai Ryokouki",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1295/148396l.jpg",
+            "score": null
+        },
+        {
+            "mal_id": 58953,
+            "title": "Pokemon Concierge Part 2",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1873/148170l.jpg",
             "score": null
         },
         {
@@ -2109,9 +2091,9 @@
             "score": null
         },
         {
-            "mal_id": 60933,
-            "title": "Chanto Suenai Kyuuketsuki-chan",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1121/147865l.jpg",
+            "mal_id": 55689,
+            "title": "Utagoe wa Mille-Feuille",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1977/145685l.jpg",
             "score": null
         },
         {
@@ -2121,9 +2103,9 @@
             "score": null
         },
         {
-            "mal_id": 55689,
-            "title": "Utagoe wa Mille-Feuille",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1977/145685l.jpg",
+            "mal_id": 60933,
+            "title": "Chanto Suenai Kyuuketsuki-chan",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1121/147865l.jpg",
             "score": null
         },
         {
@@ -2139,12 +2121,6 @@
             "score": null
         },
         {
-            "mal_id": 54344,
-            "title": "Mahou Shoujo Ikusei Keikaku: Restart",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1613/146950l.jpg",
-            "score": null
-        },
-        {
             "mal_id": 61663,
             "title": "Uruwashi no Yoi no Tsuki",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1653/149714l.jpg",
@@ -2154,6 +2130,12 @@
             "mal_id": 60610,
             "title": "Hateshinaki Scarlet",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1781/150871l.jpg",
+            "score": null
+        },
+        {
+            "mal_id": 54344,
+            "title": "Mahou Shoujo Ikusei Keikaku: Restart",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1613/146950l.jpg",
             "score": null
         },
         {
@@ -2175,15 +2157,15 @@
             "score": null
         },
         {
-            "mal_id": 60444,
-            "title": "Yowayowa Sensei",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1186/146806l.jpg",
-            "score": null
-        },
-        {
             "mal_id": 60395,
             "title": "Toumei Otoko to Ningen Onna: Sonouchi Fuufu ni Naru Futari",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1754/146673l.jpg",
+            "score": null
+        },
+        {
+            "mal_id": 60444,
+            "title": "Yowayowa Sensei",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1186/146806l.jpg",
             "score": null
         },
         {
@@ -2217,27 +2199,21 @@
             "score": null
         },
         {
-            "mal_id": 56837,
-            "title": "Cencoroll 3",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1193/138920l.jpg",
-            "score": null
-        },
-        {
             "mal_id": 60577,
             "title": "Tong Ling Fei 2nd Season",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1292/147061l.jpg",
             "score": null
         },
         {
-            "mal_id": 61072,
-            "title": "Shuumatsu Touring",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1484/150257l.jpg",
+            "mal_id": 56837,
+            "title": "Cencoroll 3",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1193/138920l.jpg",
             "score": null
         },
         {
-            "mal_id": 57005,
-            "title": "Mukuwarenakatta Murabito A, Kizoku ni Hirowarete Dekiai sareru Ue ni, Jitsu wa Motteita Densetsu-kyuu no Kami Skill mo Kakusei shita",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1695/149452l.jpg",
+            "mal_id": 61072,
+            "title": "Shuumatsu Touring",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1484/150257l.jpg",
             "score": null
         },
         {
@@ -2259,15 +2235,15 @@
             "score": null
         },
         {
-            "mal_id": 56736,
-            "title": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi: Munou wo Enjiru SS Rank Ouji wa Koui Keishousen wo Kage kara Shihai suru",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1768/138684l.jpg",
-            "score": null
-        },
-        {
             "mal_id": 60071,
             "title": "Odayaka Kizoku no Kyuuka no Susume.",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1455/149174l.jpg",
+            "score": null
+        },
+        {
+            "mal_id": 56736,
+            "title": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi: Munou wo Enjiru SS Rank Ouji wa Koui Keishousen wo Kage kara Shihai suru",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1768/138684l.jpg",
             "score": null
         },
         {
@@ -2289,15 +2265,15 @@
             "score": null
         },
         {
-            "mal_id": 56613,
-            "title": "Azur Lane: Bisoku Zenshin! Ni!!",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1720/149372l.jpg",
-            "score": null
-        },
-        {
             "mal_id": 61926,
             "title": "Summer Pockets Movie",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1396/150781l.jpg",
+            "score": null
+        },
+        {
+            "mal_id": 56613,
+            "title": "Azur Lane: Bisoku Zenshin! Ni!!",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1720/149372l.jpg",
             "score": null
         },
         {
@@ -2331,15 +2307,15 @@
             "score": null
         },
         {
-            "mal_id": 59711,
-            "title": "Shibou Yuugi de Meshi wo Kuu.",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1850/145199l.jpg",
-            "score": null
-        },
-        {
             "mal_id": 60509,
             "title": "Champignon no Majo",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1135/150298l.jpg",
+            "score": null
+        },
+        {
+            "mal_id": 59711,
+            "title": "Shibou Yuugi de Meshi wo Kuu.",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1850/145199l.jpg",
             "score": null
         },
         {
@@ -2439,6 +2415,12 @@
             "score": null
         },
         {
+            "mal_id": 61917,
+            "title": "Towa no Yuugure",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1709/150751l.jpg",
+            "score": null
+        },
+        {
             "mal_id": 60714,
             "title": "Ghost of Tsushima: Legends",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1964/147395l.jpg",
@@ -2457,6 +2439,12 @@
             "score": null
         },
         {
+            "mal_id": 61687,
+            "title": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku.",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1602/149753l.jpg",
+            "score": null
+        },
+        {
             "mal_id": 55034,
             "title": "Takate",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1912/135359l.jpg",
@@ -2466,18 +2454,6 @@
             "mal_id": 55359,
             "title": "Tsurubamiiro no Nagiko-tachi",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1755/135983l.jpg",
-            "score": null
-        },
-        {
-            "mal_id": 61687,
-            "title": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku.",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1602/149753l.jpg",
-            "score": null
-        },
-        {
-            "mal_id": 61917,
-            "title": "Towa no Yuugure",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1709/150751l.jpg",
             "score": null
         },
         {
@@ -2559,6 +2535,12 @@
             "score": null
         },
         {
+            "mal_id": 61608,
+            "title": "Jigoku Sensei Nube (2025) Part 2",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1800/149568l.jpg",
+            "score": null
+        },
+        {
             "mal_id": 35854,
             "title": "Zero Seiki Movie 2: Herlock",
             "cover_src": "https://cdn.myanimelist.net/images/anime/2/86658l.jpg",
@@ -2571,21 +2553,15 @@
             "score": null
         },
         {
-            "mal_id": 60781,
-            "title": "Alma-chan wa Kazoku ni Naritai",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1256/149306l.jpg",
-            "score": null
-        },
-        {
-            "mal_id": 61608,
-            "title": "Jigoku Sensei Nube (2025) Part 2",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1800/149568l.jpg",
-            "score": null
-        },
-        {
             "mal_id": 61587,
             "title": "\"Omae Gotoki ga Maou ni Kateru to Omouna\" to Yuusha Party wo Tsuihou sareta node, Outo de Kimama ni Kurashitai",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1248/150792l.jpg",
+            "score": null
+        },
+        {
+            "mal_id": 60781,
+            "title": "Alma-chan wa Kazoku ni Naritai",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1256/149306l.jpg",
             "score": null
         },
         {
@@ -2601,15 +2577,21 @@
             "score": null
         },
         {
+            "mal_id": 60378,
+            "title": "Shabake",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1560/150692l.jpg",
+            "score": null
+        },
+        {
             "mal_id": 58832,
             "title": "Kujima Utaeba Ie Hororo",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1464/142932l.jpg",
             "score": null
         },
         {
-            "mal_id": 60378,
-            "title": "Shabake",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1560/150692l.jpg",
+            "mal_id": 59217,
+            "title": "Grotesque",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1173/144034l.jpg",
             "score": null
         },
         {
@@ -2631,21 +2613,9 @@
             "score": null
         },
         {
-            "mal_id": 59217,
-            "title": "Grotesque",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1173/144034l.jpg",
-            "score": null
-        },
-        {
             "mal_id": 58820,
             "title": "Awajima Hyakkei",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1889/149784l.jpg",
-            "score": null
-        },
-        {
-            "mal_id": 35855,
-            "title": "Zero Seiki Movie 3: Maetel",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/2/86659l.jpg",
             "score": null
         },
         {
@@ -2655,21 +2625,33 @@
             "score": null
         },
         {
+            "mal_id": 35855,
+            "title": "Zero Seiki Movie 3: Maetel",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/2/86659l.jpg",
+            "score": null
+        },
+        {
+            "mal_id": 61944,
+            "title": "Eleceed",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1868/150829l.jpg",
+            "score": null
+        },
+        {
             "mal_id": 60255,
             "title": "Arne no Jikenbo",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1289/146396l.jpg",
             "score": null
         },
         {
-            "mal_id": 61135,
-            "title": "Giant Ojousama",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1639/148263l.jpg",
-            "score": null
-        },
-        {
             "mal_id": 61425,
             "title": "Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hanashi",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1771/149123l.jpg",
+            "score": null
+        },
+        {
+            "mal_id": 61135,
+            "title": "Giant Ojousama",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1639/148263l.jpg",
             "score": null
         },
         {
@@ -2685,21 +2667,15 @@
             "score": null
         },
         {
-            "mal_id": 60948,
-            "title": "Mezametara Saikyou Soubi to Uchuusenmochi Datta node, Ikkodate Mezashite Youhei toshite Jiyuu ni Ikitai",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1287/147886l.jpg",
-            "score": null
-        },
-        {
             "mal_id": 60726,
             "title": "My Melody & Kuromi",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1964/150532l.jpg",
             "score": null
         },
         {
-            "mal_id": 61944,
-            "title": "Eleceed",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1868/150829l.jpg",
+            "mal_id": 60948,
+            "title": "Mezametara Saikyou Soubi to Uchuusenmochi Datta node, Ikkodate Mezashite Youhei toshite Jiyuu ni Ikitai",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1287/147886l.jpg",
             "score": null
         },
         {
@@ -2763,6 +2739,12 @@
             "score": null
         },
         {
+            "mal_id": 61793,
+            "title": "Yami Shibai 15",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1975/150436l.jpg",
+            "score": null
+        },
+        {
             "mal_id": 61782,
             "title": "Kirei ni Shitemoraemasu ka.",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1380/150401l.jpg",
@@ -2775,9 +2757,9 @@
             "score": null
         },
         {
-            "mal_id": 61793,
-            "title": "Yami Shibai 15",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1975/150436l.jpg",
+            "mal_id": 61773,
+            "title": "Let's Play: Quest-darake no My Life",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1148/150376l.jpg",
             "score": null
         },
         {
@@ -2805,6 +2787,12 @@
             "score": null
         },
         {
+            "mal_id": 61483,
+            "title": "Tenmaku no Jaadugar",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1365/150748l.jpg",
+            "score": null
+        },
+        {
             "mal_id": 58773,
             "title": "Keroro Gunsou Movie",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1012/142805l.jpg",
@@ -2817,21 +2805,9 @@
             "score": null
         },
         {
-            "mal_id": 61483,
-            "title": "Tenmaku no Jaadugar",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1365/150748l.jpg",
-            "score": null
-        },
-        {
             "mal_id": 58756,
             "title": "Killtube",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1972/143492l.jpg",
-            "score": null
-        },
-        {
-            "mal_id": 61773,
-            "title": "Let's Play: Quest-darake no My Life",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1148/150376l.jpg",
             "score": null
         },
         {
@@ -2877,12 +2853,6 @@
             "score": null
         },
         {
-            "mal_id": 54145,
-            "title": "Cardfight!! Vanguard: Divinez Deluxe Kesshou-hen",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1878/150315l.jpg",
-            "score": null
-        },
-        {
             "mal_id": 61770,
             "title": "Kono Hon wo Nusumu Mono wa",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1895/150372l.jpg",
@@ -2901,27 +2871,33 @@
             "score": null
         },
         {
-            "mal_id": 44060,
-            "title": "Bai She Chuan: Bai Suzhen",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1703/110286l.jpg",
-            "score": null
-        },
-        {
             "mal_id": 61742,
             "title": "Dekichau made Kon",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1453/150262l.jpg",
             "score": null
         },
         {
-            "mal_id": 40242,
-            "title": "Idomo",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1059/102541l.jpg",
+            "mal_id": 44060,
+            "title": "Bai She Chuan: Bai Suzhen",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1703/110286l.jpg",
             "score": null
         },
         {
             "mal_id": 61367,
             "title": "Tooi-san wa Seishun Shitai! Baka to Smartphone to Romance to",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1199/150750l.jpg",
+            "score": null
+        },
+        {
+            "mal_id": 61952,
+            "title": "Luo Xiao Hei Zhan Ji 2",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1505/150847l.jpg",
+            "score": null
+        },
+        {
+            "mal_id": 40242,
+            "title": "Idomo",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1059/102541l.jpg",
             "score": null
         },
         {
@@ -2949,9 +2925,9 @@
             "score": null
         },
         {
-            "mal_id": 60852,
-            "title": "Koori no Jouheki",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1576/147762l.jpg",
+            "mal_id": 61754,
+            "title": "S-Rank Party kara Kaiko sareta \"Jugushi\"",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1214/150287l.jpg",
             "score": null
         },
         {
@@ -2961,9 +2937,9 @@
             "score": null
         },
         {
-            "mal_id": 61754,
-            "title": "S-Rank Party kara Kaiko sareta \"Jugushi\"",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1214/150287l.jpg",
+            "mal_id": 60852,
+            "title": "Koori no Jouheki",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1576/147762l.jpg",
             "score": null
         },
         {
@@ -2973,15 +2949,15 @@
             "score": null
         },
         {
-            "mal_id": 59787,
-            "title": "Romelia Senki",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1462/145387l.jpg",
-            "score": null
-        },
-        {
             "mal_id": 60562,
             "title": "Bai Yao Pu 5th Season",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1015/149994l.jpg",
+            "score": null
+        },
+        {
+            "mal_id": 59787,
+            "title": "Romelia Senki",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1462/145387l.jpg",
             "score": null
         },
         {
@@ -2991,21 +2967,15 @@
             "score": null
         },
         {
-            "mal_id": 61952,
-            "title": "Luo Xiao Hei Zhan Ji 2",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1505/150847l.jpg",
+            "mal_id": 61084,
+            "title": "Hikuidori: Ushuu Boro Tobi-gumi",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1887/148147l.jpg",
             "score": null
         },
         {
             "mal_id": 59176,
             "title": "Mahou no Shimai Lulluto Lilly",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1774/143806l.jpg",
-            "score": null
-        },
-        {
-            "mal_id": 61084,
-            "title": "Hikuidori: Ushuu Boro Tobi-gumi",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1887/148147l.jpg",
             "score": null
         },
         {
@@ -3045,15 +3015,21 @@
             "score": null
         },
         {
+            "mal_id": 58849,
+            "title": "Garena Free Fire",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1708/150892l.jpg",
+            "score": null
+        },
+        {
             "mal_id": 60862,
             "title": "Crayon Shin-chan Movie 33: Chou Karei! Shakunetsu no Kasukabe Dancers",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1955/150272l.jpg",
             "score": null
         },
         {
-            "mal_id": 58849,
-            "title": "Garena Free Fire",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1933/143090l.jpg",
+            "mal_id": 57353,
+            "title": "Mofa Gongzhu de Xiao Fannao",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1289/149565l.jpg",
             "score": null
         },
         {
@@ -3063,9 +3039,9 @@
             "score": null
         },
         {
-            "mal_id": 57353,
-            "title": "Mofa Gongzhu de Xiao Fannao",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1289/149565l.jpg",
+            "mal_id": 61139,
+            "title": "As One",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1061/148282l.jpg",
             "score": null
         },
         {
@@ -3078,12 +3054,6 @@
             "mal_id": 60153,
             "title": "Rilakkuma",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1327/146160l.jpg",
-            "score": null
-        },
-        {
-            "mal_id": 61139,
-            "title": "As One",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1061/148282l.jpg",
             "score": null
         },
         {
@@ -3111,6 +3081,12 @@
             "score": null
         },
         {
+            "mal_id": 61846,
+            "title": "Shuukan Ranobe Anime",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1260/150826l.jpg",
+            "score": null
+        },
+        {
             "mal_id": 61319,
             "title": "Sono Keisatsukan, Tokidoki Yajuu!",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1572/148841l.jpg",
@@ -3132,12 +3108,6 @@
             "mal_id": 55143,
             "title": "Hidari",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1473/135777l.jpg",
-            "score": null
-        },
-        {
-            "mal_id": 61846,
-            "title": "Shuukan Ranobe Anime",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1260/150826l.jpg",
             "score": null
         },
         {
@@ -3165,15 +3135,15 @@
             "score": null
         },
         {
-            "mal_id": 57150,
-            "title": "Creature Hunters",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1274/139625l.jpg",
-            "score": null
-        },
-        {
             "mal_id": 61886,
             "title": "Goumon Baito-kun no Nichijou",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1845/150648l.jpg",
+            "score": null
+        },
+        {
+            "mal_id": 57150,
+            "title": "Creature Hunters",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1274/139625l.jpg",
             "score": null
         },
         {
@@ -3189,9 +3159,9 @@
             "score": null
         },
         {
-            "mal_id": 60020,
-            "title": "Yeon-ui Pyeonji",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1262/145875l.jpg",
+            "mal_id": 61561,
+            "title": "Cang Lan Jue 2",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1784/149998l.jpg",
             "score": null
         },
         {
@@ -3201,15 +3171,21 @@
             "score": null
         },
         {
-            "mal_id": 61561,
-            "title": "Cang Lan Jue 2",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1784/149998l.jpg",
+            "mal_id": 60020,
+            "title": "Yeon-ui Pyeonji",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1262/145875l.jpg",
             "score": null
         },
         {
             "mal_id": 61756,
             "title": "Gacha wo Mawashite Nakama wo Fuyasu: Saikyou no Bishoujo Gundan wo Tsukuriagero",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1868/150293l.jpg",
+            "score": null
+        },
+        {
+            "mal_id": 61943,
+            "title": "Haibara-kun no Tsuyokute Seishun New Game",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1108/150819l.jpg",
             "score": null
         },
         {
@@ -3240,12 +3216,6 @@
             "mal_id": 61140,
             "title": "Gensou Suikoden",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1971/148283l.jpg",
-            "score": null
-        },
-        {
-            "mal_id": 61943,
-            "title": "Haibara-kun no Tsuyokute Seishun New Game",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1108/150819l.jpg",
             "score": null
         },
         {
@@ -3291,21 +3261,27 @@
             "score": null
         },
         {
-            "mal_id": 49984,
-            "title": "Wu Tian Yu Shang 2035",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1574/118427l.jpg",
-            "score": null
-        },
-        {
             "mal_id": 60426,
             "title": "Huyao Xiao Hongniang: Huang Feng Ling Pian",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1049/146765l.jpg",
             "score": null
         },
         {
+            "mal_id": 49984,
+            "title": "Wu Tian Yu Shang 2035",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1574/118427l.jpg",
+            "score": null
+        },
+        {
             "mal_id": 61610,
             "title": "Yuan Zun (2027)",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1802/149577l.jpg",
+            "score": null
+        },
+        {
+            "mal_id": 60563,
+            "title": "Ye de Mingming Shu",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1328/149948l.jpg",
             "score": null
         },
         {
@@ -3339,27 +3315,21 @@
             "score": null
         },
         {
-            "mal_id": 60563,
-            "title": "Ye de Mingming Shu",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1328/149948l.jpg",
-            "score": null
-        },
-        {
             "mal_id": 59631,
             "title": "Juan Siliang 3rd Season",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1457/145028l.jpg",
             "score": null
         },
         {
-            "mal_id": 61557,
-            "title": "Nitian Xie Shen 2nd Season",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1135/149505l.jpg",
-            "score": null
-        },
-        {
             "mal_id": 61789,
             "title": "Shachiku Cinderella",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1583/150450l.jpg",
+            "score": null
+        },
+        {
+            "mal_id": 61557,
+            "title": "Nitian Xie Shen 2nd Season",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1135/149505l.jpg",
             "score": null
         },
         {
@@ -3375,21 +3345,15 @@
             "score": null
         },
         {
-            "mal_id": 56891,
-            "title": "Nappeungyejibae",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1606/139059l.jpg",
-            "score": null
-        },
-        {
             "mal_id": 61617,
             "title": "Lang Lang Shan Xiao Yaoguai",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1540/149587l.jpg",
             "score": null
         },
         {
-            "mal_id": 49983,
-            "title": "Waixingren Shi Riji",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1672/118425l.jpg",
+            "mal_id": 56891,
+            "title": "Nappeungyejibae",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1606/139059l.jpg",
             "score": null
         },
         {
@@ -3399,15 +3363,33 @@
             "score": null
         },
         {
+            "mal_id": 60586,
+            "title": "Kaiju Ditan Mai Dali",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1751/147078l.jpg",
+            "score": null
+        },
+        {
+            "mal_id": 49983,
+            "title": "Waixingren Shi Riji",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1672/118425l.jpg",
+            "score": null
+        },
+        {
             "mal_id": 61073,
             "title": "Utahime Dream",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1644/148123l.jpg",
             "score": null
         },
         {
-            "mal_id": 60586,
-            "title": "Kaiju Ditan Mai Dali",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1751/147078l.jpg",
+            "mal_id": 61964,
+            "title": "Meikyuu no Shiori",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1834/150858l.jpg",
+            "score": null
+        },
+        {
+            "mal_id": 61983,
+            "title": "Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita.",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1270/150881l.jpg",
             "score": null
         },
         {
@@ -3435,15 +3417,21 @@
             "score": null
         },
         {
+            "mal_id": 61966,
+            "title": "Project M",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1552/150863l.jpg",
+            "score": null
+        },
+        {
             "mal_id": 61119,
             "title": "Duel Masters LOST: Boukyaku no Taiyou",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1250/148232l.jpg",
             "score": null
         },
         {
-            "mal_id": 61964,
-            "title": "Meikyuu no Shiori",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1834/150858l.jpg",
+            "mal_id": 61909,
+            "title": "Koushoku no Chuugi Kunoichi Botan",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1508/150717l.jpg",
             "score": null
         },
         {
@@ -3453,15 +3441,15 @@
             "score": null
         },
         {
-            "mal_id": 60569,
-            "title": "Zhongguo Qi Tan 2",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1536/147048l.jpg",
+            "mal_id": 61911,
+            "title": "Kyou wa Yubiwa wo Hazusu kara......",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1381/150728l.jpg",
             "score": null
         },
         {
-            "mal_id": 61909,
-            "title": "Koushoku no Chuugi Kunoichi Botan",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1508/150717l.jpg",
+            "mal_id": 60569,
+            "title": "Zhongguo Qi Tan 2",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1536/147048l.jpg",
             "score": null
         },
         {
@@ -3483,15 +3471,9 @@
             "score": null
         },
         {
-            "mal_id": 61911,
-            "title": "Kyou wa Yubiwa wo Hazusu kara......",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1381/150728l.jpg",
-            "score": null
-        },
-        {
-            "mal_id": 60582,
-            "title": "Cengjing You Yongshi",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1518/147074l.jpg",
+            "mal_id": 61910,
+            "title": "Mujin Eki The Animation",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1565/150718l.jpg",
             "score": null
         },
         {
@@ -3501,9 +3483,9 @@
             "score": null
         },
         {
-            "mal_id": 61910,
-            "title": "Mujin Eki The Animation",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1565/150718l.jpg",
+            "mal_id": 60582,
+            "title": "Cengjing You Yongshi",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1518/147074l.jpg",
             "score": null
         },
         {
@@ -3525,9 +3507,27 @@
             "score": null
         },
         {
-            "mal_id": 61621,
-            "title": "Yun Shen Buzhi Meng",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1897/150259l.jpg",
+            "mal_id": 61935,
+            "title": "Pure Pure Pero Pero Princess",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1411/150803l.jpg",
+            "score": null
+        },
+        {
+            "mal_id": 61936,
+            "title": "Kore tte Naani?",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1470/150809l.jpg",
+            "score": null
+        },
+        {
+            "mal_id": 61937,
+            "title": "Kiken na Mori Onigokko",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1881/150810l.jpg",
+            "score": null
+        },
+        {
+            "mal_id": 61751,
+            "title": "Liaozhai: Lanre Si",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1184/150284l.jpg",
             "score": null
         },
         {
@@ -3543,45 +3543,9 @@
             "score": null
         },
         {
-            "mal_id": 61290,
-            "title": "Punirunes: Puni 3",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1095/150294l.jpg",
-            "score": null
-        },
-        {
-            "mal_id": 61966,
-            "title": "Project M",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1552/150863l.jpg",
-            "score": null
-        },
-        {
             "mal_id": 60579,
             "title": "Jian Wang 3: Shen Jianxin de 365 Tian",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1125/147071l.jpg",
-            "score": null
-        },
-        {
-            "mal_id": 61751,
-            "title": "Liaozhai: Lanre Si",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1184/150284l.jpg",
-            "score": null
-        },
-        {
-            "mal_id": 61936,
-            "title": "Kore tte Naani?",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1470/150809l.jpg",
-            "score": null
-        },
-        {
-            "mal_id": 61935,
-            "title": "Pure Pure Pero Pero Princess",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1411/150803l.jpg",
-            "score": null
-        },
-        {
-            "mal_id": 61937,
-            "title": "Kiken na Mori Onigokko",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1881/150810l.jpg",
             "score": null
         },
         {
@@ -3609,15 +3573,15 @@
             "score": null
         },
         {
-            "mal_id": 60571,
-            "title": "Jiang Ye",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1846/147052l.jpg",
-            "score": null
-        },
-        {
             "mal_id": 60581,
             "title": "Xin Yichang Shengwu Jianwen Lu: Xu",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1345/147073l.jpg",
+            "score": null
+        },
+        {
+            "mal_id": 60571,
+            "title": "Jiang Ye",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1846/147052l.jpg",
             "score": null
         },
         {
@@ -3645,9 +3609,9 @@
             "score": null
         },
         {
-            "mal_id": 61731,
-            "title": "Gakkou de wa Oshiete Kurenai Taisetsu na Koto",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1791/149887l.jpg",
+            "mal_id": 61950,
+            "title": "Fei Ren Zai 3rd Season",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1333/150844l.jpg",
             "score": null
         },
         {
@@ -3663,15 +3627,15 @@
             "score": null
         },
         {
-            "mal_id": 61563,
-            "title": "Wan Xiang Zhi Wang",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1976/149540l.jpg",
-            "score": null
-        },
-        {
             "mal_id": 61640,
             "title": "Zi Jin: Yu Miao Fang",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1830/149658l.jpg",
+            "score": null
+        },
+        {
+            "mal_id": 61563,
+            "title": "Wan Xiang Zhi Wang",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1976/149540l.jpg",
             "score": null
         },
         {
@@ -3687,33 +3651,9 @@
             "score": null
         },
         {
-            "mal_id": 61950,
-            "title": "Fei Ren Zai 3rd Season",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1333/150844l.jpg",
-            "score": null
-        },
-        {
-            "mal_id": 60580,
-            "title": "Xuan Jie Zhi Men",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1586/147072l.jpg",
-            "score": null
-        },
-        {
             "mal_id": 61565,
             "title": "Aoshi Dan Shen",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1847/149543l.jpg",
-            "score": null
-        },
-        {
-            "mal_id": 61651,
-            "title": "Jian Ke",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1833/149703l.jpg",
-            "score": null
-        },
-        {
-            "mal_id": 61649,
-            "title": "Caishen Dou Zhanlong",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1798/149675l.jpg",
             "score": null
         },
         {
@@ -3723,9 +3663,15 @@
             "score": null
         },
         {
-            "mal_id": 61619,
-            "title": "Zeri Feisheng",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1252/149604l.jpg",
+            "mal_id": 61651,
+            "title": "Jian Ke",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1833/149703l.jpg",
+            "score": null
+        },
+        {
+            "mal_id": 60580,
+            "title": "Xuan Jie Zhi Men",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1586/147072l.jpg",
             "score": null
         },
         {
@@ -3735,15 +3681,15 @@
             "score": null
         },
         {
-            "mal_id": 61646,
-            "title": "Zi Heian Zhong Zou Lai",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1059/149671l.jpg",
+            "mal_id": 61649,
+            "title": "Caishen Dou Zhanlong",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1798/149675l.jpg",
             "score": null
         },
         {
-            "mal_id": 61254,
-            "title": "Ugoku! Neko Mukashibanashi",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1765/150451l.jpg",
+            "mal_id": 61619,
+            "title": "Zeri Feisheng",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1252/149604l.jpg",
             "score": null
         },
         {
@@ -3753,9 +3699,21 @@
             "score": null
         },
         {
+            "mal_id": 61646,
+            "title": "Zi Heian Zhong Zou Lai",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1059/149671l.jpg",
+            "score": null
+        },
+        {
             "mal_id": 61924,
             "title": "Muzik Tiger In the Forest 2nd Season",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1538/150777l.jpg",
+            "score": null
+        },
+        {
+            "mal_id": 61254,
+            "title": "Ugoku! Neko Mukashibanashi",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1765/150451l.jpg",
             "score": null
         },
         {
@@ -3771,6 +3729,18 @@
             "score": null
         },
         {
+            "mal_id": 61790,
+            "title": "Kakurenbo The Animation",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1577/150879l.jpg",
+            "score": null
+        },
+        {
+            "mal_id": 61611,
+            "title": "Ye Wujiang",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1815/149950l.jpg",
+            "score": null
+        },
+        {
             "mal_id": 61613,
             "title": "Wo You Yi Jian",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1803/149961l.jpg",
@@ -3783,12 +3753,6 @@
             "score": null
         },
         {
-            "mal_id": 61611,
-            "title": "Ye Wujiang",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1815/149950l.jpg",
-            "score": null
-        },
-        {
             "mal_id": 59895,
             "title": "Danbi wa Kkaebi",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1008/145673l.jpg",
@@ -3798,6 +3762,12 @@
             "mal_id": 61569,
             "title": "Bei Xue",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1978/149552l.jpg",
+            "score": null
+        },
+        {
+            "mal_id": 61969,
+            "title": "Saioshi no Gikei wo Mederu Tame, Nagaiki shimasu!",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1619/150867l.jpg",
             "score": null
         },
         {
@@ -3837,27 +3807,21 @@
             "score": null
         },
         {
-            "mal_id": 61644,
-            "title": "Chang An Du Wu Si",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1533/149667l.jpg",
-            "score": null
-        },
-        {
             "mal_id": 61948,
             "title": "Zhege Nianji Huan Neng Dang Daxia Ma 2nd Season",
             "cover_src": "https://cdn.myanimelist.net/images/anime/1211/150841l.jpg",
             "score": null
         },
         {
-            "mal_id": 61951,
-            "title": "Ruguo Lishi Shi Yiqun Miao: Yuan Mo Ming Chu Pian",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1616/150846l.jpg",
+            "mal_id": 61644,
+            "title": "Chang An Du Wu Si",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1533/149667l.jpg",
             "score": null
         },
         {
-            "mal_id": 61969,
-            "title": "Saioshi no Gikei wo Mederu Tame, Nagaiki shimasu!",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1619/150867l.jpg",
+            "mal_id": 61951,
+            "title": "Ruguo Lishi Shi Yiqun Miao: Yuan Mo Ming Chu Pian",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1616/150846l.jpg",
             "score": null
         },
         {
@@ -3879,21 +3843,21 @@
             "score": null
         },
         {
-            "mal_id": 61987,
-            "title": "Kusuriya no Hitorigoto (Zoku-hen)",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1508/150885l.jpg",
+            "mal_id": 62001,
+            "title": "Yomi no Tsugai",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1961/150909l.jpg",
             "score": null
         },
         {
-            "mal_id": 61990,
-            "title": "Cyberpunk: Edgerunners II",
-            "cover_src": "https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png",
+            "mal_id": 61999,
+            "title": "Shuiro no Kamen",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1668/150903l.jpg",
             "score": null
         },
         {
-            "mal_id": 61983,
-            "title": "Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita.",
-            "cover_src": "https://cdn.myanimelist.net/images/anime/1270/150881l.jpg",
+            "mal_id": 62000,
+            "title": "Akuyaku Reijou wa Ringoku no Outaishi ni Dekiai sareru",
+            "cover_src": "https://cdn.myanimelist.net/images/anime/1957/150905l.jpg",
             "score": null
         }
     ]
