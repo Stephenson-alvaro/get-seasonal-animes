@@ -4,6 +4,18 @@ import asyncio
 from googletrans import Translator
 import time
 
+# Dictionnaire pour traduire les jours en français
+JOUR_FR = {
+    "Monday": "Lundi",
+    "Tuesday": "Mardi",
+    "Wednesday": "Mercredi",
+    "Thursday": "Jeudi",
+    "Friday": "Vendredi",
+    "Saturday": "Samedi",
+    "Sunday": "Dimanche",
+    None: "Inconnu"
+}
+
 def fetch_season_anime(season_type):
     all_anime, page = [], 1
     while True:
@@ -34,12 +46,17 @@ async def extract_info(anime, translator):
     synopsis = anime.get("synopsis") or ""
     res = await translator.translate(synopsis, src="en", dest="fr") if synopsis else None
     text_fr = res.text if res and hasattr(res, "text") else ""
+
+    # Traduire le jour en français
+    jour_en = anime.get("broadcast", {}).get("day")
+    jour_fr = JOUR_FR.get(jour_en, "Inconnu")
+
     return {
         "mal_id": anime.get("mal_id"),
         "title": anime.get("title"),
         "cover_src": anime.get("images", {}).get("jpg", {}).get("large_image_url"),
         "score": anime.get("score"),
-        "broadcast_day": anime.get("broadcast", {}).get("day")  # ✅ ajout ici uniquement
+        "broadcast_day": jour_fr  # ✅ version française ici
     }
 
 async def process(season_type, translator):
