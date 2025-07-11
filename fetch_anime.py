@@ -6,13 +6,13 @@ import time
 
 # Dictionnaire pour traduire les jours en français
 JOUR_FR = {
-    "Monday": "Lundi",
-    "Tuesday": "Mardi",
-    "Wednesday": "Mercredi",
-    "Thursday": "Jeudi",
-    "Friday": "Vendredi",
-    "Saturday": "Samedi",
-    "Sunday": "Dimanche",
+    "Mondays": "Lundi",
+    "Tuesdays": "Mardi",
+    "Wednesdays": "Mercredi",
+    "Thursdays": "Jeudi",
+    "Fridays": "Vendredi",
+    "Saturdays": "Samedi",
+    "Sundays": "Dimanche",
     None: "Inconnu"
 }
 
