@@ -38,7 +38,8 @@ async def extract_info(anime, translator):
         "mal_id": anime.get("mal_id"),
         "title": anime.get("title"),
         "cover_src": anime.get("images", {}).get("jpg", {}).get("large_image_url"),
-        "score": anime.get("score")
+        "score": anime.get("score"),
+        "broadcast_day": anime.get("broadcast", {}).get("day")  # ✅ ajout ici uniquement
     }
 
 async def process(season_type, translator):
@@ -61,4 +62,3 @@ async def main():
 
 if __name__ == "__main__":
     asyncio.run(main())
-
